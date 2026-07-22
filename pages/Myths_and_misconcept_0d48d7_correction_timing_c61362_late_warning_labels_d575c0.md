@@ -372,7 +372,7 @@ The strongest approaches typically combine multiple layers of intervention:
           <a href="https://www.amazon.com/s?k=Calling+Bullshit+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Calling Bullshit">Calling Bullshit</a>
         </h4>
         <p class="fr-book-author">By Carl T. Bergstrom, Jevin D. West</p>
-        
+
         <p class="fr-book-desc">Bullshit isn’t what it used to be. Now, two science professors give us the tools to dismantle misinformation and think clearly in a world...</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Calling+Bullshit+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -389,7 +389,7 @@ The strongest approaches typically combine multiple layers of intervention:
           <a href="https://www.amazon.com/s?k=Likewar+Peter+Warren+Singer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Likewar">Likewar</a>
         </h4>
         <p class="fr-book-author">By Peter Warren Singer, Emerson T. Brooking</p>
-        
+
         <p class="fr-book-desc">Social media has been weaponized, as state hackers and rogue terrorists have seized upon Twitter and Facebook to create chaos and destruc...</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Likewar+Peter+Warren+Singer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -406,7 +406,7 @@ The strongest approaches typically combine multiple layers of intervention:
           <a href="https://www.amazon.com/s?k=The+Psychology+of+Fake+News+Rainer+Greifeneder&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Psychology of Fake News">The Psychology of Fake News</a>
         </h4>
         <p class="fr-book-author">By Rainer Greifeneder, Mariela Jaffe et al.</p>
-        
+
         <p class="fr-book-desc">This volume examines the phenomenon of fake news by bringing together leading experts from different fields within psychology and related...</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Psychology+of+Fake+News+Rainer+Greifeneder&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -423,7 +423,7 @@ The strongest approaches typically combine multiple layers of intervention:
           <a href="https://www.amazon.com/s?k=Foolproof+Sander+Van+Der+Linden&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Foolproof">Foolproof</a>
         </h4>
         <p class="fr-book-author">By Sander Van Der Linden</p>
-        
+
         <p class="fr-book-desc">First published 2023.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Foolproof+Sander+Van+Der+Linden&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

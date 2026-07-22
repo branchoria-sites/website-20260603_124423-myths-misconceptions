@@ -386,7 +386,7 @@ The broader lesson is that misinformation is not always defeated by supplying mo
           <a href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Third+Edition+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mistakes Were Made (but Not by Me) Third Edition">Mistakes Were Made (but Not by Me) Third Edition</a>
         </h4>
         <p class="fr-book-author">By Carol Tavris, Elliot Aronson</p>
-        
+
         <p class="fr-book-desc">Renowned social psychologists Carol Tavris and Elliot Aronson take a compelling look into how the brain is wired for self-justification....</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Third+Edition+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -403,7 +403,7 @@ The broader lesson is that misinformation is not always defeated by supplying mo
           <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
         </h4>
         <p class="fr-book-author">By Daniel Kahneman</p>
-        
+
         <p class="fr-book-desc">No Marketing Blurb</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -420,7 +420,7 @@ The broader lesson is that misinformation is not always defeated by supplying mo
           <a href="https://www.amazon.com/s?k=The+Righteous+Mind+Jonathan+Haidt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Righteous Mind">The Righteous Mind</a>
         </h4>
         <p class="fr-book-author">By Jonathan Haidt</p>
-        
+
         <p class="fr-book-desc">First published 2012. Subjects: Political psychology, Social psychology, Ethics, Religious Psychology, nyt:combined-print-and-e-book-nonf...</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Righteous+Mind+Jonathan+Haidt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -437,7 +437,7 @@ The broader lesson is that misinformation is not always defeated by supplying mo
           <a href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28But+Not+by+Me%29+Carol+Tavris%2C+Elliot+Aronson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mistakes Were Made (But Not by Me)">Mistakes Were Made (But Not by Me)</a>
         </h4>
         <p class="fr-book-author">By Carol Tavris, Elliot Aronson</p>
-        
+
         <p class="fr-book-desc">First published 2007. Subjects: Fouten, Vergissingen, Cognitive dissonance, Self-deception, Rechtvaardiging.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28But+Not+by+Me%29+Carol+Tavris%2C+Elliot+Aronson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

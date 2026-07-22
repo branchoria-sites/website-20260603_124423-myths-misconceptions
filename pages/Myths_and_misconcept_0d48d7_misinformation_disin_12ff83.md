@@ -595,7 +595,7 @@ The most defensible approach is proportionate. Correct misinformation with clari
           <a href="https://www.amazon.com/s?k=Calling+Bullshit+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Calling Bullshit">Calling Bullshit</a>
         </h4>
         <p class="fr-book-author">By Carl T. Bergstrom, Jevin D. West</p>
-        
+
         <p class="fr-book-desc">Bullshit isn’t what it used to be. Now, two science professors give us the tools to dismantle misinformation and think clearly in a world...</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Calling+Bullshit+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -612,7 +612,7 @@ The most defensible approach is proportionate. Correct misinformation with clari
           <a href="https://www.amazon.com/s?k=The+Constitution+of+Knowledge+Jonathan+Rauch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Constitution of Knowledge">The Constitution of Knowledge</a>
         </h4>
         <p class="fr-book-author">By Jonathan Rauch</p>
-        
+
         <p class="fr-book-desc">Arming Americans to defend the truth from today&#x27;s war on facts In what could be the timeliest book of the year, Rauch aims to arm his rea...</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Constitution+of+Knowledge+Jonathan+Rauch&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -629,7 +629,7 @@ The most defensible approach is proportionate. Correct misinformation with clari
           <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
         </h4>
         <p class="fr-book-author">By Daniel Kahneman</p>
-        
+
         <p class="fr-book-desc">No Marketing Blurb</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -646,7 +646,7 @@ The most defensible approach is proportionate. Correct misinformation with clari
           <a href="https://www.amazon.com/s?k=The+Death+of+Truth+%5BHardcover%5D+Michiko+Kakutani+michiko+kakutani&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Death of Truth [Hardcover] Michiko Kakutani">The Death of Truth [Hardcover] Michiko Kakutani</a>
         </h4>
         <p class="fr-book-author">By michiko kakutani</p>
-        
+
         <p class="fr-book-desc">First published 2018. Subjects: United states, politics and government, 2017-2021, Political culture, Truth.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Death+of+Truth+%5BHardcover%5D+Michiko+Kakutani+michiko+kakutani&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

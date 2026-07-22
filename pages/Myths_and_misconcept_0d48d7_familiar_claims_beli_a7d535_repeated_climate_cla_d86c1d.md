@@ -365,7 +365,7 @@ That distinction helps explain why persistent climate myths can survive in publi
           <a href="https://www.amazon.com/s?k=Calling+Bullshit+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Calling Bullshit">Calling Bullshit</a>
         </h4>
         <p class="fr-book-author">By Carl T. Bergstrom, Jevin D. West</p>
-        
+
         <p class="fr-book-desc">Bullshit isn’t what it used to be. Now, two science professors give us the tools to dismantle misinformation and think clearly in a world...</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Calling+Bullshit+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -382,7 +382,7 @@ That distinction helps explain why persistent climate myths can survive in publi
           <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
         </h4>
         <p class="fr-book-author">By Daniel Kahneman</p>
-        
+
         <p class="fr-book-desc">No Marketing Blurb</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -399,7 +399,7 @@ That distinction helps explain why persistent climate myths can survive in publi
           <a href="https://www.amazon.com/s?k=Factfulness+Hans+Rosling&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Factfulness">Factfulness</a>
         </h4>
         <p class="fr-book-author">By Hans Rosling, Ola Rosling et al.</p>
-        
+
         <p class="fr-book-desc">When asked simple questions about global trends -- what percentage of the world&#x27;s population live in poverty; why the world&#x27;s population...</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Factfulness+Hans+Rosling&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -416,7 +416,7 @@ That distinction helps explain why persistent climate myths can survive in publi
           <a href="https://www.amazon.com/s?k=Merchants+of+Doubt+Naomi+Oreskes%2C+Erik+M.+Conway&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Merchants of Doubt">Merchants of Doubt</a>
         </h4>
         <p class="fr-book-author">By Naomi Oreskes, Erik M. Conway</p>
-        
+
         <p class="fr-book-desc">First published 2010. Subjects: Moral and ethical aspects, Science news, Democracy and science, Scientists, Professional ethics.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Merchants+of+Doubt+Naomi+Oreskes%2C+Erik+M.+Conway&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

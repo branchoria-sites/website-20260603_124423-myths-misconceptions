@@ -623,7 +623,7 @@ The central test is simple: does the professional packaging make the evidence cl
           <a href="https://www.amazon.com/s?k=Why+Don%27t+Students+Like+School%3F+Daniel+T.+Willingham&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Why Don&#x27;t Students Like School?">Why Don&#x27;t Students Like School?</a>
         </h4>
         <p class="fr-book-author">By Daniel T. Willingham</p>
-        
+
         <p class="fr-book-desc">Research-based insights and practical advice about effective learning strategies In this new edition of the highly regarded Why Don&#x27;t Stu...</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Why+Don%27t+Students+Like+School%3F+Daniel+T.+Willingham&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -640,7 +640,7 @@ The central test is simple: does the professional packaging make the evidence cl
           <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
         </h4>
         <p class="fr-book-author">By Daniel Kahneman</p>
-        
+
         <p class="fr-book-desc">No Marketing Blurb</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -657,7 +657,7 @@ The central test is simple: does the professional packaging make the evidence cl
           <a href="https://www.amazon.com/s?k=Bad+Science+Ben+Goldacre&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Bad Science">Bad Science</a>
         </h4>
         <p class="fr-book-author">By Ben Goldacre</p>
-        
+
         <p class="fr-book-desc">Ben Goldacre takes us on a journey through the bad science we are fed daily by hacks and quacks.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Bad+Science+Ben+Goldacre&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -674,7 +674,7 @@ The central test is simple: does the professional packaging make the evidence cl
           <a href="https://www.amazon.com/s?k=Seven+Myths+about+Education+Unknown+author&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Seven Myths about Education">Seven Myths about Education</a>
         </h4>
         <p class="fr-book-author">By Unknown author</p>
-        
+
         <p class="fr-book-desc">Directly examines popular educational misconceptions and evidence.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Seven+Myths+about+Education+Unknown+author&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

@@ -384,7 +384,7 @@ When a specific rumour can be anticipated, direct warnings can be highly effecti
           <a href="https://www.amazon.com/s?k=Calling+Bullshit+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Calling Bullshit">Calling Bullshit</a>
         </h4>
         <p class="fr-book-author">By Carl T. Bergstrom, Jevin D. West</p>
-        
+
         <p class="fr-book-desc">Bullshit isn’t what it used to be. Now, two science professors give us the tools to dismantle misinformation and think clearly in a world...</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Calling+Bullshit+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -401,7 +401,7 @@ When a specific rumour can be anticipated, direct warnings can be highly effecti
           <a href="https://www.amazon.com/s?k=The+Psychology+of+Fake+News+Rainer+Greifeneder&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Psychology of Fake News">The Psychology of Fake News</a>
         </h4>
         <p class="fr-book-author">By Rainer Greifeneder, Mariela Jaffe et al.</p>
-        
+
         <p class="fr-book-desc">This volume examines the phenomenon of fake news by bringing together leading experts from different fields within psychology and related...</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Psychology+of+Fake+News+Rainer+Greifeneder&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -418,7 +418,7 @@ When a specific rumour can be anticipated, direct warnings can be highly effecti
           <a href="https://www.amazon.com/s?k=Foolproof+Sander+Van+Der+Linden&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Foolproof">Foolproof</a>
         </h4>
         <p class="fr-book-author">By Sander Van Der Linden</p>
-        
+
         <p class="fr-book-desc">First published 2023.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Foolproof+Sander+Van+Der+Linden&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -435,7 +435,7 @@ When a specific rumour can be anticipated, direct warnings can be highly effecti
           <a href="https://www.amazon.com/s?k=Influence+Robert+B.+Cialdini&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Influence">Influence</a>
         </h4>
         <p class="fr-book-author">By Robert B. Cialdini</p>
-        
+
         <p class="fr-book-desc">This is a Summary of the original book, Influence: The Psychology of Persuasion by Robert Cialdini.The book is an authoritative work on t...</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Influence+Robert+B.+Cialdini&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

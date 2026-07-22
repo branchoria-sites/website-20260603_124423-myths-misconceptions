@@ -425,7 +425,7 @@ In misinformation correction, framing is not a cosmetic choice. The opening sent
           <a href="https://www.amazon.com/s?k=Calling+Bullshit+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Calling Bullshit">Calling Bullshit</a>
         </h4>
         <p class="fr-book-author">By Carl T. Bergstrom, Jevin D. West</p>
-        
+
         <p class="fr-book-desc">Bullshit isn’t what it used to be. Now, two science professors give us the tools to dismantle misinformation and think clearly in a world...</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Calling+Bullshit+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -442,7 +442,7 @@ In misinformation correction, framing is not a cosmetic choice. The opening sent
           <a href="https://www.amazon.com/s?k=The+Elements+of+Journalism+Bill+Kovach&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Elements of Journalism">The Elements of Journalism</a>
         </h4>
         <p class="fr-book-author">By Bill Kovach, Tom Rosenstiel</p>
-        
+
         <p class="fr-book-desc">Ten years ago, the Committee of Concerned Journalists gathered some of America&#x27;s most influential newspeople to ask the question, &quot;What i...</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Elements+of+Journalism+Bill+Kovach&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -459,7 +459,7 @@ In misinformation correction, framing is not a cosmetic choice. The opening sent
           <a href="https://www.amazon.com/s?k=Made+to+Stick+Chip+Heath&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Made to Stick">Made to Stick</a>
         </h4>
         <p class="fr-book-author">By Chip Heath, Dan Heath</p>
-        
+
         <p class="fr-book-desc">Beschrijving van een benadering om ideeën, commercieel of anderszins, te laten aanslaan bij een groot publiek.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Made+to+Stick+Chip+Heath&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -476,7 +476,7 @@ In misinformation correction, framing is not a cosmetic choice. The opening sent
           <a href="https://www.amazon.com/s?k=Don%27t+Think+of+an+Elephant%21+George+Lakoff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Don&#x27;t Think of an Elephant!">Don&#x27;t Think of an Elephant!</a>
         </h4>
         <p class="fr-book-author">By George Lakoff</p>
-        
+
         <p class="fr-book-desc">First published 2004. Subjects: Politics and government, Communication in politics, Progressivism (United States politics), Politische Ko...</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Don%27t+Think+of+an+Elephant%21+George+Lakoff&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

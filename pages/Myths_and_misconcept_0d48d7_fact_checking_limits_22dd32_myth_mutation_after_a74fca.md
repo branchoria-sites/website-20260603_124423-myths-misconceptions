@@ -371,7 +371,7 @@ Understanding myth mutation changes the question from “Was this claim debunked
           <a href="https://www.amazon.com/s?k=Suspicious+Minds+Rob+Brotherton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Suspicious Minds">Suspicious Minds</a>
         </h4>
         <p class="fr-book-author">By Rob Brotherton</p>
-        
+
         <p class="fr-book-desc">Suspicious Minds decodes the psychology of why we all believe in conspiracy theories--some of us just hide it better than others.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Suspicious+Minds+Rob+Brotherton&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -388,7 +388,7 @@ Understanding myth mutation changes the question from “Was this claim debunked
           <a href="https://www.amazon.com/s?k=Calling+Bullshit+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Calling Bullshit">Calling Bullshit</a>
         </h4>
         <p class="fr-book-author">By Carl T. Bergstrom, Jevin D. West</p>
-        
+
         <p class="fr-book-desc">Bullshit isn’t what it used to be. Now, two science professors give us the tools to dismantle misinformation and think clearly in a world...</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Calling+Bullshit+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -405,7 +405,7 @@ Understanding myth mutation changes the question from “Was this claim debunked
           <a href="https://www.amazon.com/s?k=The+Believing+Brain+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Believing Brain">The Believing Brain</a>
         </h4>
         <p class="fr-book-author">By Michael Shermer</p>
-        
+
         <p class="fr-book-desc">Synthesizing thirty years of research, psychologist and science historian, Michael Shermer upends the traditional thinking about how huma...</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Believing+Brain+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -422,7 +422,7 @@ Understanding myth mutation changes the question from “Was this claim debunked
           <a href="https://www.amazon.com/s?k=The+truth+matters+Bruce+R.+Bartlett&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The truth matters">The truth matters</a>
         </h4>
         <p class="fr-book-author">By Bruce R. Bartlett</p>
-        
+
         <p class="fr-book-desc">First published 2017. Subjects: Attribution of news, Journalism, News audiences, History, Journalism, history.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+truth+matters+Bruce+R.+Bartlett&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

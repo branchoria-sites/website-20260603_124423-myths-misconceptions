@@ -422,7 +422,7 @@ The enduring challenge is therefore not only correcting false facts. It is provi
           <a href="https://www.amazon.com/s?k=The+Constitution+of+Knowledge+Jonathan+Rauch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Constitution of Knowledge">The Constitution of Knowledge</a>
         </h4>
         <p class="fr-book-author">By Jonathan Rauch</p>
-        
+
         <p class="fr-book-desc">Arming Americans to defend the truth from today&#x27;s war on facts In what could be the timeliest book of the year, Rauch aims to arm his rea...</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Constitution+of+Knowledge+Jonathan+Rauch&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -439,7 +439,7 @@ The enduring challenge is therefore not only correcting false facts. It is provi
           <a href="https://www.amazon.com/s?k=The+Righteous+Mind+Jonathan+Haidt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Righteous Mind">The Righteous Mind</a>
         </h4>
         <p class="fr-book-author">By Jonathan Haidt</p>
-        
+
         <p class="fr-book-desc">First published 2012. Subjects: Political psychology, Social psychology, Ethics, Religious Psychology, nyt:combined-print-and-e-book-nonf...</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Righteous+Mind+Jonathan+Haidt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -456,7 +456,7 @@ The enduring challenge is therefore not only correcting false facts. It is provi
           <a href="https://www.amazon.com/s?k=How+Minds+Change+David+McRaney&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How Minds Change">How Minds Change</a>
         </h4>
         <p class="fr-book-author">By David McRaney</p>
-        
+
         <p class="fr-book-desc">First published 2019.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=How+Minds+Change+David+McRaney&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -473,7 +473,7 @@ The enduring challenge is therefore not only correcting false facts. It is provi
           <a href="https://www.amazon.com/s?k=Foolproof+Sander+Van+Der+Linden&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Foolproof">Foolproof</a>
         </h4>
         <p class="fr-book-author">By Sander Van Der Linden</p>
-        
+
         <p class="fr-book-desc">First published 2023.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Foolproof+Sander+Van+Der+Linden&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

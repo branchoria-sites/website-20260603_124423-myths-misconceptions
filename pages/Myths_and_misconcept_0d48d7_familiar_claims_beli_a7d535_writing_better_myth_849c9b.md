@@ -457,7 +457,7 @@ That combination is what separates a correction that merely argues from a correc
 <a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Calling Bullshit">Calling Bullshit</a>
 </h4>
 <p class="fr-book-author">By Carl T. Bergstrom, Jevin D. West</p>
-        
+
 <p class="fr-book-desc">Offers practical guidance on challenging false claims.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -474,7 +474,7 @@ That combination is what separates a correction that merely argues from a correc
 <a href="https://www.amazon.com/s?k=Made+to+Stick+by+Chip+Heath&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Made to Stick">Made to Stick</a>
 </h4>
 <p class="fr-book-author">By Chip Heath, Dan Heath</p>
-        
+
 <p class="fr-book-desc">Explains how accurate ideas become memorable.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Made+to+Stick+by+Chip+Heath&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -491,7 +491,7 @@ That combination is what separates a correction that merely argues from a correc
 <a href="https://www.amazon.com/s?k=The+Elements+of+Style+William+Strunk%2C+Jr.&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Elements of Style">The Elements of Style</a>
 </h4>
 <p class="fr-book-author">By William Strunk, Jr., E. B. White et al.</p>
-        
+
 <p class="fr-book-desc">First published 1920. Subjects: reference, Report writing, Rhetoric, Open Syllabus Project, Art d&#x27;écrire.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Elements+of+Style+William+Strunk%2C+Jr.&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -508,7 +508,7 @@ That combination is what separates a correction that merely argues from a correc
 <a href="https://www.amazon.com/s?k=Don%27t+Think+of+an+Elephant%21+George+Lakoff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Don&#x27;t Think of an Elephant!">Don&#x27;t Think of an Elephant!</a>
 </h4>
 <p class="fr-book-author">By George Lakoff</p>
-        
+
 <p class="fr-book-desc">First published 2004. Subjects: Politics and government, Communication in politics, Progressivism (United States politics), Politische Ko...</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Don%27t+Think+of+an+Elephant%21+George+Lakoff&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

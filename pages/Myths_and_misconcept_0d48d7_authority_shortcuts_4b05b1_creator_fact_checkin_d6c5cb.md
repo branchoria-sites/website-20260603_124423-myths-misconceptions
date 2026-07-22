@@ -377,7 +377,7 @@ Within the broader story of myths and misconceptions, creator fact-checking gaps
           <a href="https://www.amazon.com/s?k=Calling+Bullshit+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Calling Bullshit">Calling Bullshit</a>
         </h4>
         <p class="fr-book-author">By Carl T. Bergstrom, Jevin D. West</p>
-        
+
         <p class="fr-book-desc">Bullshit isn’t what it used to be. Now, two science professors give us the tools to dismantle misinformation and think clearly in a world...</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Calling+Bullshit+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -394,7 +394,7 @@ Within the broader story of myths and misconceptions, creator fact-checking gaps
           <a href="https://www.amazon.com/s?k=Scout+Mindset+Julia+Galef&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Scout Mindset">Scout Mindset</a>
         </h4>
         <p class="fr-book-author">By Julia Galef</p>
-        
+
         <p class="fr-book-desc">First published 2021. Subjects: Economics, Psychology, Cognition, Skepticism, Critical thinking.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Scout+Mindset+Julia+Galef&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -411,7 +411,7 @@ Within the broader story of myths and misconceptions, creator fact-checking gaps
           <a href="https://www.amazon.com/s?k=Data+Detective+Tim+Harford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Data Detective">Data Detective</a>
         </h4>
         <p class="fr-book-author">By Tim Harford</p>
-        
+
         <p class="fr-book-desc">First published 2021. Subjects: Statistics, Methodology, Social sciences, Statistical methods, Business.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Data+Detective+Tim+Harford&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -428,7 +428,7 @@ Within the broader story of myths and misconceptions, creator fact-checking gaps
           <a href="https://www.amazon.com/s?k=A+field+guide+to+lies+Daniel+J.+Levitin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A field guide to lies">A field guide to lies</a>
         </h4>
         <p class="fr-book-author">By Daniel J. Levitin</p>
-        
+
         <p class="fr-book-desc">First published 2016. Subjects: Critical thinking, Fallacies (Logic), Reasoning, Statistics, Social aspects.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=A+field+guide+to+lies+Daniel+J.+Levitin&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

@@ -375,7 +375,7 @@ For schools seeking to reduce misconceptions and improve learning, retrieval pra
           <a href="https://www.amazon.com/s?k=Embedded+Formative+Assessment+Dylan+Wiliam&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Embedded Formative Assessment">Embedded Formative Assessment</a>
         </h4>
         <p class="fr-book-author">By Dylan Wiliam</p>
-        
+
         <p class="fr-book-desc">Formative assessment plays an important role in increasing teacher quality and student learning when it’s viewed as a process rather than...</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Embedded+Formative+Assessment+Dylan+Wiliam&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -392,7 +392,7 @@ For schools seeking to reduce misconceptions and improve learning, retrieval pra
           <a href="https://www.amazon.com/s?k=Powerful+Teaching+Pooja+K.+Agarwal&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Powerful Teaching">Powerful Teaching</a>
         </h4>
         <p class="fr-book-author">By Pooja K. Agarwal, Patrice M. Bain</p>
-        
+
         <p class="fr-book-desc">Unleash powerful teaching and the science of learning in your classroom Powerful Teaching: Unleash the Science of Learning empowers educa...</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Powerful+Teaching+Pooja+K.+Agarwal&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -409,7 +409,7 @@ For schools seeking to reduce misconceptions and improve learning, retrieval pra
           <a href="https://www.amazon.com/s?k=Why+Don%27t+Students+Like+School%3F+Daniel+T.+Willingham&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Why Don&#x27;t Students Like School?">Why Don&#x27;t Students Like School?</a>
         </h4>
         <p class="fr-book-author">By Daniel T. Willingham</p>
-        
+
         <p class="fr-book-desc">Research-based insights and practical advice about effective learning strategies In this new edition of the highly regarded Why Don&#x27;t Stu...</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Why+Don%27t+Students+Like+School%3F+Daniel+T.+Willingham&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -426,7 +426,7 @@ For schools seeking to reduce misconceptions and improve learning, retrieval pra
           <a href="https://www.amazon.com/s?k=Make+It+Stick+Peter+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Make It Stick">Make It Stick</a>
         </h4>
         <p class="fr-book-author">By Peter C. Brown, Henry L. Roediger III et al.</p>
-        
+
         <p class="fr-book-desc">The international bestseller that has helped millions of students, teachers, and lifelong learners use proven approaches to learn better...</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Make+It+Stick+Peter+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

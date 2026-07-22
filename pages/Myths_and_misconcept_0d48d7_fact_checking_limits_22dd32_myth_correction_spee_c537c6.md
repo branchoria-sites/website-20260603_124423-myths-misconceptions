@@ -369,7 +369,7 @@ This means that fact-checking is often operating from behind. Corrections can re
           <a href="https://www.amazon.com/s?k=The+Chaos+Machine+Max+Fisher&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Chaos Machine">The Chaos Machine</a>
         </h4>
         <p class="fr-book-author">By Max Fisher</p>
-        
+
         <p class="fr-book-desc">&#x27;The Chaos Machine is an essential book for our times&#x27; - Ezra Klein The Chaos Machine is the story of how the world was driven mad by soc...</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Chaos+Machine+Max+Fisher&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -386,7 +386,7 @@ This means that fact-checking is often operating from behind. Corrections can re
           <a href="https://www.amazon.com/s?k=Calling+Bullshit+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Calling Bullshit">Calling Bullshit</a>
         </h4>
         <p class="fr-book-author">By Carl T. Bergstrom, Jevin D. West</p>
-        
+
         <p class="fr-book-desc">Bullshit isn’t what it used to be. Now, two science professors give us the tools to dismantle misinformation and think clearly in a world...</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Calling+Bullshit+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -403,7 +403,7 @@ This means that fact-checking is often operating from behind. Corrections can re
           <a href="https://www.amazon.com/s?k=Likewar+Peter+Warren+Singer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Likewar">Likewar</a>
         </h4>
         <p class="fr-book-author">By Peter Warren Singer, Emerson T. Brooking</p>
-        
+
         <p class="fr-book-desc">Social media has been weaponized, as state hackers and rogue terrorists have seized upon Twitter and Facebook to create chaos and destruc...</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Likewar+Peter+Warren+Singer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -420,7 +420,7 @@ This means that fact-checking is often operating from behind. Corrections can re
           <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
         </h4>
         <p class="fr-book-author">By Daniel Kahneman</p>
-        
+
         <p class="fr-book-desc">No Marketing Blurb</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

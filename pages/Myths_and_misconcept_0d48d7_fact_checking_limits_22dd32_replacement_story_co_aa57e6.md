@@ -353,7 +353,7 @@ For policymakers, journalists, educators and fact-checkers, this shifts the impl
           <a href="https://www.amazon.com/s?k=Calling+Bullshit+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Calling Bullshit">Calling Bullshit</a>
         </h4>
         <p class="fr-book-author">By Carl T. Bergstrom, Jevin D. West</p>
-        
+
         <p class="fr-book-desc">Bullshit isn’t what it used to be. Now, two science professors give us the tools to dismantle misinformation and think clearly in a world...</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Calling+Bullshit+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -370,7 +370,7 @@ For policymakers, journalists, educators and fact-checkers, this shifts the impl
           <a href="https://www.amazon.com/s?k=The+Believing+Brain+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Believing Brain">The Believing Brain</a>
         </h4>
         <p class="fr-book-author">By Michael Shermer</p>
-        
+
         <p class="fr-book-desc">Synthesizing thirty years of research, psychologist and science historian, Michael Shermer upends the traditional thinking about how huma...</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Believing+Brain+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -387,7 +387,7 @@ For policymakers, journalists, educators and fact-checkers, this shifts the impl
           <a href="https://www.amazon.com/s?k=Made+to+Stick+Chip+Heath&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Made to Stick">Made to Stick</a>
         </h4>
         <p class="fr-book-author">By Chip Heath, Dan Heath</p>
-        
+
         <p class="fr-book-desc">Beschrijving van een benadering om ideeën, commercieel of anderszins, te laten aanslaan bij een groot publiek.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Made+to+Stick+Chip+Heath&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -404,7 +404,7 @@ For policymakers, journalists, educators and fact-checkers, this shifts the impl
           <a href="https://www.amazon.com/s?k=The+Knowledge+Illusion+Steven+Sloman%2C+Philip+Fernbach&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Knowledge Illusion">The Knowledge Illusion</a>
         </h4>
         <p class="fr-book-author">By Steven Sloman, Philip Fernbach</p>
-        
+
         <p class="fr-book-desc">First published 2017. Subjects: Cognitive psychology, Knowledge, theory of, Knowledge, sociology of, Thought and thinking, Intellect.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Knowledge+Illusion+Steven+Sloman%2C+Philip+Fernbach&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
