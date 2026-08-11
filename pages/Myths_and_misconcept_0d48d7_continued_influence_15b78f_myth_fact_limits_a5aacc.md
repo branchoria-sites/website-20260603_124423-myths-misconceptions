@@ -402,7 +402,7 @@ A common misunderstanding is that debunking research proves communicators should
 <a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Calling Bullshit">Calling Bullshit</a>
 </h4>
 <p class="fr-book-author">By Carl T. Bergstrom, Jevin D. West</p>
-
+        
 <p class="fr-book-desc">Helps readers evaluate misleading claims and understand effective correction strategies.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -419,7 +419,7 @@ A common misunderstanding is that debunking research proves communicators should
 <a href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Third+Edition+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mistakes Were Made (but Not by Me) Third Edition">Mistakes Were Made (but Not by Me) Third Edition</a>
 </h4>
 <p class="fr-book-author">By Carol Tavris, Elliot Aronson</p>
-
+        
 <p class="fr-book-desc">Provides insight into why corrections often meet resistance and rationalization.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Third+Edition+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -436,7 +436,7 @@ A common misunderstanding is that debunking research proves communicators should
 <a href="https://www.amazon.com/s?k=The+Knowledge+Illusion+Steven+Sloman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Knowledge Illusion">The Knowledge Illusion</a>
 </h4>
 <p class="fr-book-author">By Steven Sloman, Philip Fernbach</p>
-
+        
 <p class="fr-book-desc">First published 2017. Subjects: Cognitive psychology, Knowledge, theory of, Knowledge, sociology of, Thought and thinking, Intellect.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Knowledge+Illusion+Steven+Sloman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -453,7 +453,7 @@ A common misunderstanding is that debunking research proves communicators should
 <a href="https://www.amazon.com/s?k=Foolproof+Sander+Van+Der+Linden&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Foolproof">Foolproof</a>
 </h4>
 <p class="fr-book-author">By Sander Van Der Linden</p>
-
+        
 <p class="fr-book-desc">First published 2023.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Foolproof+Sander+Van+Der+Linden&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
