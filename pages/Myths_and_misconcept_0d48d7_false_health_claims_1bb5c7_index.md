@@ -4,7 +4,7 @@ title_full: Health Claims Sub-Topic Index
 display_title: Sub-Topic Index
 display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
-permalink: /myths-and-misconcept-0d48d7-false/
+permalink: /myths-and-misconcept-0d48d7-false-1bb5c7/
 description: Focused pages that expand on Health Claims.
 date: '2026'
 layout: default

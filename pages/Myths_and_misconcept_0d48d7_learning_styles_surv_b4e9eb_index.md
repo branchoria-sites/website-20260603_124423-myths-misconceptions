@@ -4,7 +4,7 @@ title_full: Teacher Belief Sub-Topic Index
 display_title: Sub-Topic Index
 display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
-permalink: /myths-and-misconcept-0d48d7-learning/
+permalink: /myths-and-misconcept-0d48d7-learning-b4e9eb/
 description: Focused pages that expand on Teacher Belief.
 date: '2026'
 layout: default

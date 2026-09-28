@@ -4,7 +4,7 @@ title_full: Debunking Sub-Topic Index
 display_title: Sub-Topic Index
 display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
-permalink: /myths-and-misconcept-0d48d7-fact/
+permalink: /myths-and-misconcept-0d48d7-fact-254e0a/
 description: Focused pages that expand on Debunking.
 date: '2026'
 layout: default

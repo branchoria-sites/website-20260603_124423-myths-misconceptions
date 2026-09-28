@@ -4,7 +4,7 @@ title_full: Uncertainty Sub-Topic Index
 display_title: Sub-Topic Index
 display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
-permalink: /myths-and-misconcept-0d48d7/
+permalink: /myths-and-misconcept-0d48d7-ca758b/
 description: Focused pages that expand on Uncertainty.
 date: '2026'
 layout: default

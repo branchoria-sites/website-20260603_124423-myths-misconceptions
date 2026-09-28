@@ -4,7 +4,7 @@ title_full: False Info Sub-Topic Index
 display_title: Sub-Topic Index
 display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
-permalink: /myths-and-misconcept-0d48d7/
+permalink: /myths-and-misconcept-0d48d7-12ff83/
 description: Focused pages that expand on False Info.
 date: '2026'
 layout: default
