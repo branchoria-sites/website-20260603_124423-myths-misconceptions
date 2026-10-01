@@ -493,6 +493,7 @@ next_link:
   short_title: Key Terms
   heading_title: 'Myth or Misconception: What Is the Difference?'
 date: '2026-06-11 21:50:19 '
+last_modified_at: '2026-06-11 21:50:19 '
 header:
   og_image: /assets/images/Myths_and_misconcept_0d48d7_authority_shortcuts_4b05b1-overview-social.jpg
   preview_image: /assets/images/Myths_and_misconcept_0d48d7_authority_shortcuts_4b05b1-overview.webp

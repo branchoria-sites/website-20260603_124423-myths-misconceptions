@@ -266,6 +266,7 @@ next_link:
   short_title: Political Corrections
   heading_title: When Corrections Work But Minds Barely Move
 date: '2026-06-11 22:09:06 '
+last_modified_at: '2026-06-11 22:09:06 '
 header:
   og_image: /assets/images/Myths_and_misconcept_0d48d7_backfire_effect_myth_0599c9_naming_myths_safely_900427-Illustration-1-social.jpg
   preview_image: /assets/images/Myths_and_misconcept_0d48d7_backfire_effect_myth_0599c9_naming_myths_safely_900427-Illustration-1.webp

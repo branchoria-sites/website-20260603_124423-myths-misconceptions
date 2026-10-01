@@ -493,6 +493,7 @@ next_link:
   short_title: Study Practice
   heading_title: What Helps Learning More Than Learning Styles?
 date: '2026-06-11 21:58:58 '
+last_modified_at: '2026-06-11 21:58:58 '
 header:
   og_image: /assets/images/Myths_and_misconcept_0d48d7_slogans_vs_explanati_60c7b9-overview-social.jpg
   preview_image: /assets/images/Myths_and_misconcept_0d48d7_slogans_vs_explanati_60c7b9-overview.webp

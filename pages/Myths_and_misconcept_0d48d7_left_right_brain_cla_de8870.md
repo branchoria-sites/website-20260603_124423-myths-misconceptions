@@ -493,6 +493,7 @@ next_link:
   short_title: Media Literacy
   heading_title: How Media Literacy Prevents Myths
 date: '2026-06-11 21:55:41 '
+last_modified_at: '2026-06-11 21:55:41 '
 header:
   og_image: /assets/images/Myths_and_misconcept_0d48d7_left_right_brain_cla_de8870-overview-social.jpg
   preview_image: /assets/images/Myths_and_misconcept_0d48d7_left_right_brain_cla_de8870-overview.webp

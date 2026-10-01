@@ -266,6 +266,7 @@ next_link:
   short_title: Historical Metaphors
   heading_title: How 19 th Century Analogies Skewed Scientific Thinking
 date: '2026-06-11 22:35:52 '
+last_modified_at: '2026-06-11 22:35:52 '
 header:
   og_image: /assets/images/Myths_and_misconcept_0d48d7_misleading_analogies_a297a0_geologic_time_analog_a1fb74-Illustration-1-social.jpg
   preview_image: /assets/images/Myths_and_misconcept_0d48d7_misleading_analogies_a297a0_geologic_time_analog_a1fb74-Illustration-1.webp

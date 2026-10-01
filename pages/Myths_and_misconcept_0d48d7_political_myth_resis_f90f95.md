@@ -493,6 +493,7 @@ next_link:
   short_title: Prebunking
   heading_title: Can You Protect People Before Myths Spread?
 date: '2026-06-11 21:58:05 '
+last_modified_at: '2026-06-11 21:58:05 '
 header:
   og_image: /assets/images/Myths_and_misconcept_0d48d7_political_myth_resis_f90f95-overview-social.jpg
   preview_image: /assets/images/Myths_and_misconcept_0d48d7_political_myth_resis_f90f95-overview.webp

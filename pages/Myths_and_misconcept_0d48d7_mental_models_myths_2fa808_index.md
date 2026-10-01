@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /myths-and-misconcept-0d48d7-mental/
 description: Focused pages that expand on Mental Models.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Myths_and_misconcept_0d48d7_mental_models_myths_2fa808
 parent_title: Mental Models

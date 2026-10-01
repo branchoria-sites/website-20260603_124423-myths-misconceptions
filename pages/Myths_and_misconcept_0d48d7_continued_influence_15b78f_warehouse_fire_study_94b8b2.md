@@ -260,6 +260,7 @@ next_link:
   short_title: Memory Gap
   heading_title: Knowing it is false is not enough
 date: '2026-06-11 22:10:11 '
+last_modified_at: '2026-06-11 22:10:11 '
 header:
   og_image: /assets/images/Myths_and_misconcept_0d48d7_continued_influence_15b78f_warehouse_fire_study_94b8b2-Illustration-1-social.jpg
   preview_image: /assets/images/Myths_and_misconcept_0d48d7_continued_influence_15b78f_warehouse_fire_study_94b8b2-Illustration-1.webp

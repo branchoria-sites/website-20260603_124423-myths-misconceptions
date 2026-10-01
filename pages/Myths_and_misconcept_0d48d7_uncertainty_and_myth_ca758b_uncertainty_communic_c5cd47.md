@@ -266,6 +266,7 @@ next_link:
   short_title: Fake News
   heading_title: When Feelings Override Evidence in News Judgments
 date: '2026-06-11 22:46:23 '
+last_modified_at: '2026-06-11 22:46:23 '
 header:
   og_image: /assets/images/Myths_and_misconcept_0d48d7_uncertainty_and_myth_ca758b_uncertainty_communic_c5cd47-Illustration-1-social.jpg
   preview_image: /assets/images/Myths_and_misconcept_0d48d7_uncertainty_and_myth_ca758b_uncertainty_communic_c5cd47-Illustration-1.webp

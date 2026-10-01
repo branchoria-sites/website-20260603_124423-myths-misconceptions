@@ -493,6 +493,7 @@ next_link:
   short_title: Falling Objects
   heading_title: Why Common Sense Gets Falling Objects Wrong
 date: '2026-06-11 21:53:41 '
+last_modified_at: '2026-06-11 21:53:41 '
 header:
   og_image: /assets/images/Myths_and_misconcept_0d48d7_fact_checking_limits_22dd32-overview-social.jpg
   preview_image: /assets/images/Myths_and_misconcept_0d48d7_fact_checking_limits_22dd32-overview.webp

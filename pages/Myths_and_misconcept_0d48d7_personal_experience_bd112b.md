@@ -493,6 +493,7 @@ next_link:
   short_title: Backfire
   heading_title: Does Debunking Really Make Myths Stronger?
 date: '2026-06-11 21:51:43 '
+last_modified_at: '2026-06-11 21:51:43 '
 header:
   og_image: /assets/images/Myths_and_misconcept_0d48d7_personal_experience_bd112b-overview-social.jpg
   preview_image: /assets/images/Myths_and_misconcept_0d48d7_personal_experience_bd112b-overview.webp

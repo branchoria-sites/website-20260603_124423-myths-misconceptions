@@ -266,6 +266,7 @@ next_link:
   short_title: Myth to Model
   heading_title: When Repeated Claims Shape Understanding
 date: '2026-06-11 22:16:08 '
+last_modified_at: '2026-06-11 22:16:08 '
 header:
   og_image: /assets/images/Myths_and_misconcept_0d48d7_myth_vs_misconceptio_b6f36d_misconceptions_feel_49be60-Illustration-1-social.jpg
   preview_image: /assets/images/Myths_and_misconcept_0d48d7_myth_vs_misconceptio_b6f36d_misconceptions_feel_49be60-Illustration-1.webp

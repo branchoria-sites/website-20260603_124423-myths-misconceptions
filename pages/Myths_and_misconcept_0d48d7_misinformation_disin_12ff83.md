@@ -493,6 +493,7 @@ next_link:
   short_title: Familiarity
   heading_title: Why Repetition Makes Claims Feel True
 date: '2026-06-11 21:56:32 '
+last_modified_at: '2026-06-11 21:56:32 '
 header:
   og_image: /assets/images/Myths_and_misconcept_0d48d7_misinformation_disin_12ff83-overview-social.jpg
   preview_image: /assets/images/Myths_and_misconcept_0d48d7_misinformation_disin_12ff83-overview.webp

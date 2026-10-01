@@ -266,6 +266,7 @@ next_link:
   short_title: Headlines
   heading_title: Why one headline can feel familiar enough
 date: '2026-06-11 22:28:22 '
+last_modified_at: '2026-06-11 22:28:22 '
 header:
   og_image: /assets/images/Myths_and_misconcept_0d48d7_familiar_claims_beli_a7d535_processing_fluency_c_4463a8-Illustration-1-social.jpg
   preview_image: /assets/images/Myths_and_misconcept_0d48d7_familiar_claims_beli_a7d535_processing_fluency_c_4463a8-Illustration-1.webp

@@ -260,6 +260,7 @@ next_link:
   short_title: Better Corrections
   heading_title: How to correct a myth without boosting it
 date: '2026-06-11 22:27:55 '
+last_modified_at: '2026-06-11 22:27:55 '
 header:
   og_image: /assets/images/Myths_and_misconcept_0d48d7_familiar_claims_beli_a7d535_corrected_myths_stil_365c72-Illustration-1-social.jpg
   preview_image: /assets/images/Myths_and_misconcept_0d48d7_familiar_claims_beli_a7d535_corrected_myths_stil_365c72-Illustration-1.webp

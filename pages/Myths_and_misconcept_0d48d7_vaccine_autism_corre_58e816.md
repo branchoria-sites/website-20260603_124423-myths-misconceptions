@@ -487,6 +487,7 @@ prev_link:
   short_title: Uncertainty
   heading_title: Why Uncertainty Makes Myths Appealing
 date: '2026-06-11 21:59:37 '
+last_modified_at: '2026-06-11 21:59:37 '
 header:
   og_image: /assets/images/Myths_and_misconcept_0d48d7_vaccine_autism_corre_58e816-overview-social.jpg
   preview_image: /assets/images/Myths_and_misconcept_0d48d7_vaccine_autism_corre_58e816-overview.webp

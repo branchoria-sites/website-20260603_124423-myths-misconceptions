@@ -260,6 +260,7 @@ next_link:
   short_title: Labels risk
   heading_title: Can a helpful label hold students back?
 date: '2026-06-11 22:29:36 '
+last_modified_at: '2026-06-11 22:29:36 '
 header:
   og_image: /assets/images/Myths_and_misconcept_0d48d7_learning_styles_evid_7a050d_content_chooses_mode_9fd119-Illustration-1-social.jpg
   preview_image: /assets/images/Myths_and_misconcept_0d48d7_learning_styles_evid_7a050d_content_chooses_mode_9fd119-Illustration-1.webp

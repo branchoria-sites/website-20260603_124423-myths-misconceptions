@@ -266,6 +266,7 @@ next_link:
   short_title: Uncertainty
   heading_title: When We Do Not Know Yet Is Better
 date: '2026-06-11 22:17:06 '
+last_modified_at: '2026-06-11 22:17:06 '
 header:
   og_image: /assets/images/Myths_and_misconcept_0d48d7_replacement_stories_587456_outbreak_origin_narr_9f674c-Illustration-1-social.jpg
   preview_image: /assets/images/Myths_and_misconcept_0d48d7_replacement_stories_587456_outbreak_origin_narr_9f674c-Illustration-1.webp

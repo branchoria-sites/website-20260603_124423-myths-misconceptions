@@ -266,6 +266,7 @@ next_link:
   short_title: Evidence Weighting
   heading_title: What Does Fair Reporting Look Like Instead?
 date: '2026-06-11 22:12:15 '
+last_modified_at: '2026-06-11 22:12:15 '
 header:
   og_image: /assets/images/Myths_and_misconcept_0d48d7_false_balance_claims_5530ff_equal_airtime_false_fcb63f-Illustration-1-social.jpg
   preview_image: /assets/images/Myths_and_misconcept_0d48d7_false_balance_claims_5530ff_equal_airtime_false_fcb63f-Illustration-1.webp

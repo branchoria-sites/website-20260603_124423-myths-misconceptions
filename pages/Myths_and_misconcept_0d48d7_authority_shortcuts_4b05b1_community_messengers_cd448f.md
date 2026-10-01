@@ -266,6 +266,7 @@ next_link:
   short_title: Viral Proof
   heading_title: When Likes Make Myths Look True
 date: '2026-06-11 22:07:45 '
+last_modified_at: '2026-06-11 22:07:45 '
 header:
   og_image: /assets/images/Myths_and_misconcept_0d48d7_authority_shortcuts_4b05b1_community_messengers_cd448f-Illustration-1-social.jpg
   preview_image: /assets/images/Myths_and_misconcept_0d48d7_authority_shortcuts_4b05b1_community_messengers_cd448f-Illustration-1.webp

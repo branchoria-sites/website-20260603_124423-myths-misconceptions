@@ -493,6 +493,7 @@ next_link:
   short_title: Neuromyths
   heading_title: Why Brain Myths Spread in Schools
 date: '2026-06-11 21:51:26 '
+last_modified_at: '2026-06-11 21:51:26 '
 header:
   og_image: /assets/images/Myths_and_misconcept_0d48d7_mental_models_myths_2fa808-overview-social.jpg
   preview_image: /assets/images/Myths_and_misconcept_0d48d7_mental_models_myths_2fa808-overview.webp

@@ -266,6 +266,7 @@ next_link:
   short_title: One Doctor
   heading_title: Why One Doctor Can Keep a Myth Alive
 date: '2026-06-11 22:10:52 '
+last_modified_at: '2026-06-11 22:10:52 '
 header:
   og_image: /assets/images/Myths_and_misconcept_0d48d7_expert_trust_health_481656_wakefield_mmr_author_eb5570-Illustration-1-social.jpg
   preview_image: /assets/images/Myths_and_misconcept_0d48d7_expert_trust_health_481656_wakefield_mmr_author_eb5570-Illustration-1.webp

@@ -493,6 +493,7 @@ next_link:
   short_title: Commercial Myths
   heading_title: When Myths Come in Professional Packaging
 date: '2026-06-11 21:57:27 '
+last_modified_at: '2026-06-11 21:57:27 '
 header:
   og_image: /assets/images/Myths_and_misconcept_0d48d7_organised_disinforma_da0a9d-overview-social.jpg
   preview_image: /assets/images/Myths_and_misconcept_0d48d7_organised_disinforma_da0a9d-overview.webp

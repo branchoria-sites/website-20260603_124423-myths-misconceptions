@@ -260,6 +260,7 @@ next_link:
   short_title: Familiarity
   heading_title: Why do repeated myths start feeling true?
 date: '2026-06-11 22:02:38 '
+last_modified_at: '2026-06-11 22:02:38 '
 header:
   og_image: /assets/images/Myths_and_misconcept_0d48d7_correction_timing_c61362_correction_amplifica_32a55c-Illustration-1-social.jpg
   preview_image: /assets/images/Myths_and_misconcept_0d48d7_correction_timing_c61362_correction_amplifica_32a55c-Illustration-1.webp

@@ -260,6 +260,7 @@ next_link:
   short_title: Election rumours
   heading_title: How election prebunks protect basic voting facts
 date: '2026-06-11 22:42:21 '
+last_modified_at: '2026-06-11 22:42:21 '
 header:
   og_image: /assets/images/Myths_and_misconcept_0d48d7_prebunking_misinform_8ad4ae_bad_news_game_inocul_c5bc96-Illustration-1-social.jpg
   preview_image: /assets/images/Myths_and_misconcept_0d48d7_prebunking_misinform_8ad4ae_bad_news_game_inocul_c5bc96-Illustration-1.webp

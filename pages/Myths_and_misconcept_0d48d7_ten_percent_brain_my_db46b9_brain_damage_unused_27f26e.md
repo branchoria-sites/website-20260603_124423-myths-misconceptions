@@ -266,6 +266,7 @@ next_link:
   short_title: Brain Scans
   heading_title: What Brain Scans Do Not Show
 date: '2026-06-11 22:18:17 '
+last_modified_at: '2026-06-11 22:18:17 '
 header:
   og_image: /assets/images/Myths_and_misconcept_0d48d7_ten_percent_brain_my_db46b9_brain_damage_unused_27f26e-Illustration-1-social.jpg
   preview_image: /assets/images/Myths_and_misconcept_0d48d7_ten_percent_brain_my_db46b9_brain_damage_unused_27f26e-Illustration-1.webp

@@ -266,6 +266,7 @@ next_link:
   short_title: Vote Delays
   heading_title: When Slow Counting Needs a Better Story
 date: '2026-06-11 22:17:18 '
+last_modified_at: '2026-06-11 22:17:18 '
 header:
   og_image: /assets/images/Myths_and_misconcept_0d48d7_replacement_stories_587456_uncertainty_replacem_524dda-Illustration-1-social.jpg
   preview_image: /assets/images/Myths_and_misconcept_0d48d7_replacement_stories_587456_uncertainty_replacem_524dda-Illustration-1.webp

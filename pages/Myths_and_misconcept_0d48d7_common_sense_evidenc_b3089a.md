@@ -493,6 +493,7 @@ next_link:
   short_title: Concept Change
   heading_title: How Learners Replace Wrong Ideas
 date: '2026-06-11 21:52:37 '
+last_modified_at: '2026-06-11 21:52:37 '
 header:
   og_image: /assets/images/Myths_and_misconcept_0d48d7_common_sense_evidenc_b3089a-overview-social.jpg
   preview_image: /assets/images/Myths_and_misconcept_0d48d7_common_sense_evidenc_b3089a-overview.webp

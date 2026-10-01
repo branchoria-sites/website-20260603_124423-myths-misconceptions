@@ -260,6 +260,7 @@ next_link:
   short_title: Diagnostics
   heading_title: The Questions That Reveal Misconceptions
 date: '2026-06-11 22:21:27 '
+last_modified_at: '2026-06-11 22:21:27 '
 header:
   og_image: /assets/images/Myths_and_misconcept_0d48d7_conceptual_change_le_bdc9ae_cognitive_conflict_s_9e7dcb-Illustration-1-social.jpg
   preview_image: /assets/images/Myths_and_misconcept_0d48d7_conceptual_change_le_bdc9ae_cognitive_conflict_s_9e7dcb-Illustration-1.webp

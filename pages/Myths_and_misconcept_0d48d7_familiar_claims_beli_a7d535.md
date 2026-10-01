@@ -493,6 +493,7 @@ next_link:
   short_title: Health Claims
   heading_title: Why Helpful Health Advice Can Be Wrong
 date: '2026-06-11 21:54:43 '
+last_modified_at: '2026-06-11 21:54:43 '
 header:
   og_image: /assets/images/Myths_and_misconcept_0d48d7_familiar_claims_beli_a7d535-overview-social.jpg
   preview_image: /assets/images/Myths_and_misconcept_0d48d7_familiar_claims_beli_a7d535-overview.webp

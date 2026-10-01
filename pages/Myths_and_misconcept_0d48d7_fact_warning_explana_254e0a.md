@@ -493,6 +493,7 @@ next_link:
   short_title: Expert Trust
   heading_title: When Expert Trust Carries Bad Claims
 date: '2026-06-11 21:53:56 '
+last_modified_at: '2026-06-11 21:53:56 '
 header:
   og_image: /assets/images/Myths_and_misconcept_0d48d7_fact_warning_explana_254e0a-overview-social.jpg
   preview_image: /assets/images/Myths_and_misconcept_0d48d7_fact_warning_explana_254e0a-overview.webp

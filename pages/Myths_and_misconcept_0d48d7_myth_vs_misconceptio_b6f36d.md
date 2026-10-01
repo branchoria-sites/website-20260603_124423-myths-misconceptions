@@ -493,6 +493,7 @@ next_link:
   short_title: Learning Styles
   heading_title: Do Learning Styles Really Improve Learning?
 date: '2026-06-11 21:56:54 '
+last_modified_at: '2026-06-11 21:56:54 '
 header:
   og_image: /assets/images/Myths_and_misconcept_0d48d7_myth_vs_misconceptio_b6f36d-overview-social.jpg
   preview_image: /assets/images/Myths_and_misconcept_0d48d7_myth_vs_misconceptio_b6f36d-overview.webp

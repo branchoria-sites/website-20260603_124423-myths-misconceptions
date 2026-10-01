@@ -266,6 +266,7 @@ next_link:
   short_title: Social Risk
   heading_title: Why Changing Your Mind Can Feel Like Betrayal
 date: '2026-06-11 22:41:19 '
+last_modified_at: '2026-06-11 22:41:19 '
 header:
   og_image: /assets/images/Myths_and_misconcept_0d48d7_political_myth_resis_f90f95_educated_partisan_re_6b96f9-Illustration-1-social.jpg
   preview_image: /assets/images/Myths_and_misconcept_0d48d7_political_myth_resis_f90f95_educated_partisan_re_6b96f9-Illustration-1.webp

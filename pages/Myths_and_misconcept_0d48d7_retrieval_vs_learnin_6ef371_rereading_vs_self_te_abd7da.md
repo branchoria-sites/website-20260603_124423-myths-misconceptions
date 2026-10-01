@@ -260,6 +260,7 @@ next_link:
   short_title: Style surveys
   heading_title: Why learning preferences do not prove learning styles
 date: '2026-06-11 22:44:06 '
+last_modified_at: '2026-06-11 22:44:06 '
 header:
   og_image: /assets/images/Myths_and_misconcept_0d48d7_retrieval_vs_learnin_6ef371_rereading_vs_self_te_abd7da-Illustration-1-social.jpg
   preview_image: /assets/images/Myths_and_misconcept_0d48d7_retrieval_vs_learnin_6ef371_rereading_vs_self_te_abd7da-Illustration-1.webp

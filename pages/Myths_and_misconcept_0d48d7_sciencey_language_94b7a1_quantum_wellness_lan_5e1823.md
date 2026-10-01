@@ -266,6 +266,7 @@ next_link:
   short_title: Untestable Claims
   heading_title: The Claim That Cannot Lose
 date: '2026-06-11 22:04:10 '
+last_modified_at: '2026-06-11 22:04:10 '
 header:
   og_image: /assets/images/Myths_and_misconcept_0d48d7_sciencey_language_94b7a1_quantum_wellness_lan_5e1823-Illustration-1-social.jpg
   preview_image: /assets/images/Myths_and_misconcept_0d48d7_sciencey_language_94b7a1_quantum_wellness_lan_5e1823-Illustration-1.webp

@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /myths-and-misconcept-0d48d7-falling/
 description: Focused pages that expand on Falling Objects.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Myths_and_misconcept_0d48d7_falling_objects_intu_7c231d
 parent_title: Falling Objects

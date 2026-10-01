@@ -266,6 +266,7 @@ next_link:
   short_title: Fading effects
   heading_title: Why one prebunk is not permanent immunity
 date: '2026-06-11 22:43:14 '
+last_modified_at: '2026-06-11 22:43:14 '
 header:
   og_image: /assets/images/Myths_and_misconcept_0d48d7_prebunking_misinform_8ad4ae_fact_vs_tactic_prebu_0fea6e-Illustration-1-social.jpg
   preview_image: /assets/images/Myths_and_misconcept_0d48d7_prebunking_misinform_8ad4ae_fact_vs_tactic_prebu_0fea6e-Illustration-1.webp

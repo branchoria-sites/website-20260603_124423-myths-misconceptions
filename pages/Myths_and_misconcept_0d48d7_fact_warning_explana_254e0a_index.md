@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /myths-and-misconcept-0d48d7-fact-254e0a/
 description: Focused pages that expand on Debunking.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Myths_and_misconcept_0d48d7_fact_warning_explana_254e0a
 parent_title: Debunking

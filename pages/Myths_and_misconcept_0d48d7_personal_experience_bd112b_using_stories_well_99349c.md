@@ -266,6 +266,7 @@ next_link:
   short_title: Timing trap
   heading_title: Did it work, or did time pass?
 date: '2026-06-11 22:03:29 '
+last_modified_at: '2026-06-11 22:03:29 '
 header:
   og_image: /assets/images/Myths_and_misconcept_0d48d7_personal_experience_bd112b_using_stories_well_99349c-Illustration-1-social.jpg
   preview_image: /assets/images/Myths_and_misconcept_0d48d7_personal_experience_bd112b_using_stories_well_99349c-Illustration-1.webp

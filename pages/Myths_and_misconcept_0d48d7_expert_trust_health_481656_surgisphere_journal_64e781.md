@@ -260,6 +260,7 @@ prev_link:
   short_title: One Doctor
   heading_title: Why One Doctor Can Keep a Myth Alive
 date: '2026-06-11 22:05:24 '
+last_modified_at: '2026-06-11 22:05:24 '
 header:
   og_image: /assets/images/Myths_and_misconcept_0d48d7_expert_trust_health_481656_surgisphere_journal_64e781-Illustration-1-social.jpg
   preview_image: /assets/images/Myths_and_misconcept_0d48d7_expert_trust_health_481656_surgisphere_journal_64e781-Illustration-1.webp

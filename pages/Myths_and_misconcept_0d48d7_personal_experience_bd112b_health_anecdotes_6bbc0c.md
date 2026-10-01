@@ -260,6 +260,7 @@ next_link:
   short_title: Safety reports
   heading_title: What safety reports can and cannot prove
 date: '2026-06-11 22:01:11 '
+last_modified_at: '2026-06-11 22:01:11 '
 header:
   og_image: /assets/images/Myths_and_misconcept_0d48d7_personal_experience_bd112b_health_anecdotes_6bbc0c-Illustration-1-social.jpg
   preview_image: /assets/images/Myths_and_misconcept_0d48d7_personal_experience_bd112b_health_anecdotes_6bbc0c-Illustration-1.webp

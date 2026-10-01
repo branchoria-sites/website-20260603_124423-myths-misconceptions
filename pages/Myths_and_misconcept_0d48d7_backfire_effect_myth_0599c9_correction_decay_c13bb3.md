@@ -260,6 +260,7 @@ next_link:
   short_title: Distrust Risk
   heading_title: When the Correction Becomes the Problem
 date: '2026-06-11 22:01:24 '
+last_modified_at: '2026-06-11 22:01:24 '
 header:
   og_image: /assets/images/Myths_and_misconcept_0d48d7_backfire_effect_myth_0599c9_correction_decay_c13bb3-Illustration-1-social.jpg
   preview_image: /assets/images/Myths_and_misconcept_0d48d7_backfire_effect_myth_0599c9_correction_decay_c13bb3-Illustration-1.webp

@@ -266,6 +266,7 @@ next_link:
   short_title: Outbreak Origins
   heading_title: Why Outbreak Rumours Need Origin Stories
 date: '2026-06-11 22:17:42 '
+last_modified_at: '2026-06-11 22:17:42 '
 header:
   og_image: /assets/images/Myths_and_misconcept_0d48d7_replacement_stories_587456_warehouse_fire_rumou_eb9290-Illustration-1-social.jpg
   preview_image: /assets/images/Myths_and_misconcept_0d48d7_replacement_stories_587456_warehouse_fire_rumou_eb9290-Illustration-1.webp

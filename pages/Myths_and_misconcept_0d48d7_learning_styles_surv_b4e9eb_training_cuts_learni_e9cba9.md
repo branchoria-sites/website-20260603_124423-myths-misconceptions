@@ -260,6 +260,7 @@ next_link:
   short_title: Learner labels
   heading_title: The hidden risk of learner labels
 date: '2026-06-11 22:30:49 '
+last_modified_at: '2026-06-11 22:30:49 '
 header:
   og_image: /assets/images/Myths_and_misconcept_0d48d7_learning_styles_surv_b4e9eb_training_cuts_learni_e9cba9-Illustration-1-social.jpg
   preview_image: /assets/images/Myths_and_misconcept_0d48d7_learning_styles_surv_b4e9eb_training_cuts_learni_e9cba9-Illustration-1.webp

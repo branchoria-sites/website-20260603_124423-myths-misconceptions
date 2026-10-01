@@ -260,6 +260,7 @@ prev_link:
   short_title: Timing trap
   heading_title: Why The Timing Can Feel So Convincing
 date: '2026-06-11 22:47:09 '
+last_modified_at: '2026-06-11 22:47:09 '
 header:
   og_image: /assets/images/Myths_and_misconcept_0d48d7_vaccine_autism_corre_58e816_wakefield_paper_trus_ab438a-Illustration-1-social.jpg
   preview_image: /assets/images/Myths_and_misconcept_0d48d7_vaccine_autism_corre_58e816_wakefield_paper_trus_ab438a-Illustration-1.webp

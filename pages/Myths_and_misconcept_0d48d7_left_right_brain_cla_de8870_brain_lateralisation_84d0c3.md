@@ -266,6 +266,7 @@ next_link:
   short_title: Learner labels
   heading_title: When brain labels shrink expectations
 date: '2026-06-11 22:31:41 '
+last_modified_at: '2026-06-11 22:31:41 '
 header:
   og_image: /assets/images/Myths_and_misconcept_0d48d7_left_right_brain_cla_de8870_brain_lateralisation_84d0c3-Illustration-1-social.jpg
   preview_image: /assets/images/Myths_and_misconcept_0d48d7_left_right_brain_cla_de8870_brain_lateralisation_84d0c3-Illustration-1.webp

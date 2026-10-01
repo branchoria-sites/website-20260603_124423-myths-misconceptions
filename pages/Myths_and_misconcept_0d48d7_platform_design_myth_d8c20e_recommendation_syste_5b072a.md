@@ -266,6 +266,7 @@ next_link:
   short_title: Community Notes
   heading_title: Can Crowds Catch Viral Misinformation Fast Enough?
 date: '2026-06-11 22:40:48 '
+last_modified_at: '2026-06-11 22:40:48 '
 header:
   og_image: /assets/images/Myths_and_misconcept_0d48d7_platform_design_myth_d8c20e_recommendation_syste_5b072a-Illustration-1-social.jpg
   preview_image: /assets/images/Myths_and_misconcept_0d48d7_platform_design_myth_d8c20e_recommendation_syste_5b072a-Illustration-1.webp

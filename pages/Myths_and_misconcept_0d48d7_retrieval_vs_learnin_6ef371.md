@@ -487,6 +487,7 @@ next_link:
   short_title: Teacher Belief
   heading_title: How Common Is Belief in Learning Styles?
 date: '2026-06-11 21:58:42 '
+last_modified_at: '2026-06-11 21:58:42 '
 header:
   og_image: /assets/images/Myths_and_misconcept_0d48d7_retrieval_vs_learnin_6ef371-overview-social.jpg
   preview_image: /assets/images/Myths_and_misconcept_0d48d7_retrieval_vs_learnin_6ef371-overview.webp

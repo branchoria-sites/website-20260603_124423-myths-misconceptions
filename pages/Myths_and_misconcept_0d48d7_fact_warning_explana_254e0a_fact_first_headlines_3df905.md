@@ -260,6 +260,7 @@ next_link:
   short_title: Health myths
   heading_title: How public health corrections avoid repeating myths
 date: '2026-06-11 22:25:43 '
+last_modified_at: '2026-06-11 22:25:43 '
 header:
   og_image: /assets/images/Myths_and_misconcept_0d48d7_fact_warning_explana_254e0a_fact_first_headlines_3df905-Illustration-1-social.jpg
   preview_image: /assets/images/Myths_and_misconcept_0d48d7_fact_warning_explana_254e0a_fact_first_headlines_3df905-Illustration-1.webp

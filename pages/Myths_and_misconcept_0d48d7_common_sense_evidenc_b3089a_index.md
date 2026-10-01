@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /myths-and-misconcept-0d48d7-common/
 description: Focused pages that expand on Common Sense.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Myths_and_misconcept_0d48d7_common_sense_evidenc_b3089a
 parent_title: Common Sense

@@ -266,6 +266,7 @@ next_link:
   short_title: Training design
   heading_title: How Teacher Training Can Keep Myths Gone
 date: '2026-06-11 22:02:07 '
+last_modified_at: '2026-06-11 22:02:07 '
 header:
   og_image: /assets/images/Myths_and_misconcept_0d48d7_education_myth_corre_425e93_refutation_texts_c321aa-Illustration-1-social.jpg
   preview_image: /assets/images/Myths_and_misconcept_0d48d7_education_myth_corre_425e93_refutation_texts_c321aa-Illustration-1.webp
