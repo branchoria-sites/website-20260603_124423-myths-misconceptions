@@ -266,6 +266,7 @@ next_link:
   short_title: Prebunking
   heading_title: Can Prebunking Stop Myths Earlier?
 date: '2026-06-11 22:25:00 '
+last_modified_at: '2026-06-11 22:25:00 '
 header:
   og_image: /assets/images/Myths_and_misconcept_0d48d7_fact_checking_limits_22dd32_platform_design_fact_d363de-Illustration-1-social.jpg
   preview_image: /assets/images/Myths_and_misconcept_0d48d7_fact_checking_limits_22dd32_platform_design_fact_d363de-Illustration-1.webp

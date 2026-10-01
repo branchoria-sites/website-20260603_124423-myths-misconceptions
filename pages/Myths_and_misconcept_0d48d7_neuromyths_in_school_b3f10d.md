@@ -493,6 +493,7 @@ next_link:
   short_title: Old Stories
   heading_title: Why Corrected Myths Still Linger
 date: '2026-06-11 21:57:09 '
+last_modified_at: '2026-06-11 21:57:09 '
 header:
   og_image: /assets/images/Myths_and_misconcept_0d48d7_neuromyths_in_school_b3f10d-overview-social.jpg
   preview_image: /assets/images/Myths_and_misconcept_0d48d7_neuromyths_in_school_b3f10d-overview.webp

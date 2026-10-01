@@ -266,6 +266,7 @@ next_link:
   short_title: Warning Labels
   heading_title: When Do Misinformation Labels Actually Work?
 date: '2026-06-11 22:16:55 '
+last_modified_at: '2026-06-11 22:16:55 '
 header:
   og_image: /assets/images/Myths_and_misconcept_0d48d7_platform_design_myth_d8c20e_read_before_sharing_13c592-Illustration-1-social.jpg
   preview_image: /assets/images/Myths_and_misconcept_0d48d7_platform_design_myth_d8c20e_read_before_sharing_13c592-Illustration-1.webp

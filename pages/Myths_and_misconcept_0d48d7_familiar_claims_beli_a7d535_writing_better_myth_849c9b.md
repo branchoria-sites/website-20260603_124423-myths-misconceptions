@@ -266,6 +266,7 @@ next_link:
   short_title: Climate Claims
   heading_title: When repeated climate claims feel established
 date: '2026-06-11 22:13:40 '
+last_modified_at: '2026-06-11 22:13:40 '
 header:
   og_image: /assets/images/Myths_and_misconcept_0d48d7_familiar_claims_beli_a7d535_writing_better_myth_849c9b-Illustration-1-social.jpg
   preview_image: /assets/images/Myths_and_misconcept_0d48d7_familiar_claims_beli_a7d535_writing_better_myth_849c9b-Illustration-1.webp

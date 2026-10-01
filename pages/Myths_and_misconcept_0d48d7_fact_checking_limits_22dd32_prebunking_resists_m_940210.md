@@ -266,6 +266,7 @@ next_link:
   short_title: Speed Gap
   heading_title: Why Myths Move Faster Than Corrections
 date: '2026-06-11 22:25:18 '
+last_modified_at: '2026-06-11 22:25:18 '
 header:
   og_image: /assets/images/Myths_and_misconcept_0d48d7_fact_checking_limits_22dd32_prebunking_resists_m_940210-Illustration-1-social.jpg
   preview_image: /assets/images/Myths_and_misconcept_0d48d7_fact_checking_limits_22dd32_prebunking_resists_m_940210-Illustration-1.webp

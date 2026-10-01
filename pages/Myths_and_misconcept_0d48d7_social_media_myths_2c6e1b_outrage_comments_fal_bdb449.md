@@ -266,6 +266,7 @@ next_link:
   short_title: Rumour Loops
   heading_title: How Small Rumours Become Mass Myths
 date: '2026-06-11 22:06:59 '
+last_modified_at: '2026-06-11 22:06:59 '
 header:
   og_image: /assets/images/Myths_and_misconcept_0d48d7_social_media_myths_2c6e1b_outrage_comments_fal_bdb449-Illustration-1-social.jpg
   preview_image: /assets/images/Myths_and_misconcept_0d48d7_social_media_myths_2c6e1b_outrage_comments_fal_bdb449-Illustration-1.webp

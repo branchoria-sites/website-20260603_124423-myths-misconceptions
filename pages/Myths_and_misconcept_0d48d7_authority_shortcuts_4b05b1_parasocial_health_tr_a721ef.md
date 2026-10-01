@@ -266,6 +266,7 @@ next_link:
   short_title: Lane Drift
   heading_title: When Trusted Influencers Leave Their Lane
 date: '2026-06-11 22:08:27 '
+last_modified_at: '2026-06-11 22:08:27 '
 header:
   og_image: /assets/images/Myths_and_misconcept_0d48d7_authority_shortcuts_4b05b1_parasocial_health_tr_a721ef-Illustration-1-social.jpg
   preview_image: /assets/images/Myths_and_misconcept_0d48d7_authority_shortcuts_4b05b1_parasocial_health_tr_a721ef-Illustration-1.webp

@@ -260,6 +260,7 @@ next_link:
   short_title: False Balance
   heading_title: When One Expert Is Not Half the Debate
 date: '2026-06-11 22:05:07 '
+last_modified_at: '2026-06-11 22:05:07 '
 header:
   og_image: /assets/images/Myths_and_misconcept_0d48d7_expert_trust_health_481656_ai_doctor_deepfakes_d98adf-Illustration-1-social.jpg
   preview_image: /assets/images/Myths_and_misconcept_0d48d7_expert_trust_health_481656_ai_doctor_deepfakes_d98adf-Illustration-1.webp

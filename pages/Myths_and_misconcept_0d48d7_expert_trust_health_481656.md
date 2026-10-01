@@ -493,6 +493,7 @@ next_link:
   short_title: Fact Checks
   heading_title: Why Fact Checking Is Not Enough
 date: '2026-06-11 21:50:53 '
+last_modified_at: '2026-06-11 21:50:53 '
 header:
   og_image: /assets/images/Myths_and_misconcept_0d48d7_expert_trust_health_481656-overview-social.jpg
   preview_image: /assets/images/Myths_and_misconcept_0d48d7_expert_trust_health_481656-overview.webp

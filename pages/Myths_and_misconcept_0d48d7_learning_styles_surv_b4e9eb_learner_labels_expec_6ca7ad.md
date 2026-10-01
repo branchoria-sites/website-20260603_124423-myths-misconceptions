@@ -266,6 +266,7 @@ next_link:
   short_title: Reported use
   heading_title: When belief becomes classroom routine
 date: '2026-06-11 22:30:15 '
+last_modified_at: '2026-06-11 22:30:15 '
 header:
   og_image: /assets/images/Myths_and_misconcept_0d48d7_learning_styles_surv_b4e9eb_learner_labels_expec_6ca7ad-Illustration-1-social.jpg
   preview_image: /assets/images/Myths_and_misconcept_0d48d7_learning_styles_surv_b4e9eb_learner_labels_expec_6ca7ad-Illustration-1.webp

@@ -260,6 +260,7 @@ next_link:
   short_title: Algorithms
   heading_title: The Hidden Engine Behind Myth Spread
 date: '2026-06-11 22:40:18 '
+last_modified_at: '2026-06-11 22:40:18 '
 header:
   og_image: /assets/images/Myths_and_misconcept_0d48d7_platform_design_myth_d8c20e_accuracy_prompts_sha_1e2681-Illustration-1-social.jpg
   preview_image: /assets/images/Myths_and_misconcept_0d48d7_platform_design_myth_d8c20e_accuracy_prompts_sha_1e2681-Illustration-1.webp

@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /myths-and-misconcept-0d48d7-12ff83/
 description: Focused pages that expand on False Info.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Myths_and_misconcept_0d48d7_misinformation_disin_12ff83
 parent_title: False Info

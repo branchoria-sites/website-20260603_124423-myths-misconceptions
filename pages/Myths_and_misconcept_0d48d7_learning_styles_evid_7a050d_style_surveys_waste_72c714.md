@@ -260,6 +260,7 @@ prev_link:
   short_title: Self labels
   heading_title: When students believe they learn only one way
 date: '2026-06-11 22:14:31 '
+last_modified_at: '2026-06-11 22:14:31 '
 header:
   og_image: /assets/images/Myths_and_misconcept_0d48d7_learning_styles_evid_7a050d_style_surveys_waste_72c714-Illustration-1-social.jpg
   preview_image: /assets/images/Myths_and_misconcept_0d48d7_learning_styles_evid_7a050d_style_surveys_waste_72c714-Illustration-1.webp

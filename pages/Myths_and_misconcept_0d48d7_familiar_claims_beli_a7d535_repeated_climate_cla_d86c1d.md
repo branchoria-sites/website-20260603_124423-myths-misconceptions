@@ -266,6 +266,7 @@ next_link:
   short_title: Fluency
   heading_title: When easy thinking feels like evidence
 date: '2026-06-11 22:28:34 '
+last_modified_at: '2026-06-11 22:28:34 '
 header:
   og_image: /assets/images/Myths_and_misconcept_0d48d7_familiar_claims_beli_a7d535_repeated_climate_cla_d86c1d-Illustration-1-social.jpg
   preview_image: /assets/images/Myths_and_misconcept_0d48d7_familiar_claims_beli_a7d535_repeated_climate_cla_d86c1d-Illustration-1.webp

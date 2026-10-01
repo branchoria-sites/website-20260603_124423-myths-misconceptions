@@ -266,6 +266,7 @@ next_link:
   short_title: Natural Remedies
   heading_title: When Natural Sounds Safer Than Evidence
 date: '2026-06-11 22:12:34 '
+last_modified_at: '2026-06-11 22:12:34 '
 header:
   og_image: /assets/images/Myths_and_misconcept_0d48d7_false_health_claims_1bb5c7_kind_health_correcti_c41515-Illustration-1-social.jpg
   preview_image: /assets/images/Myths_and_misconcept_0d48d7_false_health_claims_1bb5c7_kind_health_correcti_c41515-Illustration-1.webp

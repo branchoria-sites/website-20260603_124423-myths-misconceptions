@@ -266,6 +266,7 @@ next_link:
   short_title: Lateralisation
   heading_title: What brain lateralisation really means
 date: '2026-06-11 22:31:09 '
+last_modified_at: '2026-06-11 22:31:09 '
 header:
   og_image: /assets/images/Myths_and_misconcept_0d48d7_left_right_brain_cla_de8870_brain_imaging_domina_9bdcee-Illustration-1-social.jpg
   preview_image: /assets/images/Myths_and_misconcept_0d48d7_left_right_brain_cla_de8870_brain_imaging_domina_9bdcee-Illustration-1.webp

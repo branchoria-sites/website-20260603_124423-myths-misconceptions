@@ -260,6 +260,7 @@ next_link:
   short_title: Due Impartiality
   heading_title: Why Fairness Is Not Always Fifty Fifty
 date: '2026-06-11 22:26:57 '
+last_modified_at: '2026-06-11 22:26:57 '
 header:
   og_image: /assets/images/Myths_and_misconcept_0d48d7_false_balance_claims_5530ff_climate_false_balanc_03fc86-Illustration-1-social.jpg
   preview_image: /assets/images/Myths_and_misconcept_0d48d7_false_balance_claims_5530ff_climate_false_balanc_03fc86-Illustration-1.webp

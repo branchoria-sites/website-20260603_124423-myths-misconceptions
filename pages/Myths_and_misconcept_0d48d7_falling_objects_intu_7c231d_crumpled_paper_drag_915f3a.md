@@ -266,6 +266,7 @@ next_link:
   short_title: Terminal Speed
   heading_title: Why falling objects stop speeding up
 date: '2026-06-11 22:11:31 '
+last_modified_at: '2026-06-11 22:11:31 '
 header:
   og_image: /assets/images/Myths_and_misconcept_0d48d7_falling_objects_intu_7c231d_crumpled_paper_drag_915f3a-Illustration-1-social.jpg
   preview_image: /assets/images/Myths_and_misconcept_0d48d7_falling_objects_intu_7c231d_crumpled_paper_drag_915f3a-Illustration-1.webp

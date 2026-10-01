@@ -260,6 +260,7 @@ next_link:
   short_title: Respectful correction
   heading_title: How To Correct The Myth Without Harm
 date: '2026-06-11 22:04:51 '
+last_modified_at: '2026-06-11 22:04:51 '
 header:
   og_image: /assets/images/Myths_and_misconcept_0d48d7_vaccine_autism_corre_58e816_large_mmr_studies_0c6d1a-Illustration-1-social.jpg
   preview_image: /assets/images/Myths_and_misconcept_0d48d7_vaccine_autism_corre_58e816_large_mmr_studies_0c6d1a-Illustration-1.webp

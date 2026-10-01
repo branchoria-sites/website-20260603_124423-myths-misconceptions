@@ -266,6 +266,7 @@ next_link:
   short_title: Fact vs tactic
   heading_title: Should a prebunk name the myth or the trick?
 date: '2026-06-11 22:42:58 '
+last_modified_at: '2026-06-11 22:42:58 '
 header:
   og_image: /assets/images/Myths_and_misconcept_0d48d7_prebunking_misinform_8ad4ae_emotional_manipulati_23d385-Illustration-1-social.jpg
   preview_image: /assets/images/Myths_and_misconcept_0d48d7_prebunking_misinform_8ad4ae_emotional_manipulati_23d385-Illustration-1.webp

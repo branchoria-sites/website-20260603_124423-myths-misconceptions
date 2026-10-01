@@ -266,6 +266,7 @@ next_link:
   short_title: Sharing Prompts
   heading_title: Can a Pause Stop a False Claim?
 date: '2026-06-11 22:40:34 '
+last_modified_at: '2026-06-11 22:40:34 '
 header:
   og_image: /assets/images/Myths_and_misconcept_0d48d7_platform_design_myth_d8c20e_community_notes_vira_5dc16f-Illustration-1-social.jpg
   preview_image: /assets/images/Myths_and_misconcept_0d48d7_platform_design_myth_d8c20e_community_notes_vira_5dc16f-Illustration-1.webp

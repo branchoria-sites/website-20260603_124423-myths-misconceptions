@@ -260,6 +260,7 @@ next_link:
   short_title: Full moons
   heading_title: Do full moons really change behavior?
 date: '2026-06-11 22:20:29 '
+last_modified_at: '2026-06-11 22:20:29 '
 header:
   og_image: /assets/images/Myths_and_misconcept_0d48d7_common_sense_evidenc_b3089a_accuracy_prompts_mis_552c82-Illustration-1-social.jpg
   preview_image: /assets/images/Myths_and_misconcept_0d48d7_common_sense_evidenc_b3089a_accuracy_prompts_mis_552c82-Illustration-1.webp

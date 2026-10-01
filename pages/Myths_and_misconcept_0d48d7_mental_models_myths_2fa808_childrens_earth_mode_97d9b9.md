@@ -266,6 +266,7 @@ next_link:
   short_title: Natural Myths
   heading_title: Why Natural Health Myths Feel Coherent
 date: '2026-06-11 22:15:30 '
+last_modified_at: '2026-06-11 22:15:30 '
 header:
   og_image: /assets/images/Myths_and_misconcept_0d48d7_mental_models_myths_2fa808_childrens_earth_mode_97d9b9-Illustration-1-social.jpg
   preview_image: /assets/images/Myths_and_misconcept_0d48d7_mental_models_myths_2fa808_childrens_earth_mode_97d9b9-Illustration-1.webp

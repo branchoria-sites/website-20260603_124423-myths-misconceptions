@@ -260,6 +260,7 @@ prev_link:
   short_title: Smart Defenses
   heading_title: When Smart People Defend False Political Claims
 date: '2026-06-11 22:42:07 '
+last_modified_at: '2026-06-11 22:42:07 '
 header:
   og_image: /assets/images/Myths_and_misconcept_0d48d7_political_myth_resis_f90f95_political_correction_06b3e1-Illustration-1-social.jpg
   preview_image: /assets/images/Myths_and_misconcept_0d48d7_political_myth_resis_f90f95_political_correction_06b3e1-Illustration-1.webp

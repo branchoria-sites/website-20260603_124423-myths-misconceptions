@@ -260,6 +260,7 @@ next_link:
   short_title: Intent
   heading_title: Mistaken Is Not Always Malicious
 date: '2026-06-11 22:22:46 '
+last_modified_at: '2026-06-11 22:22:46 '
 header:
   og_image: /assets/images/Myths_and_misconcept_0d48d7_condescending_correc_7062df_face_saving_correcti_678035-Illustration-1-social.jpg
   preview_image: /assets/images/Myths_and_misconcept_0d48d7_condescending_correc_7062df_face_saving_correcti_678035-Illustration-1.webp

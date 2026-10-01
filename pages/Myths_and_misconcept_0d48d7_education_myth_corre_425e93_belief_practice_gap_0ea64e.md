@@ -266,6 +266,7 @@ next_link:
   short_title: Refutation texts
   heading_title: Why Some Myth Corrections Actually Stick
 date: '2026-06-11 22:10:24 '
+last_modified_at: '2026-06-11 22:10:24 '
 header:
   og_image: /assets/images/Myths_and_misconcept_0d48d7_education_myth_corre_425e93_belief_practice_gap_0ea64e-Illustration-1-social.jpg
   preview_image: /assets/images/Myths_and_misconcept_0d48d7_education_myth_corre_425e93_belief_practice_gap_0ea64e-Illustration-1.webp

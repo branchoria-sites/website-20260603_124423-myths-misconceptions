@@ -266,6 +266,7 @@ next_link:
   short_title: Earth Models
   heading_title: When Wrong Earth Models Make Sense
 date: '2026-06-11 22:15:42 '
+last_modified_at: '2026-06-11 22:15:42 '
 header:
   og_image: /assets/images/Myths_and_misconcept_0d48d7_mental_models_myths_2fa808_contradictions_as_ev_de646c-Illustration-1-social.jpg
   preview_image: /assets/images/Myths_and_misconcept_0d48d7_mental_models_myths_2fa808_contradictions_as_ev_de646c-Illustration-1.webp

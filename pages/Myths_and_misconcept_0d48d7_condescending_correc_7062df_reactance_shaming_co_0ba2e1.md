@@ -266,6 +266,7 @@ next_link:
   short_title: Replacements
   heading_title: The Missing Piece in Many Corrections
 date: '2026-06-11 22:23:32 '
+last_modified_at: '2026-06-11 22:23:32 '
 header:
   og_image: /assets/images/Myths_and_misconcept_0d48d7_condescending_correc_7062df_reactance_shaming_co_0ba2e1-Illustration-1-social.jpg
   preview_image: /assets/images/Myths_and_misconcept_0d48d7_condescending_correc_7062df_reactance_shaming_co_0ba2e1-Illustration-1.webp

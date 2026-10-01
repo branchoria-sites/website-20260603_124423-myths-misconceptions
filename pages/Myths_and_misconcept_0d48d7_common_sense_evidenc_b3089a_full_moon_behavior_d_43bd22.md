@@ -266,6 +266,7 @@ next_link:
   short_title: Hindsight
   heading_title: Why outcomes seem obvious after they happen
 date: '2026-06-11 22:20:45 '
+last_modified_at: '2026-06-11 22:20:45 '
 header:
   og_image: /assets/images/Myths_and_misconcept_0d48d7_common_sense_evidenc_b3089a_full_moon_behavior_d_43bd22-Illustration-1-social.jpg
   preview_image: /assets/images/Myths_and_misconcept_0d48d7_common_sense_evidenc_b3089a_full_moon_behavior_d_43bd22-Illustration-1.webp

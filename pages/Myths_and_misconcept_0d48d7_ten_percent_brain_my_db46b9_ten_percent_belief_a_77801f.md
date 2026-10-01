@@ -260,6 +260,7 @@ next_link:
   short_title: Brain Damage
   heading_title: Why Small Brain Injuries Can Matter
 date: '2026-06-11 22:45:29 '
+last_modified_at: '2026-06-11 22:45:29 '
 header:
   og_image: /assets/images/Myths_and_misconcept_0d48d7_ten_percent_brain_my_db46b9_ten_percent_belief_a_77801f-Illustration-1-social.jpg
   preview_image: /assets/images/Myths_and_misconcept_0d48d7_ten_percent_brain_my_db46b9_ten_percent_belief_a_77801f-Illustration-1.webp

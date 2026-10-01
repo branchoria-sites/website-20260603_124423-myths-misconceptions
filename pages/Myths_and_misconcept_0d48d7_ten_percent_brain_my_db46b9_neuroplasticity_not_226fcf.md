@@ -266,6 +266,7 @@ next_link:
   short_title: William James
   heading_title: Did William James Start the Brain Myth?
 date: '2026-06-11 22:18:32 '
+last_modified_at: '2026-06-11 22:18:32 '
 header:
   og_image: /assets/images/Myths_and_misconcept_0d48d7_ten_percent_brain_my_db46b9_neuroplasticity_not_226fcf-Illustration-1-social.jpg
   preview_image: /assets/images/Myths_and_misconcept_0d48d7_ten_percent_brain_my_db46b9_neuroplasticity_not_226fcf-Illustration-1.webp

@@ -266,6 +266,7 @@ next_link:
   short_title: Old Causes
   heading_title: Why corrected causes still feel useful
 date: '2026-06-11 22:00:34 '
+last_modified_at: '2026-06-11 22:00:34 '
 header:
   og_image: /assets/images/Myths_and_misconcept_0d48d7_continued_influence_15b78f_myth_fact_limits_a5aacc-Illustration-1-social.jpg
   preview_image: /assets/images/Myths_and_misconcept_0d48d7_continued_influence_15b78f_myth_fact_limits_a5aacc-Illustration-1.webp

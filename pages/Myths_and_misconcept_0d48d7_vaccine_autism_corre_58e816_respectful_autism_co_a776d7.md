@@ -266,6 +266,7 @@ next_link:
   short_title: Shifting claims
   heading_title: When The Claim Changes Its Target
 date: '2026-06-11 22:46:39 '
+last_modified_at: '2026-06-11 22:46:39 '
 header:
   og_image: /assets/images/Myths_and_misconcept_0d48d7_vaccine_autism_corre_58e816_respectful_autism_co_a776d7-Illustration-1-social.jpg
   preview_image: /assets/images/Myths_and_misconcept_0d48d7_vaccine_autism_corre_58e816_respectful_autism_co_a776d7-Illustration-1.webp

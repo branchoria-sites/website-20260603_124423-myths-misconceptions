@@ -266,6 +266,7 @@ next_link:
   short_title: Moon Drop
   heading_title: Why the hammer and feather landed together
 date: '2026-06-11 22:11:42 '
+last_modified_at: '2026-06-11 22:11:42 '
 header:
   og_image: /assets/images/Myths_and_misconcept_0d48d7_falling_objects_intu_7c231d_falling_object_home_a0a135-Illustration-1-social.jpg
   preview_image: /assets/images/Myths_and_misconcept_0d48d7_falling_objects_intu_7c231d_falling_object_home_a0a135-Illustration-1.webp

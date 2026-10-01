@@ -260,6 +260,7 @@ next_link:
   short_title: Group Cues
   heading_title: How Online Crowds Make Myths Feel True
 date: '2026-06-11 22:41:36 '
+last_modified_at: '2026-06-11 22:41:36 '
 header:
   og_image: /assets/images/Myths_and_misconcept_0d48d7_political_myth_resis_f90f95_fact_checks_worldvie_71fbd6-Illustration-1-social.jpg
   preview_image: /assets/images/Myths_and_misconcept_0d48d7_political_myth_resis_f90f95_fact_checks_worldvie_71fbd6-Illustration-1.webp

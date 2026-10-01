@@ -260,6 +260,7 @@ next_link:
   short_title: Felt Trust
   heading_title: Why Influencer Health Advice Feels Personal
 date: '2026-06-11 22:08:01 '
+last_modified_at: '2026-06-11 22:08:01 '
 header:
   og_image: /assets/images/Myths_and_misconcept_0d48d7_authority_shortcuts_4b05b1_creator_fact_checkin_d6c5cb-Illustration-1-social.jpg
   preview_image: /assets/images/Myths_and_misconcept_0d48d7_authority_shortcuts_4b05b1_creator_fact_checkin_d6c5cb-Illustration-1.webp

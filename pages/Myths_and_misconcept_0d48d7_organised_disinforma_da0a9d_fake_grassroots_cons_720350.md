@@ -260,6 +260,7 @@ next_link:
   short_title: IRA Case
   heading_title: The Case That Made Coordination Visible
 date: '2026-06-11 22:39:04 '
+last_modified_at: '2026-06-11 22:39:04 '
 header:
   og_image: /assets/images/Myths_and_misconcept_0d48d7_organised_disinforma_da0a9d_fake_grassroots_cons_720350-Illustration-1-social.jpg
   preview_image: /assets/images/Myths_and_misconcept_0d48d7_organised_disinforma_da0a9d_fake_grassroots_cons_720350-Illustration-1.webp

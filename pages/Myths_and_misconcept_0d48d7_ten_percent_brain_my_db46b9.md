@@ -487,6 +487,7 @@ next_link:
   short_title: Algorithms
   heading_title: How Platforms Help Myths Travel Faster
 date: '2026-06-11 21:59:10 '
+last_modified_at: '2026-06-11 21:59:10 '
 header:
   og_image: /assets/images/Myths_and_misconcept_0d48d7_ten_percent_brain_my_db46b9-overview-social.jpg
   preview_image: /assets/images/Myths_and_misconcept_0d48d7_ten_percent_brain_my_db46b9-overview.webp

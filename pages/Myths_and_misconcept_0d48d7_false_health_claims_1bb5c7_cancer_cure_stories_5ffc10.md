@@ -260,6 +260,7 @@ next_link:
   short_title: Kind Corrections
   heading_title: How to Correct Health Myths Kindly
 date: '2026-06-11 22:05:39 '
+last_modified_at: '2026-06-11 22:05:39 '
 header:
   og_image: /assets/images/Myths_and_misconcept_0d48d7_false_health_claims_1bb5c7_cancer_cure_stories_5ffc10-Illustration-1-social.jpg
   preview_image: /assets/images/Myths_and_misconcept_0d48d7_false_health_claims_1bb5c7_cancer_cure_stories_5ffc10-Illustration-1.webp

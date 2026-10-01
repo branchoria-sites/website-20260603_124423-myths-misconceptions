@@ -260,6 +260,7 @@ next_link:
   short_title: Home Tests
   heading_title: Try the falling object myth for yourself
 date: '2026-06-11 22:12:03 '
+last_modified_at: '2026-06-11 22:12:03 '
 header:
   og_image: /assets/images/Myths_and_misconcept_0d48d7_falling_objects_intu_7c231d_galileo_tower_story_53e20a-Illustration-1-social.jpg
   preview_image: /assets/images/Myths_and_misconcept_0d48d7_falling_objects_intu_7c231d_galileo_tower_story_53e20a-Illustration-1.webp

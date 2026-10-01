@@ -260,6 +260,7 @@ next_link:
   short_title: Imaging study
   heading_title: Did brain scans find left brained people?
 date: '2026-06-11 22:32:11 '
+last_modified_at: '2026-06-11 22:32:11 '
 header:
   og_image: /assets/images/Myths_and_misconcept_0d48d7_left_right_brain_cla_de8870_right_brain_creativi_4469c6-Illustration-1-social.jpg
   preview_image: /assets/images/Myths_and_misconcept_0d48d7_left_right_brain_cla_de8870_right_brain_creativi_4469c6-Illustration-1.webp

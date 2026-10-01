@@ -493,6 +493,7 @@ next_link:
   short_title: Tone
   heading_title: Why Shaming People Makes Corrections Harder
 date: '2026-06-11 21:49:33 '
+last_modified_at: '2026-06-11 21:49:33 '
 header:
   og_image: /assets/images/Myths_and_misconcept_0d48d7_correction_timing_c61362-overview-social.jpg
   preview_image: /assets/images/Myths_and_misconcept_0d48d7_correction_timing_c61362-overview.webp

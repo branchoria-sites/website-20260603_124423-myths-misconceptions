@@ -266,6 +266,7 @@ next_link:
   short_title: Style matching
   heading_title: Why matching styles is not enough
 date: '2026-06-11 22:31:23 '
+last_modified_at: '2026-06-11 22:31:23 '
 header:
   og_image: /assets/images/Myths_and_misconcept_0d48d7_left_right_brain_cla_de8870_brain_labels_student_388328-Illustration-1-social.jpg
   preview_image: /assets/images/Myths_and_misconcept_0d48d7_left_right_brain_cla_de8870_brain_labels_student_388328-Illustration-1.webp

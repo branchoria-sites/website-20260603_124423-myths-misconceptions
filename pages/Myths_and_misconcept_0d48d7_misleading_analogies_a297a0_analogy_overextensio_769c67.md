@@ -260,6 +260,7 @@ next_link:
   short_title: Geologic Time
   heading_title: Why Spatial Metaphors Mislead About Geological Timelines
 date: '2026-06-11 22:35:41 '
+last_modified_at: '2026-06-11 22:35:41 '
 header:
   og_image: /assets/images/Myths_and_misconcept_0d48d7_misleading_analogies_a297a0_analogy_overextensio_769c67-Illustration-1-social.jpg
   preview_image: /assets/images/Myths_and_misconcept_0d48d7_misleading_analogies_a297a0_analogy_overextensio_769c67-Illustration-1.webp

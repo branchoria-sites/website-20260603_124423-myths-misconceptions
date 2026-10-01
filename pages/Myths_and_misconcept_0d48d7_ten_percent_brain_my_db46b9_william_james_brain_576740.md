@@ -260,6 +260,7 @@ prev_link:
   short_title: Neuroplasticity
   heading_title: Neuroplasticity Is Not Hidden Superpower
 date: '2026-06-11 22:18:45 '
+last_modified_at: '2026-06-11 22:18:45 '
 header:
   og_image: /assets/images/Myths_and_misconcept_0d48d7_ten_percent_brain_my_db46b9_william_james_brain_576740-Illustration-1-social.jpg
   preview_image: /assets/images/Myths_and_misconcept_0d48d7_ten_percent_brain_my_db46b9_william_james_brain_576740-Illustration-1.webp

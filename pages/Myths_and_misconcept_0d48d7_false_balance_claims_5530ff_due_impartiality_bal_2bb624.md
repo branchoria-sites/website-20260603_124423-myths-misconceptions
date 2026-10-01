@@ -266,6 +266,7 @@ next_link:
   short_title: Equal Airtime
   heading_title: Does Equal Airtime Create False Certainty?
 date: '2026-06-11 22:27:13 '
+last_modified_at: '2026-06-11 22:27:13 '
 header:
   og_image: /assets/images/Myths_and_misconcept_0d48d7_false_balance_claims_5530ff_due_impartiality_bal_2bb624-Illustration-1-social.jpg
   preview_image: /assets/images/Myths_and_misconcept_0d48d7_false_balance_claims_5530ff_due_impartiality_bal_2bb624-Illustration-1.webp

@@ -266,6 +266,7 @@ next_link:
   short_title: Low Conflict
   heading_title: How to Correct Myths Without Starting a Fight
 date: '2026-06-11 22:03:44 '
+last_modified_at: '2026-06-11 22:03:44 '
 header:
   og_image: /assets/images/Myths_and_misconcept_0d48d7_political_myth_resis_f90f95_online_group_cues_c65f20-Illustration-1-social.jpg
   preview_image: /assets/images/Myths_and_misconcept_0d48d7_political_myth_resis_f90f95_online_group_cues_c65f20-Illustration-1.webp

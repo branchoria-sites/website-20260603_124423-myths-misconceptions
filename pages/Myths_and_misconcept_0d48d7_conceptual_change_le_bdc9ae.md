@@ -493,6 +493,7 @@ next_link:
   short_title: Debunking
   heading_title: The Three Parts of a Better Debunk
 date: '2026-06-11 21:52:53 '
+last_modified_at: '2026-06-11 21:52:53 '
 header:
   og_image: /assets/images/Myths_and_misconcept_0d48d7_conceptual_change_le_bdc9ae-overview-social.jpg
   preview_image: /assets/images/Myths_and_misconcept_0d48d7_conceptual_change_le_bdc9ae-overview.webp

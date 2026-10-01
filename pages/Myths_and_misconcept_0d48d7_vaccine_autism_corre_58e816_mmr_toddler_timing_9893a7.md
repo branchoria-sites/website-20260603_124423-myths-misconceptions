@@ -266,6 +266,7 @@ next_link:
   short_title: Wakefield paper
   heading_title: How One Weak Paper Became a Public Myth
 date: '2026-06-11 22:07:29 '
+last_modified_at: '2026-06-11 22:07:29 '
 header:
   og_image: /assets/images/Myths_and_misconcept_0d48d7_vaccine_autism_corre_58e816_mmr_toddler_timing_9893a7-Illustration-1-social.jpg
   preview_image: /assets/images/Myths_and_misconcept_0d48d7_vaccine_autism_corre_58e816_mmr_toddler_timing_9893a7-Illustration-1.webp

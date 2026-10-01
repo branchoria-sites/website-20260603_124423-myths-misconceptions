@@ -493,6 +493,7 @@ next_link:
   short_title: Rumour Gaps
   heading_title: Why Debunks Need a Better Story
 date: '2026-06-11 21:58:27 '
+last_modified_at: '2026-06-11 21:58:27 '
 header:
   og_image: /assets/images/Myths_and_misconcept_0d48d7_prebunking_misinform_8ad4ae-overview-social.jpg
   preview_image: /assets/images/Myths_and_misconcept_0d48d7_prebunking_misinform_8ad4ae-overview.webp

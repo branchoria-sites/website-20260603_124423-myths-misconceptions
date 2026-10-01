@@ -260,6 +260,7 @@ next_link:
   short_title: Mutation
   heading_title: How Myths Survive After Being Debunked
 date: '2026-06-11 22:25:30 '
+last_modified_at: '2026-06-11 22:25:30 '
 header:
   og_image: /assets/images/Myths_and_misconcept_0d48d7_fact_checking_limits_22dd32_replacement_story_co_aa57e6-Illustration-1-social.jpg
   preview_image: /assets/images/Myths_and_misconcept_0d48d7_fact_checking_limits_22dd32_replacement_story_co_aa57e6-Illustration-1.webp

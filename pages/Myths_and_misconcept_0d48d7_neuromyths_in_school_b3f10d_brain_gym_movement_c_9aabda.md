@@ -260,6 +260,7 @@ next_link:
   short_title: Brain labels
   heading_title: Why left brain labels mislead teachers
 date: '2026-06-11 22:37:35 '
+last_modified_at: '2026-06-11 22:37:35 '
 header:
   og_image: /assets/images/Myths_and_misconcept_0d48d7_neuromyths_in_school_b3f10d_brain_gym_movement_c_9aabda-Illustration-1-social.jpg
   preview_image: /assets/images/Myths_and_misconcept_0d48d7_neuromyths_in_school_b3f10d_brain_gym_movement_c_9aabda-Illustration-1.webp

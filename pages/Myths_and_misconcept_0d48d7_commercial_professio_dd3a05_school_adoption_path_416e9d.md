@@ -260,6 +260,7 @@ next_link:
   short_title: Brain based
   heading_title: Why brain words make myths sound smarter
 date: '2026-06-11 22:20:15 '
+last_modified_at: '2026-06-11 22:20:15 '
 header:
   og_image: /assets/images/Myths_and_misconcept_0d48d7_commercial_professio_dd3a05_school_adoption_path_416e9d-Illustration-1-social.jpg
   preview_image: /assets/images/Myths_and_misconcept_0d48d7_commercial_professio_dd3a05_school_adoption_path_416e9d-Illustration-1.webp

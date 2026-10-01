@@ -493,6 +493,7 @@ next_link:
   short_title: Vaccines
   heading_title: What the Vaccine Autism Myth Teaches Debunkers
 date: '2026-06-11 21:59:18 '
+last_modified_at: '2026-06-11 21:59:18 '
 header:
   og_image: /assets/images/Myths_and_misconcept_0d48d7_uncertainty_and_myth_ca758b-overview-social.jpg
   preview_image: /assets/images/Myths_and_misconcept_0d48d7_uncertainty_and_myth_ca758b-overview.webp

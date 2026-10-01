@@ -266,6 +266,7 @@ next_link:
   short_title: Teaching Analogy Limits
   heading_title: How Clear Framing Prevents Misleading Analogies in Education
 date: '2026-06-11 22:36:10 '
+last_modified_at: '2026-06-11 22:36:10 '
 header:
   og_image: /assets/images/Myths_and_misconcept_0d48d7_misleading_analogies_a297a0_plumbing_blood_analo_e410b9-Illustration-1-social.jpg
   preview_image: /assets/images/Myths_and_misconcept_0d48d7_misleading_analogies_a297a0_plumbing_blood_analo_e410b9-Illustration-1.webp

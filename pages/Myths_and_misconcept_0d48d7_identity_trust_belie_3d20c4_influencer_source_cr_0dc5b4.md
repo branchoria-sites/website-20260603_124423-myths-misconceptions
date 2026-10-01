@@ -266,6 +266,7 @@ next_link:
   short_title: Trusted Fixes
   heading_title: How corrections avoid sounding like attacks
 date: '2026-06-11 22:29:03 '
+last_modified_at: '2026-06-11 22:29:03 '
 header:
   og_image: /assets/images/Myths_and_misconcept_0d48d7_identity_trust_belie_3d20c4_influencer_source_cr_0dc5b4-Illustration-1-social.jpg
   preview_image: /assets/images/Myths_and_misconcept_0d48d7_identity_trust_belie_3d20c4_influencer_source_cr_0dc5b4-Illustration-1.webp

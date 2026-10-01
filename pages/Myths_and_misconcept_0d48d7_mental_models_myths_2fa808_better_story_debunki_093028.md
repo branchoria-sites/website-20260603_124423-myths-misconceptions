@@ -260,6 +260,7 @@ next_link:
   short_title: Contradictions
   heading_title: When Contradictions Make Myths Stronger
 date: '2026-06-11 22:15:20 '
+last_modified_at: '2026-06-11 22:15:20 '
 header:
   og_image: /assets/images/Myths_and_misconcept_0d48d7_mental_models_myths_2fa808_better_story_debunki_093028-Illustration-1-social.jpg
   preview_image: /assets/images/Myths_and_misconcept_0d48d7_mental_models_myths_2fa808_better_story_debunki_093028-Illustration-1.webp

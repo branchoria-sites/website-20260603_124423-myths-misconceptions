@@ -266,6 +266,7 @@ next_link:
   short_title: Study Evidence
   heading_title: Did Researchers Actually Find Backfire?
 date: '2026-06-11 22:19:24 '
+last_modified_at: '2026-06-11 22:19:24 '
 header:
   og_image: /assets/images/Myths_and_misconcept_0d48d7_backfire_effect_myth_0599c9_political_correction_15d3aa-Illustration-1-social.jpg
   preview_image: /assets/images/Myths_and_misconcept_0d48d7_backfire_effect_myth_0599c9_political_correction_15d3aa-Illustration-1.webp

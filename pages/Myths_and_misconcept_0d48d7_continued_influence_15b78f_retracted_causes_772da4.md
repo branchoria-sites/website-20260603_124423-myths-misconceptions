@@ -266,6 +266,7 @@ next_link:
   short_title: Replacement
   heading_title: The missing piece in stronger corrections
 date: '2026-06-11 22:00:45 '
+last_modified_at: '2026-06-11 22:00:45 '
 header:
   og_image: /assets/images/Myths_and_misconcept_0d48d7_continued_influence_15b78f_retracted_causes_772da4-Illustration-1-social.jpg
   preview_image: /assets/images/Myths_and_misconcept_0d48d7_continued_influence_15b78f_retracted_causes_772da4-Illustration-1.webp
