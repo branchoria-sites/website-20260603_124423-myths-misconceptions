@@ -5200,6 +5200,93 @@ site_image_description: A desk covered with fact-check notes, crossed-out rumor 
 </div>
 </section>
 
+<section class="further-reading-section" data-page-toc-exclude aria-labelledby="homepage-reading-title">
+  <div class="fr-section-shell">
+    <div class="fr-section-header">
+      <div class="fr-section-heading">
+        <p class="fr-section-kicker">Amazon book picks</p>
+        <h3 class="fr-heading" id="homepage-reading-title">Further Reading</h3>
+      </div>
+      <p class="fr-intro">The books behind the reports on this site — health myths, media panics, and the evidence-based corrections. Each report carries picks tied to its own subject.</p>
+    </div>
+    <div class="fr-books-grid">
+
+    <article class="fr-book-card">
+    <a class="fr-book-cover" href="https://www.amazon.com/s?k=Bad+Science+by+Ben+Goldacre&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Bad Science on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=wICuv0ePMYoC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Bad Science" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+    <div class="fr-book-info">
+    <h4 class="fr-book-title">
+    <a href="https://www.amazon.com/s?k=Bad+Science+by+Ben+Goldacre&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Bad Science">Bad Science</a>
+    </h4>
+    <p class="fr-book-author">By Ben Goldacre</p>
+        
+    <p class="fr-book-desc">Helps readers understand why weak studies can mislead the public.</p>
+    <div class="fr-book-actions">
+    <a href="https://www.amazon.com/s?k=Bad+Science+by+Ben+Goldacre&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+                See on Amazon
+    </a>
+    </div>
+    </div>
+    </article>
+
+    <article class="fr-book-card">
+    <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+panic+virus+Seth+Mnookin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The panic virus on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/9547196-M.jpg" alt="Cover for The panic virus" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+    <div class="fr-book-info">
+    <h4 class="fr-book-title">
+    <a href="https://www.amazon.com/s?k=The+panic+virus+Seth+Mnookin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The panic virus">The panic virus</a>
+    </h4>
+    <p class="fr-book-author">By Seth Mnookin</p>
+        
+    <p class="fr-book-desc">First published 2011. Subjects: Vaccination, Mass media and culture, Health behavior, History, Psychological aspects.</p>
+    <div class="fr-book-actions">
+    <a href="https://www.amazon.com/s?k=The+panic+virus+Seth+Mnookin&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+                See on Amazon
+    </a>
+    </div>
+    </div>
+    </article>
+
+    <article class="fr-book-card">
+    <a class="fr-book-cover" href="https://www.amazon.com/s?k=Deadly+Choices+Paul+A.+Offit&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Deadly Choices on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8973460-M.jpg" alt="Cover for Deadly Choices" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+    <div class="fr-book-info">
+    <h4 class="fr-book-title">
+    <a href="https://www.amazon.com/s?k=Deadly+Choices+Paul+A.+Offit&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Deadly Choices">Deadly Choices</a>
+    </h4>
+    <p class="fr-book-author">By Paul A. Offit</p>
+        
+    <p class="fr-book-desc">First published 2010. Subjects: Vaccination of children, Vaccines, History, Complications, Health aspects.</p>
+    <div class="fr-book-actions">
+    <a href="https://www.amazon.com/s?k=Deadly+Choices+Paul+A.+Offit&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+                See on Amazon
+    </a>
+    </div>
+    </div>
+    </article>
+
+    <article class="fr-book-card">
+    <a class="fr-book-cover" href="https://www.amazon.com/s?k=Doctor+Who+Fooled+the+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Doctor Who Fooled the World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/14609654-M.jpg" alt="Cover for Doctor Who Fooled the World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+    <div class="fr-book-info">
+    <h4 class="fr-book-title">
+    <a href="https://www.amazon.com/s?k=Doctor+Who+Fooled+the+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Doctor Who Fooled the World">Doctor Who Fooled the World</a>
+    </h4>
+    <p class="fr-book-author">By Unknown author</p>
+        
+    <p class="fr-book-desc">Directly covers the paper, misconduct findings, and public impact.</p>
+    <div class="fr-book-actions">
+    <a href="https://www.amazon.com/s?k=Doctor+Who+Fooled+the+World&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+                See on Amazon
+    </a>
+    </div>
+    </div>
+    </article>
+
+    </div>
+    <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=bad+science+goldacre&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Bad science</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=vaccine+myths+facts&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Vaccine myths</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=health+misinformation+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Health misinformation</a></div>
+      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases. <a class="fr-disclosure-link" href="https://branchoria.com/disclosure/">Affiliate &amp; AI Disclosure</a></p>
+    </div>
+  </div>
+</section>
+
 </div>
 </section>
 
