@@ -6,8 +6,8 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /myths-and-misconcept-0d48d7-left-right/
 description: Focused pages that expand on Left Brain.
-date: '2026'
-last_modified_at: '2026'
+date: '2026-01-01 00:00:00'
+last_modified_at: '2026-01-01 00:00:00'
 layout: default
 parent_basename: Myths_and_misconcept_0d48d7_left_right_brain_cla_de8870
 parent_title: Left Brain
