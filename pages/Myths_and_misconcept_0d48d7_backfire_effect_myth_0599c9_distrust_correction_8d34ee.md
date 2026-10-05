@@ -266,6 +266,7 @@ next_link:
   short_title: Naming Myths
   heading_title: How Much Should a Debunk Repeat the Myth?
 date: '2026-06-11 22:08:50 '
+last_modified_at: '2026-06-11 22:08:50 '
 header:
   og_image: /assets/images/Myths_and_misconcept_0d48d7_backfire_effect_myth_0599c9_distrust_correction_8d34ee-Illustration-1-social.jpg
   preview_image: /assets/images/Myths_and_misconcept_0d48d7_backfire_effect_myth_0599c9_distrust_correction_8d34ee-Illustration-1.webp

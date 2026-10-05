@@ -266,6 +266,7 @@ next_link:
   short_title: Practice gap
   heading_title: When Debunking Does Not Change Teaching
 date: '2026-06-11 22:24:17 '
+last_modified_at: '2026-06-11 22:24:17 '
 header:
   og_image: /assets/images/Myths_and_misconcept_0d48d7_education_myth_corre_425e93_personalised_correct_c6819a-Illustration-1-social.jpg
   preview_image: /assets/images/Myths_and_misconcept_0d48d7_education_myth_corre_425e93_personalised_correct_c6819a-Illustration-1.webp

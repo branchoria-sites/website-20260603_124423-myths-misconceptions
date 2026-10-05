@@ -260,6 +260,7 @@ prev_link:
   short_title: Prebunking
   heading_title: Can warning people before myths work better?
 date: '2026-06-11 22:15:04 '
+last_modified_at: '2026-06-11 22:15:04 '
 header:
   og_image: /assets/images/Myths_and_misconcept_0d48d7_media_literacy_preve_08a3ab_sift_claim_checking_3d2e80-Illustration-1-social.jpg
   preview_image: /assets/images/Myths_and_misconcept_0d48d7_media_literacy_preve_08a3ab_sift_claim_checking_3d2e80-Illustration-1.webp

@@ -493,6 +493,7 @@ next_link:
   short_title: Campaigns
   heading_title: When Falsehoods Are Spread on Purpose
 date: '2026-06-11 21:52:11 '
+last_modified_at: '2026-06-11 21:52:11 '
 header:
   og_image: /assets/images/Myths_and_misconcept_0d48d7_backfire_effect_myth_0599c9-overview-social.jpg
   preview_image: /assets/images/Myths_and_misconcept_0d48d7_backfire_effect_myth_0599c9-overview.webp

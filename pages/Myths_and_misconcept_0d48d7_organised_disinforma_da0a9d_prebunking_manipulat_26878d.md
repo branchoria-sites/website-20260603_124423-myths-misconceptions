@@ -260,6 +260,7 @@ prev_link:
   short_title: Platform Rules
   heading_title: Can Platforms Stop Manipulation, Not Debate?
 date: '2026-06-11 22:39:50 '
+last_modified_at: '2026-06-11 22:39:50 '
 header:
   og_image: /assets/images/Myths_and_misconcept_0d48d7_organised_disinforma_da0a9d_prebunking_manipulat_26878d-Illustration-1-social.jpg
   preview_image: /assets/images/Myths_and_misconcept_0d48d7_organised_disinforma_da0a9d_prebunking_manipulat_26878d-Illustration-1.webp

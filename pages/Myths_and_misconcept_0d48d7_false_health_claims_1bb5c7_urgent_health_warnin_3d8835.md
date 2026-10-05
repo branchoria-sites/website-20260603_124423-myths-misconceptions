@@ -266,6 +266,7 @@ next_link:
   short_title: Vaccine Fears
   heading_title: Why Vaccine Myths Feel Protective to Parents
 date: '2026-06-11 22:13:10 '
+last_modified_at: '2026-06-11 22:13:10 '
 header:
   og_image: /assets/images/Myths_and_misconcept_0d48d7_false_health_claims_1bb5c7_urgent_health_warnin_3d8835-Illustration-1-social.jpg
   preview_image: /assets/images/Myths_and_misconcept_0d48d7_false_health_claims_1bb5c7_urgent_health_warnin_3d8835-Illustration-1.webp

@@ -266,6 +266,7 @@ next_link:
   short_title: Everyday Models
   heading_title: Why Wrong Science Ideas Feel Sensible
 date: '2026-06-11 22:21:45 '
+last_modified_at: '2026-06-11 22:21:45 '
 header:
   og_image: /assets/images/Myths_and_misconcept_0d48d7_conceptual_change_le_bdc9ae_diagnostic_questions_649d62-Illustration-1-social.jpg
   preview_image: /assets/images/Myths_and_misconcept_0d48d7_conceptual_change_le_bdc9ae_diagnostic_questions_649d62-Illustration-1.webp

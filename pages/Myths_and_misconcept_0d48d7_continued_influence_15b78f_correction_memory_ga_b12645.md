@@ -266,6 +266,7 @@ next_link:
   short_title: Myth vs Fact
   heading_title: When myth versus fact pages fall short
 date: '2026-06-11 22:09:45 '
+last_modified_at: '2026-06-11 22:09:45 '
 header:
   og_image: /assets/images/Myths_and_misconcept_0d48d7_continued_influence_15b78f_correction_memory_ga_b12645-Illustration-1-social.jpg
   preview_image: /assets/images/Myths_and_misconcept_0d48d7_continued_influence_15b78f_correction_memory_ga_b12645-Illustration-1.webp

@@ -266,6 +266,7 @@ next_link:
   short_title: Late labels
   heading_title: Do warning labels arrive too late?
 date: '2026-06-11 22:01:41 '
+last_modified_at: '2026-06-11 22:01:41 '
 header:
   og_image: /assets/images/Myths_and_misconcept_0d48d7_correction_timing_c61362_holding_corrections_00f9f1-Illustration-1-social.jpg
   preview_image: /assets/images/Myths_and_misconcept_0d48d7_correction_timing_c61362_holding_corrections_00f9f1-Illustration-1.webp

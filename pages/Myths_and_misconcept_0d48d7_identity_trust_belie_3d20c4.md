@@ -493,6 +493,7 @@ next_link:
   short_title: Influencers
   heading_title: When Authority Shortcuts Spread Myths
 date: '2026-06-11 21:55:08 '
+last_modified_at: '2026-06-11 21:55:08 '
 header:
   og_image: /assets/images/Myths_and_misconcept_0d48d7_identity_trust_belie_3d20c4-overview-social.jpg
   preview_image: /assets/images/Myths_and_misconcept_0d48d7_identity_trust_belie_3d20c4-overview.webp

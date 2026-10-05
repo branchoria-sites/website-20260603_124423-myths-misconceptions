@@ -266,6 +266,7 @@ next_link:
   short_title: Training rubrics
   heading_title: How teacher training can preserve myths
 date: '2026-06-11 22:38:13 '
+last_modified_at: '2026-06-11 22:38:13 '
 header:
   og_image: /assets/images/Myths_and_misconcept_0d48d7_neuromyths_in_school_b3f10d_learning_styles_matc_6c54f1-Illustration-1-social.jpg
   preview_image: /assets/images/Myths_and_misconcept_0d48d7_neuromyths_in_school_b3f10d_learning_styles_matc_6c54f1-Illustration-1.webp

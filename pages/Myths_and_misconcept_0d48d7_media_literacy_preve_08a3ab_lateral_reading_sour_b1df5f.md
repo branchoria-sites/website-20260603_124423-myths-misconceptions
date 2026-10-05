@@ -266,6 +266,7 @@ next_link:
   short_title: Practice limits
   heading_title: Why one lesson is rarely enough
 date: '2026-06-11 22:32:31 '
+last_modified_at: '2026-06-11 22:32:31 '
 header:
   og_image: /assets/images/Myths_and_misconcept_0d48d7_media_literacy_preve_08a3ab_lateral_reading_sour_b1df5f-Illustration-1-social.jpg
   preview_image: /assets/images/Myths_and_misconcept_0d48d7_media_literacy_preve_08a3ab_lateral_reading_sour_b1df5f-Illustration-1.webp

@@ -260,6 +260,7 @@ prev_link:
   short_title: Outrage Boost
   heading_title: Can Angry Replies Help Myths Spread?
 date: '2026-06-11 22:07:12 '
+last_modified_at: '2026-06-11 22:07:12 '
 header:
   og_image: /assets/images/Myths_and_misconcept_0d48d7_social_media_myths_2c6e1b_recommendation_loops_da0144-Illustration-1-social.jpg
   preview_image: /assets/images/Myths_and_misconcept_0d48d7_social_media_myths_2c6e1b_recommendation_loops_da0144-Illustration-1.webp

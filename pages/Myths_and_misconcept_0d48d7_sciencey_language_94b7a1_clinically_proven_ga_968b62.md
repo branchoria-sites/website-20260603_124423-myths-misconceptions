@@ -266,6 +266,7 @@ next_link:
   short_title: Detox Claims
   heading_title: What 'Detox' Claims Usually Leave Out
 date: '2026-06-11 22:03:56 '
+last_modified_at: '2026-06-11 22:03:56 '
 header:
   og_image: /assets/images/Myths_and_misconcept_0d48d7_sciencey_language_94b7a1_clinically_proven_ga_968b62-Illustration-1-social.jpg
   preview_image: /assets/images/Myths_and_misconcept_0d48d7_sciencey_language_94b7a1_clinically_proven_ga_968b62-Illustration-1.webp

@@ -266,6 +266,7 @@ next_link:
   short_title: Prebunking
   heading_title: Learning the Trick Before the Lie
 date: '2026-06-11 22:39:35 '
+last_modified_at: '2026-06-11 22:39:35 '
 header:
   og_image: /assets/images/Myths_and_misconcept_0d48d7_organised_disinforma_da0a9d_platform_behavior_ru_c5df69-Illustration-1-social.jpg
   preview_image: /assets/images/Myths_and_misconcept_0d48d7_organised_disinforma_da0a9d_platform_behavior_ru_c5df69-Illustration-1.webp

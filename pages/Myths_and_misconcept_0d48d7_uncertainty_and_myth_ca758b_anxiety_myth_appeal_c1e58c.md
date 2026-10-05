@@ -260,6 +260,7 @@ next_link:
   short_title: Blame Seeking
   heading_title: Why Uncertainty Creates a Search for Someone to Blame
 date: '2026-06-11 22:19:01 '
+last_modified_at: '2026-06-11 22:19:01 '
 header:
   og_image: /assets/images/Myths_and_misconcept_0d48d7_uncertainty_and_myth_ca758b_anxiety_myth_appeal_c1e58c-Illustration-1-social.jpg
   preview_image: /assets/images/Myths_and_misconcept_0d48d7_uncertainty_and_myth_ca758b_anxiety_myth_appeal_c1e58c-Illustration-1.webp

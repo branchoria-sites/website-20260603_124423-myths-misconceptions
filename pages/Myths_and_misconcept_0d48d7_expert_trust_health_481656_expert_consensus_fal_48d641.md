@@ -266,6 +266,7 @@ next_link:
   short_title: MMR Case
   heading_title: How the MMR Myth Borrowed Medical Authority
 date: '2026-06-11 22:10:38 '
+last_modified_at: '2026-06-11 22:10:38 '
 header:
   og_image: /assets/images/Myths_and_misconcept_0d48d7_expert_trust_health_481656_expert_consensus_fal_48d641-Illustration-1-social.jpg
   preview_image: /assets/images/Myths_and_misconcept_0d48d7_expert_trust_health_481656_expert_consensus_fal_48d641-Illustration-1.webp

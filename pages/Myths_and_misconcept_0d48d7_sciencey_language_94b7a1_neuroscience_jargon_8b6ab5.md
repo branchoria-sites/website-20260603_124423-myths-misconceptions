@@ -260,6 +260,7 @@ next_link:
   short_title: Clinically Proven
   heading_title: When 'Clinically Proven' Does Not Prove Much
 date: '2026-06-11 22:02:27 '
+last_modified_at: '2026-06-11 22:02:27 '
 header:
   og_image: /assets/images/Myths_and_misconcept_0d48d7_sciencey_language_94b7a1_neuroscience_jargon_8b6ab5-Illustration-1-social.jpg
   preview_image: /assets/images/Myths_and_misconcept_0d48d7_sciencey_language_94b7a1_neuroscience_jargon_8b6ab5-Illustration-1.webp

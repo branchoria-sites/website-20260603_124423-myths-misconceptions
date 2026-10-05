@@ -266,6 +266,7 @@ next_link:
   short_title: The trick
   heading_title: Show the trick that made the myth plausible
 date: '2026-06-11 22:26:11 '
+last_modified_at: '2026-06-11 22:26:11 '
 header:
   og_image: /assets/images/Myths_and_misconcept_0d48d7_fact_warning_explana_254e0a_replacement_explanat_c2acce-Illustration-1-social.jpg
   preview_image: /assets/images/Myths_and_misconcept_0d48d7_fact_warning_explana_254e0a_replacement_explanat_c2acce-Illustration-1.webp

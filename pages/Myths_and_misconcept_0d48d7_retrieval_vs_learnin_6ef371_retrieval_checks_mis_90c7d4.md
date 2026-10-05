@@ -254,6 +254,7 @@ next_link:
   short_title: Fit the task
   heading_title: Match the method to the lesson, not the label
 date: '2026-06-11 22:44:21 '
+last_modified_at: '2026-06-11 22:44:21 '
 header:
   og_image: /assets/images/Myths_and_misconcept_0d48d7_retrieval_vs_learnin_6ef371_retrieval_checks_mis_90c7d4-Illustration-1-social.jpg
   preview_image: /assets/images/Myths_and_misconcept_0d48d7_retrieval_vs_learnin_6ef371_retrieval_checks_mis_90c7d4-Illustration-1.webp

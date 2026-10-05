@@ -493,6 +493,7 @@ next_link:
   short_title: Platform Design
   heading_title: Can Platform Design Slow Myths Down?
 date: '2026-06-11 21:50:32 '
+last_modified_at: '2026-06-11 21:50:32 '
 header:
   og_image: /assets/images/Myths_and_misconcept_0d48d7_continued_influence_15b78f-overview-social.jpg
   preview_image: /assets/images/Myths_and_misconcept_0d48d7_continued_influence_15b78f-overview.webp

@@ -493,6 +493,7 @@ next_link:
   short_title: Sciencey Words
   heading_title: Why Sciencey Language Makes Myths Persuasive
 date: '2026-06-11 21:51:57 '
+last_modified_at: '2026-06-11 21:51:57 '
 header:
   og_image: /assets/images/Myths_and_misconcept_0d48d7_replacement_stories_587456-overview-social.jpg
   preview_image: /assets/images/Myths_and_misconcept_0d48d7_replacement_stories_587456-overview.webp

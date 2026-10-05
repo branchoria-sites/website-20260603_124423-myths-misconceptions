@@ -266,6 +266,7 @@ next_link:
   short_title: High harm
   heading_title: Which myths need the fastest correction?
 date: '2026-06-11 22:02:57 '
+last_modified_at: '2026-06-11 22:02:57 '
 header:
   og_image: /assets/images/Myths_and_misconcept_0d48d7_correction_timing_c61362_repetition_familiari_8b4976-Illustration-1-social.jpg
   preview_image: /assets/images/Myths_and_misconcept_0d48d7_correction_timing_c61362_repetition_familiari_8b4976-Illustration-1.webp

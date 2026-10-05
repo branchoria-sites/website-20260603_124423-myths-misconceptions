@@ -266,6 +266,7 @@ next_link:
   short_title: Need Closure
   heading_title: How the Need for Closure Fuels Conspiracy Beliefs
 date: '2026-06-11 22:46:00 '
+last_modified_at: '2026-06-11 22:46:00 '
 header:
   og_image: /assets/images/Myths_and_misconcept_0d48d7_uncertainty_and_myth_ca758b_emotion_fake_news_be_33b81b-Illustration-1-social.jpg
   preview_image: /assets/images/Myths_and_misconcept_0d48d7_uncertainty_and_myth_ca758b_emotion_fake_news_be_33b81b-Illustration-1.webp

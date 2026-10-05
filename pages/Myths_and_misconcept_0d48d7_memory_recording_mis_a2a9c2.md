@@ -493,6 +493,7 @@ next_link:
   short_title: Mental Models
   heading_title: Why Wrong Ideas Can Feel Coherent
 date: '2026-06-11 21:56:19 '
+last_modified_at: '2026-06-11 21:56:19 '
 header:
   og_image: /assets/images/Myths_and_misconcept_0d48d7_memory_recording_mis_a2a9c2-overview-social.jpg
   preview_image: /assets/images/Myths_and_misconcept_0d48d7_memory_recording_mis_a2a9c2-overview.webp

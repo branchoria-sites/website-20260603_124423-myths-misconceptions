@@ -260,6 +260,7 @@ prev_link:
   short_title: Learning styles
   heading_title: Do learning styles products really help?
 date: '2026-06-11 22:19:48 '
+last_modified_at: '2026-06-11 22:19:48 '
 header:
   og_image: /assets/images/Myths_and_misconcept_0d48d7_commercial_professio_dd3a05_evidence_based_sales_3fe9e4-Illustration-1-social.jpg
   preview_image: /assets/images/Myths_and_misconcept_0d48d7_commercial_professio_dd3a05_evidence_based_sales_3fe9e4-Illustration-1.webp

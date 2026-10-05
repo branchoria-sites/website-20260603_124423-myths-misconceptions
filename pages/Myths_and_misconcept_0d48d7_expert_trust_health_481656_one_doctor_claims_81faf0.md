@@ -266,6 +266,7 @@ next_link:
   short_title: Surgisphere
   heading_title: When Prestigious Journals Get It Wrong
 date: '2026-06-11 22:02:18 '
+last_modified_at: '2026-06-11 22:02:18 '
 header:
   og_image: /assets/images/Myths_and_misconcept_0d48d7_expert_trust_health_481656_one_doctor_claims_81faf0-Illustration-1-social.jpg
   preview_image: /assets/images/Myths_and_misconcept_0d48d7_expert_trust_health_481656_one_doctor_claims_81faf0-Illustration-1.webp

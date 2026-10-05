@@ -266,6 +266,7 @@ next_link:
   short_title: Plumbing Analogy
   heading_title: How Plumbing Comparisons Misrepresent Blood Circulation
 date: '2026-06-11 22:36:02 '
+last_modified_at: '2026-06-11 22:36:02 '
 header:
   og_image: /assets/images/Myths_and_misconcept_0d48d7_misleading_analogies_a297a0_historical_science_m_ed604c-Illustration-1-social.jpg
   preview_image: /assets/images/Myths_and_misconcept_0d48d7_misleading_analogies_a297a0_historical_science_m_ed604c-Illustration-1.webp

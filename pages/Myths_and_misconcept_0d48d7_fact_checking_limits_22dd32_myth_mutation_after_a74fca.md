@@ -266,6 +266,7 @@ next_link:
   short_title: Platforms
   heading_title: When Platforms Reward Myths Over Accuracy
 date: '2026-06-11 22:11:02 '
+last_modified_at: '2026-06-11 22:11:02 '
 header:
   og_image: /assets/images/Myths_and_misconcept_0d48d7_fact_checking_limits_22dd32_myth_mutation_after_a74fca-Illustration-1-social.jpg
   preview_image: /assets/images/Myths_and_misconcept_0d48d7_fact_checking_limits_22dd32_myth_mutation_after_a74fca-Illustration-1.webp

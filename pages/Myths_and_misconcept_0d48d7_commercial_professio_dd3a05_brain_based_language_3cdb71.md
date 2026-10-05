@@ -266,6 +266,7 @@ next_link:
   short_title: Brain Gym
   heading_title: When movement becomes a brain myth
 date: '2026-06-11 22:19:35 '
+last_modified_at: '2026-06-11 22:19:35 '
 header:
   og_image: /assets/images/Myths_and_misconcept_0d48d7_commercial_professio_dd3a05_brain_based_language_3cdb71-Illustration-1-social.jpg
   preview_image: /assets/images/Myths_and_misconcept_0d48d7_commercial_professio_dd3a05_brain_based_language_3cdb71-Illustration-1.webp

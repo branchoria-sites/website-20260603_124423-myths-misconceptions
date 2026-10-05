@@ -254,6 +254,7 @@ prev_link:
   short_title: Self testing
   heading_title: Why rereading feels easier but works less well
 date: '2026-06-11 22:43:44 '
+last_modified_at: '2026-06-11 22:43:44 '
 header:
   og_image: /assets/images/Myths_and_misconcept_0d48d7_retrieval_vs_learnin_6ef371_learning_style_surve_b3bbf9-Illustration-1-social.jpg
   preview_image: /assets/images/Myths_and_misconcept_0d48d7_retrieval_vs_learnin_6ef371_learning_style_surve_b3bbf9-Illustration-1.webp

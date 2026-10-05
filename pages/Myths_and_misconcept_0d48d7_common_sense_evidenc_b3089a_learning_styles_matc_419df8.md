@@ -266,6 +266,7 @@ next_link:
   short_title: Prediction test
   heading_title: What would we see if it were true?
 date: '2026-06-11 22:21:14 '
+last_modified_at: '2026-06-11 22:21:14 '
 header:
   og_image: /assets/images/Myths_and_misconcept_0d48d7_common_sense_evidenc_b3089a_learning_styles_matc_419df8-Illustration-1-social.jpg
   preview_image: /assets/images/Myths_and_misconcept_0d48d7_common_sense_evidenc_b3089a_learning_styles_matc_419df8-Illustration-1.webp

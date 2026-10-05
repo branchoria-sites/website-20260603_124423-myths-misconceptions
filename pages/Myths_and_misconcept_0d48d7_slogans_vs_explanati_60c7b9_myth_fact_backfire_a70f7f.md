@@ -260,6 +260,7 @@ next_link:
   short_title: Corrections
   heading_title: What should replace a false slogan?
 date: '2026-06-11 22:06:18 '
+last_modified_at: '2026-06-11 22:06:18 '
 header:
   og_image: /assets/images/Myths_and_misconcept_0d48d7_slogans_vs_explanati_60c7b9_myth_fact_backfire_a70f7f-Illustration-1-social.jpg
   preview_image: /assets/images/Myths_and_misconcept_0d48d7_slogans_vs_explanati_60c7b9_myth_fact_backfire_a70f7f-Illustration-1.webp

@@ -493,6 +493,7 @@ next_link:
   short_title: Identity
   heading_title: Why Trusted People Make Myths Stick
 date: '2026-06-11 21:51:10 '
+last_modified_at: '2026-06-11 21:51:10 '
 header:
   og_image: /assets/images/Myths_and_misconcept_0d48d7_false_health_claims_1bb5c7-overview-social.jpg
   preview_image: /assets/images/Myths_and_misconcept_0d48d7_false_health_claims_1bb5c7-overview.webp

@@ -266,6 +266,7 @@ next_link:
   short_title: Teacher belief
   heading_title: Why new teachers still inherit learning styles
 date: '2026-06-11 22:30:25 '
+last_modified_at: '2026-06-11 22:30:25 '
 header:
   og_image: /assets/images/Myths_and_misconcept_0d48d7_learning_styles_surv_b4e9eb_survey_wording_learn_b658d0-Illustration-1-social.jpg
   preview_image: /assets/images/Myths_and_misconcept_0d48d7_learning_styles_surv_b4e9eb_survey_wording_learn_b658d0-Illustration-1.webp

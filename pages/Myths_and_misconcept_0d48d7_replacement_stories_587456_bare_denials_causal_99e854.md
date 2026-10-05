@@ -260,6 +260,7 @@ next_link:
   short_title: Fire Scenario
   heading_title: The Fire Rumour That Still Explains Too Much
 date: '2026-06-11 22:06:06 '
+last_modified_at: '2026-06-11 22:06:06 '
 header:
   og_image: /assets/images/Myths_and_misconcept_0d48d7_replacement_stories_587456_bare_denials_causal_99e854-Illustration-1-social.jpg
   preview_image: /assets/images/Myths_and_misconcept_0d48d7_replacement_stories_587456_bare_denials_causal_99e854-Illustration-1.webp

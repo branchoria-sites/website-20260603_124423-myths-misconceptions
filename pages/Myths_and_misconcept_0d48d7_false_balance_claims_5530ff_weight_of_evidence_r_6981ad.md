@@ -266,6 +266,7 @@ next_link:
   short_title: Vaccine Coverage
   heading_title: Can Balanced Reporting Make Vaccine Myths Stronger?
 date: '2026-06-11 22:27:38 '
+last_modified_at: '2026-06-11 22:27:38 '
 header:
   og_image: /assets/images/Myths_and_misconcept_0d48d7_false_balance_claims_5530ff_weight_of_evidence_r_6981ad-Illustration-1-social.jpg
   preview_image: /assets/images/Myths_and_misconcept_0d48d7_false_balance_claims_5530ff_weight_of_evidence_r_6981ad-Illustration-1.webp

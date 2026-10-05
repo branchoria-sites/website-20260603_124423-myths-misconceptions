@@ -260,6 +260,7 @@ prev_link:
   short_title: Health Slogans
   heading_title: When health slogans leave out risk
 date: '2026-06-11 22:44:50 '
+last_modified_at: '2026-06-11 22:44:50 '
 header:
   og_image: /assets/images/Myths_and_misconcept_0d48d7_slogans_vs_explanati_60c7b9_repeated_false_claim_23db75-Illustration-1-social.jpg
   preview_image: /assets/images/Myths_and_misconcept_0d48d7_slogans_vs_explanati_60c7b9_repeated_false_claim_23db75-Illustration-1.webp

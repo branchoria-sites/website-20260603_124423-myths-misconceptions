@@ -266,6 +266,7 @@ next_link:
   short_title: Influencers
   heading_title: Why familiar influencers can sound reliable
 date: '2026-06-11 22:14:05 '
+last_modified_at: '2026-06-11 22:14:05 '
 header:
   og_image: /assets/images/Myths_and_misconcept_0d48d7_identity_trust_belie_3d20c4_group_loyalty_myths_b2972f-Illustration-1-social.jpg
   preview_image: /assets/images/Myths_and_misconcept_0d48d7_identity_trust_belie_3d20c4_group_loyalty_myths_b2972f-Illustration-1.webp

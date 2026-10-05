@@ -493,6 +493,7 @@ next_link:
   short_title: Teacher Corrections
   heading_title: Can Teacher Training Reduce Education Myths?
 date: '2026-06-11 21:55:31 '
+last_modified_at: '2026-06-11 21:55:31 '
 header:
   og_image: /assets/images/Myths_and_misconcept_0d48d7_learning_styles_surv_b4e9eb-overview-social.jpg
   preview_image: /assets/images/Myths_and_misconcept_0d48d7_learning_styles_surv_b4e9eb-overview.webp

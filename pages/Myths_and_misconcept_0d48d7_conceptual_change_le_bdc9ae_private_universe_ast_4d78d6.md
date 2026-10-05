@@ -266,6 +266,7 @@ next_link:
   short_title: Replacement
   heading_title: Why Corrections Need Better Explanations
 date: '2026-06-11 22:22:17 '
+last_modified_at: '2026-06-11 22:22:17 '
 header:
   og_image: /assets/images/Myths_and_misconcept_0d48d7_conceptual_change_le_bdc9ae_private_universe_ast_4d78d6-Illustration-1-social.jpg
   preview_image: /assets/images/Myths_and_misconcept_0d48d7_conceptual_change_le_bdc9ae_private_universe_ast_4d78d6-Illustration-1.webp

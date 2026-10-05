@@ -493,6 +493,7 @@ next_link:
   short_title: Anecdotes
   heading_title: When Personal Experience Becomes a Myth
 date: '2026-06-11 21:56:42 '
+last_modified_at: '2026-06-11 21:56:42 '
 header:
   og_image: /assets/images/Myths_and_misconcept_0d48d7_misleading_analogies_a297a0-overview-social.jpg
   preview_image: /assets/images/Myths_and_misconcept_0d48d7_misleading_analogies_a297a0-overview.webp

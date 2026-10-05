@@ -266,6 +266,7 @@ next_link:
   short_title: Critical periods
   heading_title: Are children ever too late to learn?
 date: '2026-06-11 22:38:30 '
+last_modified_at: '2026-06-11 22:38:30 '
 header:
   og_image: /assets/images/Myths_and_misconcept_0d48d7_neuromyths_in_school_b3f10d_left_right_brain_lab_f1b4e4-Illustration-1-social.jpg
   preview_image: /assets/images/Myths_and_misconcept_0d48d7_neuromyths_in_school_b3f10d_left_right_brain_lab_f1b4e4-Illustration-1.webp

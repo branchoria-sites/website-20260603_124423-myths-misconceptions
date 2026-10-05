@@ -493,6 +493,7 @@ next_link:
   short_title: Analogies
   heading_title: When Helpful Analogies Teach the Wrong Lesson
 date: '2026-06-11 21:50:05 '
+last_modified_at: '2026-06-11 21:50:05 '
 header:
   og_image: /assets/images/Myths_and_misconcept_0d48d7_social_media_myths_2c6e1b-overview-social.jpg
   preview_image: /assets/images/Myths_and_misconcept_0d48d7_social_media_myths_2c6e1b-overview.webp

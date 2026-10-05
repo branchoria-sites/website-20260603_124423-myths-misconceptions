@@ -493,6 +493,7 @@ next_link:
   short_title: Uncertainty
   heading_title: Why Uncertainty Makes Myths Appealing
 date: '2026-06-11 21:53:11 '
+last_modified_at: '2026-06-11 21:53:11 '
 header:
   og_image: /assets/images/Myths_and_misconcept_0d48d7_condescending_correc_7062df-overview-social.jpg
   preview_image: /assets/images/Myths_and_misconcept_0d48d7_condescending_correc_7062df-overview.webp

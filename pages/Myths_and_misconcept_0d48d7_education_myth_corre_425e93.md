@@ -493,6 +493,7 @@ next_link:
   short_title: Timing
   heading_title: When Should a Myth Be Corrected?
 date: '2026-06-11 21:53:24 '
+last_modified_at: '2026-06-11 21:53:24 '
 header:
   og_image: /assets/images/Myths_and_misconcept_0d48d7_education_myth_corre_425e93-overview-social.jpg
   preview_image: /assets/images/Myths_and_misconcept_0d48d7_education_myth_corre_425e93-overview.webp

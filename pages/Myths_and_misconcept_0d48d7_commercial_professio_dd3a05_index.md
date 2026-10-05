@@ -6,7 +6,8 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /myths-and-misconcept-0d48d7-commercial/
 description: Focused pages that expand on Commercial Myths.
-date: '2026'
+date: '2026-01-01 00:00:00'
+last_modified_at: '2026-01-01 00:00:00'
 layout: default
 parent_basename: Myths_and_misconcept_0d48d7_commercial_professio_dd3a05
 parent_title: Commercial Myths

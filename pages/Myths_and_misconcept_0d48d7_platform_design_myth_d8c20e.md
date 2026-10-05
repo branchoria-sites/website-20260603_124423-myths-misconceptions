@@ -493,6 +493,7 @@ next_link:
   short_title: Politics
   heading_title: Why Political Myths Resist Correction
 date: '2026-06-11 21:57:49 '
+last_modified_at: '2026-06-11 21:57:49 '
 header:
   og_image: /assets/images/Myths_and_misconcept_0d48d7_platform_design_myth_d8c20e-overview-social.jpg
   preview_image: /assets/images/Myths_and_misconcept_0d48d7_platform_design_myth_d8c20e-overview.webp

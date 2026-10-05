@@ -266,6 +266,7 @@ next_link:
   short_title: Media Coverage
   heading_title: Reporting Rumours Without Spreading Them
 date: '2026-06-11 22:39:16 '
+last_modified_at: '2026-06-11 22:39:16 '
 header:
   og_image: /assets/images/Myths_and_misconcept_0d48d7_organised_disinforma_da0a9d_internet_research_ag_c0dc4e-Illustration-1-social.jpg
   preview_image: /assets/images/Myths_and_misconcept_0d48d7_organised_disinforma_da0a9d_internet_research_ag_c0dc4e-Illustration-1.webp

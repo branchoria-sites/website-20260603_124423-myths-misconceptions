@@ -493,6 +493,7 @@ next_link:
   short_title: False Balance
   heading_title: When Both Sides Framing Misleads Readers
 date: '2026-06-11 21:54:13 '
+last_modified_at: '2026-06-11 21:54:13 '
 header:
   og_image: /assets/images/Myths_and_misconcept_0d48d7_falling_objects_intu_7c231d-overview-social.jpg
   preview_image: /assets/images/Myths_and_misconcept_0d48d7_falling_objects_intu_7c231d-overview.webp

@@ -260,6 +260,7 @@ prev_link:
   short_title: Survey wording
   heading_title: Why survey questions make the myth easy to endorse
 date: '2026-06-11 22:30:35 '
+last_modified_at: '2026-06-11 22:30:35 '
 header:
   og_image: /assets/images/Myths_and_misconcept_0d48d7_learning_styles_surv_b4e9eb_teacher_trainee_beli_0528cc-Illustration-1-social.jpg
   preview_image: /assets/images/Myths_and_misconcept_0d48d7_learning_styles_surv_b4e9eb_teacher_trainee_beli_0528cc-Illustration-1.webp

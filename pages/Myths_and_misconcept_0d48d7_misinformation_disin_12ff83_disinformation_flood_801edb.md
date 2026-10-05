@@ -266,6 +266,7 @@ next_link:
   short_title: Intent test
   heading_title: Why intent changes the right response
 date: '2026-06-11 22:34:38 '
+last_modified_at: '2026-06-11 22:34:38 '
 header:
   og_image: /assets/images/Myths_and_misconcept_0d48d7_misinformation_disin_12ff83_disinformation_flood_801edb-Illustration-1-social.jpg
   preview_image: /assets/images/Myths_and_misconcept_0d48d7_misinformation_disin_12ff83_disinformation_flood_801edb-Illustration-1.webp

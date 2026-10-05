@@ -260,6 +260,7 @@ prev_link:
   short_title: Replacement
   heading_title: Why a better story beats a bare denial
 date: '2026-06-11 22:25:59 '
+last_modified_at: '2026-06-11 22:25:59 '
 header:
   og_image: /assets/images/Myths_and_misconcept_0d48d7_fact_warning_explana_254e0a_misleading_technique_6e6390-Illustration-1-social.jpg
   preview_image: /assets/images/Myths_and_misconcept_0d48d7_fact_warning_explana_254e0a_misleading_technique_6e6390-Illustration-1.webp

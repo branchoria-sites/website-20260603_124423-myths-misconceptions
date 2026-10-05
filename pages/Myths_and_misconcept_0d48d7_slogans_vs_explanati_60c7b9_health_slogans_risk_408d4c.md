@@ -266,6 +266,7 @@ next_link:
   short_title: Repetition
   heading_title: Why repetition makes myths feel true
 date: '2026-06-11 22:18:05 '
+last_modified_at: '2026-06-11 22:18:05 '
 header:
   og_image: /assets/images/Myths_and_misconcept_0d48d7_slogans_vs_explanati_60c7b9_health_slogans_risk_408d4c-Illustration-1-social.jpg
   preview_image: /assets/images/Myths_and_misconcept_0d48d7_slogans_vs_explanati_60c7b9_health_slogans_risk_408d4c-Illustration-1.webp
