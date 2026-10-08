@@ -246,7 +246,7 @@ site_image_description: A desk covered with fact-check notes, crossed-out rumor 
 <button class="ct-node-badge ct-node-badge-toggle" type="button" data-home-vertical-badge-toggle title="6 pages" aria-label="6 pages" aria-expanded="false">6 pages</button>
 <div class="home-vertical-card-actions">
 <button class="home-vertical-toggle" type="button" data-home-vertical-toggle aria-label="Expand section: Why the 10 Percent Brain Myth Endures | Myths and misconcept" aria-expanded="false" aria-controls="home-vertical-children-node-myths-and-misconcept-0d48d7-ten-percent-brain-my-db46b9"><span class="home-vertical-toggle-icon">+</span><span class="home-vertical-toggle-text">Show subtopics</span></button>
-<a class="topic-card-link home-vertical-read-more" href="{{ '10-brain/' | relative_url }}" title="Why the 10 Percent Brain Myth Endures | Myths and misconcept" aria-label="Read more about Why the 10 Percent Brain Myth Endures | Myths and misconcept">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ '10-brain/' | relative_url }}" title="Why the 10 Percent Brain Myth Endures | Myths and misconcept 0 d48 d7" aria-label="Read more about Why the 10 Percent Brain Myth Endures | Myths and misconcept 0 d48 d7">Read more</a>
 </div>
 </div>
 </div>
@@ -266,7 +266,7 @@ site_image_description: A desk covered with fact-check notes, crossed-out rumor 
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'william-james/' | relative_url }}" title="Did William James Start the Brain Myth? | Myths and misconcept 0 d48 d7 ten percent brain" aria-label="Read more about Did William James Start the Brain Myth? | Myths and misconcept 0 d48 d7 ten percent brain">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'william-james/' | relative_url }}" title="Did William James Start the Brain Myth? | Why the 10 Percent Brain Myth Endures | Myths and misconcept 0 d48 d7" aria-label="Read more about Did William James Start the Brain Myth? | Why the 10 Percent Brain Myth Endures | Myths and misconcept 0 d48 d7">Read more</a>
 </div>
 </div>
 </div>
@@ -286,7 +286,7 @@ site_image_description: A desk covered with fact-check notes, crossed-out rumor 
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'neuroplasticity/' | relative_url }}" title="Neuroplasticity Is Not Hidden Superpower | Myths and misconcept 0 d48 d7 ten percent brain" aria-label="Read more about Neuroplasticity Is Not Hidden Superpower | Myths and misconcept 0 d48 d7 ten percent brain">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'neuroplasticity/' | relative_url }}" title="Neuroplasticity Is Not Hidden Superpower | Why the 10 Percent Brain Myth Endures | Myths and misconcept 0 d48 d7" aria-label="Read more about Neuroplasticity Is Not Hidden Superpower | Why the 10 Percent Brain Myth Endures | Myths and misconcept 0 d48 d7">Read more</a>
 </div>
 </div>
 </div>
@@ -306,7 +306,7 @@ site_image_description: A desk covered with fact-check notes, crossed-out rumor 
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'brain-scans/' | relative_url }}" title="What Brain Scans Do Not Show | Myths and misconcept 0 d48 d7 ten percent brain" aria-label="Read more about What Brain Scans Do Not Show | Myths and misconcept 0 d48 d7 ten percent brain">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'brain-scans/' | relative_url }}" title="What Brain Scans Do Not Show | Why the 10 Percent Brain Myth Endures | Myths and misconcept 0 d48 d7" aria-label="Read more about What Brain Scans Do Not Show | Why the 10 Percent Brain Myth Endures | Myths and misconcept 0 d48 d7">Read more</a>
 </div>
 </div>
 </div>
@@ -326,7 +326,7 @@ site_image_description: A desk covered with fact-check notes, crossed-out rumor 
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'brain-damage/' | relative_url }}" title="Why Small Brain Injuries Can Matter | Myths and misconcept 0 d48 d7 ten percent brain" aria-label="Read more about Why Small Brain Injuries Can Matter | Myths and misconcept 0 d48 d7 ten percent brain">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'brain-damage/' | relative_url }}" title="Why Small Brain Injuries Can Matter | Why the 10 Percent Brain Myth Endures | Myths and misconcept 0 d48 d7" aria-label="Read more about Why Small Brain Injuries Can Matter | Why the 10 Percent Brain Myth Endures | Myths and misconcept 0 d48 d7">Read more</a>
 </div>
 </div>
 </div>
@@ -346,7 +346,7 @@ site_image_description: A desk covered with fact-check notes, crossed-out rumor 
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'belief-appeal/' | relative_url }}" title="Why the 10 Percent Myth Feels True | Myths and misconcept 0 d48 d7 ten percent brain" aria-label="Read more about Why the 10 Percent Myth Feels True | Myths and misconcept 0 d48 d7 ten percent brain">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'belief-appeal/' | relative_url }}" title="Why the 10 Percent Myth Feels True | Why the 10 Percent Brain Myth Endures | Myths and misconcept 0 d48 d7" aria-label="Read more about Why the 10 Percent Myth Feels True | Why the 10 Percent Brain Myth Endures | Myths and misconcept 0 d48 d7">Read more</a>
 </div>
 </div>
 </div>
@@ -370,7 +370,7 @@ site_image_description: A desk covered with fact-check notes, crossed-out rumor 
 <button class="ct-node-badge ct-node-badge-toggle" type="button" data-home-vertical-badge-toggle title="6 pages" aria-label="6 pages" aria-expanded="false">6 pages</button>
 <div class="home-vertical-card-actions">
 <button class="home-vertical-toggle" type="button" data-home-vertical-toggle aria-label="Expand section: How Platforms Help Myths Travel Faster | Myths and misconcept" aria-expanded="false" aria-controls="home-vertical-children-node-myths-and-misconcept-0d48d7-social-media-myths-2c6e1b"><span class="home-vertical-toggle-icon">+</span><span class="home-vertical-toggle-text">Show subtopics</span></button>
-<a class="topic-card-link home-vertical-read-more" href="{{ 'algorithms/' | relative_url }}" title="How Platforms Help Myths Travel Faster | Myths and misconcept" aria-label="Read more about How Platforms Help Myths Travel Faster | Myths and misconcept">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'algorithms/' | relative_url }}" title="How Platforms Help Myths Travel Faster | Myths and misconcept 0 d48 d7" aria-label="Read more about How Platforms Help Myths Travel Faster | Myths and misconcept 0 d48 d7">Read more</a>
 </div>
 </div>
 </div>
@@ -390,7 +390,7 @@ site_image_description: A desk covered with fact-check notes, crossed-out rumor 
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'feed-fixes/' | relative_url }}" title="Are Chronological Feeds Enough? | Myths and misconcept 0 d48 d7 social media myths" aria-label="Read more about Are Chronological Feeds Enough? | Myths and misconcept 0 d48 d7 social media myths">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'feed-fixes/' | relative_url }}" title="Are Chronological Feeds Enough? | How Platforms Help Myths Travel Faster | Myths and misconcept 0 d48 d7" aria-label="Read more about Are Chronological Feeds Enough? | How Platforms Help Myths Travel Faster | Myths and misconcept 0 d48 d7">Read more</a>
 </div>
 </div>
 </div>
@@ -410,7 +410,7 @@ site_image_description: A desk covered with fact-check notes, crossed-out rumor 
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'outrage-boost/' | relative_url }}" title="Can Angry Replies Help Myths Spread? | Myths and misconcept 0 d48 d7 social media myths" aria-label="Read more about Can Angry Replies Help Myths Spread? | Myths and misconcept 0 d48 d7 social media myths">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'outrage-boost/' | relative_url }}" title="Can Angry Replies Help Myths Spread? | How Platforms Help Myths Travel Faster | Myths and misconcept 0 d48 d7" aria-label="Read more about Can Angry Replies Help Myths Spread? | How Platforms Help Myths Travel Faster | Myths and misconcept 0 d48 d7">Read more</a>
 </div>
 </div>
 </div>
@@ -430,7 +430,7 @@ site_image_description: A desk covered with fact-check notes, crossed-out rumor 
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'metric-gap/' | relative_url }}" title="Do Clicks Show What People Want? | Myths and misconcept 0 d48 d7 social media myths" aria-label="Read more about Do Clicks Show What People Want? | Myths and misconcept 0 d48 d7 social media myths">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'metric-gap/' | relative_url }}" title="Do Clicks Show What People Want? | How Platforms Help Myths Travel Faster | Myths and misconcept 0 d48 d7" aria-label="Read more about Do Clicks Show What People Want? | How Platforms Help Myths Travel Faster | Myths and misconcept 0 d48 d7">Read more</a>
 </div>
 </div>
 </div>
@@ -450,7 +450,7 @@ site_image_description: A desk covered with fact-check notes, crossed-out rumor 
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'rumour-loops/' | relative_url }}" title="How Small Rumours Become Mass Myths | Myths and misconcept 0 d48 d7 social media myths" aria-label="Read more about How Small Rumours Become Mass Myths | Myths and misconcept 0 d48 d7 social media myths">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'rumour-loops/' | relative_url }}" title="How Small Rumours Become Mass Myths | How Platforms Help Myths Travel Faster | Myths and misconcept 0 d48 d7" aria-label="Read more about How Small Rumours Become Mass Myths | How Platforms Help Myths Travel Faster | Myths and misconcept 0 d48 d7">Read more</a>
 </div>
 </div>
 </div>
@@ -470,7 +470,7 @@ site_image_description: A desk covered with fact-check notes, crossed-out rumor 
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'creator-rewards/' | relative_url }}" title="When Myths Become a Business Model | Myths and misconcept 0 d48 d7 social media myths" aria-label="Read more about When Myths Become a Business Model | Myths and misconcept 0 d48 d7 social media myths">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'creator-rewards/' | relative_url }}" title="When Myths Become a Business Model | How Platforms Help Myths Travel Faster | Myths and misconcept 0 d48 d7" aria-label="Read more about When Myths Become a Business Model | How Platforms Help Myths Travel Faster | Myths and misconcept 0 d48 d7">Read more</a>
 </div>
 </div>
 </div>
@@ -494,7 +494,7 @@ site_image_description: A desk covered with fact-check notes, crossed-out rumor 
 <button class="ct-node-badge ct-node-badge-toggle" type="button" data-home-vertical-badge-toggle title="6 pages" aria-label="6 pages" aria-expanded="false">6 pages</button>
 <div class="home-vertical-card-actions">
 <button class="home-vertical-toggle" type="button" data-home-vertical-toggle aria-label="Expand section: When Helpful Analogies Teach the Wrong Lesson | Myths and misconcept" aria-expanded="false" aria-controls="home-vertical-children-node-myths-and-misconcept-0d48d7-misleading-analogies-a297a0"><span class="home-vertical-toggle-icon">+</span><span class="home-vertical-toggle-text">Show subtopics</span></button>
-<a class="topic-card-link home-vertical-read-more" href="{{ 'analogies/' | relative_url }}" title="When Helpful Analogies Teach the Wrong Lesson | Myths and misconcept" aria-label="Read more about When Helpful Analogies Teach the Wrong Lesson | Myths and misconcept">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'analogies/' | relative_url }}" title="When Helpful Analogies Teach the Wrong Lesson | Myths and misconcept 0 d48 d7" aria-label="Read more about When Helpful Analogies Teach the Wrong Lesson | Myths and misconcept 0 d48 d7">Read more</a>
 </div>
 </div>
 </div>
@@ -514,7 +514,7 @@ site_image_description: A desk covered with fact-check notes, crossed-out rumor 
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'historical-metaphors/' | relative_url }}" title="How 19 th Century Analogies Skewed Scientific Thinking | Myths and misconcept 0 d48 d7 misleading analogies" aria-label="Read more about How 19 th Century Analogies Skewed Scientific Thinking | Myths and misconcept 0 d48 d7 misleading analogies">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'historical-metaphors/' | relative_url }}" title="How 19 th Century Analogies Skewed Scientific Thinking | When Helpful Analogies Teach the Wrong Lesson | Myths and misconcept 0 d48 d7" aria-label="Read more about How 19 th Century Analogies Skewed Scientific Thinking | When Helpful Analogies Teach the Wrong Lesson | Myths and misconcept 0 d48 d7">Read more</a>
 </div>
 </div>
 </div>
@@ -534,7 +534,7 @@ site_image_description: A desk covered with fact-check notes, crossed-out rumor 
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'teaching-analogy-limits/' | relative_url }}" title="How Clear Framing Prevents Misleading Analogies in Education | Myths and misconcept 0 d48 d7 misleading analogies" aria-label="Read more about How Clear Framing Prevents Misleading Analogies in Education | Myths and misconcept 0 d48 d7 misleading analogies">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'teaching-analogy-limits/' | relative_url }}" title="How Clear Framing Prevents Misleading Analogies in Education | When Helpful Analogies Teach the Wrong Lesson | Myths and misconcept 0 d48 d7" aria-label="Read more about How Clear Framing Prevents Misleading Analogies in Education | When Helpful Analogies Teach the Wrong Lesson | Myths and misconcept 0 d48 d7">Read more</a>
 </div>
 </div>
 </div>
@@ -554,7 +554,7 @@ site_image_description: A desk covered with fact-check notes, crossed-out rumor 
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'plumbing-analogy/' | relative_url }}" title="How Plumbing Comparisons Misrepresent Blood Circulation | Myths and misconcept 0 d48 d7 misleading analogies" aria-label="Read more about How Plumbing Comparisons Misrepresent Blood Circulation | Myths and misconcept 0 d48 d7 misleading analogies">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'plumbing-analogy/' | relative_url }}" title="How Plumbing Comparisons Misrepresent Blood Circulation | When Helpful Analogies Teach the Wrong Lesson | Myths and misconcept 0 d48 d7" aria-label="Read more about How Plumbing Comparisons Misrepresent Blood Circulation | When Helpful Analogies Teach the Wrong Lesson | Myths and misconcept 0 d48 d7">Read more</a>
 </div>
 </div>
 </div>
@@ -574,7 +574,7 @@ site_image_description: A desk covered with fact-check notes, crossed-out rumor 
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'analogy-overextension/' | relative_url }}" title="When Analogies Lead to Incomplete Understanding | Myths and misconcept 0 d48 d7 misleading analogies" aria-label="Read more about When Analogies Lead to Incomplete Understanding | Myths and misconcept 0 d48 d7 misleading analogies">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'analogy-overextension/' | relative_url }}" title="When Analogies Lead to Incomplete Understanding | When Helpful Analogies Teach the Wrong Lesson | Myths and misconcept 0 d48 d7" aria-label="Read more about When Analogies Lead to Incomplete Understanding | When Helpful Analogies Teach the Wrong Lesson | Myths and misconcept 0 d48 d7">Read more</a>
 </div>
 </div>
 </div>
@@ -594,7 +594,7 @@ site_image_description: A desk covered with fact-check notes, crossed-out rumor 
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'geologic-time/' | relative_url }}" title="Why Spatial Metaphors Mislead About Geological Timelines | Myths and misconcept 0 d48 d7 misleading analogies" aria-label="Read more about Why Spatial Metaphors Mislead About Geological Timelines | Myths and misconcept 0 d48 d7 misleading analogies">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'geologic-time/' | relative_url }}" title="Why Spatial Metaphors Mislead About Geological Timelines | When Helpful Analogies Teach the Wrong Lesson | Myths and misconcept 0 d48 d7" aria-label="Read more about Why Spatial Metaphors Mislead About Geological Timelines | When Helpful Analogies Teach the Wrong Lesson | Myths and misconcept 0 d48 d7">Read more</a>
 </div>
 </div>
 </div>
@@ -618,7 +618,7 @@ site_image_description: A desk covered with fact-check notes, crossed-out rumor 
 <button class="ct-node-badge ct-node-badge-toggle" type="button" data-home-vertical-badge-toggle title="6 pages" aria-label="6 pages" aria-expanded="false">6 pages</button>
 <div class="home-vertical-card-actions">
 <button class="home-vertical-toggle" type="button" data-home-vertical-toggle aria-label="Expand section: When Personal Experience Becomes a Myth | Myths and misconcept" aria-expanded="false" aria-controls="home-vertical-children-node-myths-and-misconcept-0d48d7-personal-experience-bd112b"><span class="home-vertical-toggle-icon">+</span><span class="home-vertical-toggle-text">Show subtopics</span></button>
-<a class="topic-card-link home-vertical-read-more" href="{{ 'anecdotes/' | relative_url }}" title="When Personal Experience Becomes a Myth | Myths and misconcept" aria-label="Read more about When Personal Experience Becomes a Myth | Myths and misconcept">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'anecdotes/' | relative_url }}" title="When Personal Experience Becomes a Myth | Myths and misconcept 0 d48 d7" aria-label="Read more about When Personal Experience Becomes a Myth | Myths and misconcept 0 d48 d7">Read more</a>
 </div>
 </div>
 </div>
@@ -638,7 +638,7 @@ site_image_description: A desk covered with fact-check notes, crossed-out rumor 
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'timing-trap/' | relative_url }}" title="Did it work, or did time pass? | Myths and misconcept 0 d48 d7 personal experience" aria-label="Read more about Did it work, or did time pass? | Myths and misconcept 0 d48 d7 personal experience">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'timing-trap/' | relative_url }}" title="Did it work, or did time pass? | When Personal Experience Becomes a Myth | Myths and misconcept 0 d48 d7" aria-label="Read more about Did it work, or did time pass? | When Personal Experience Becomes a Myth | Myths and misconcept 0 d48 d7">Read more</a>
 </div>
 </div>
 </div>
@@ -658,7 +658,7 @@ site_image_description: A desk covered with fact-check notes, crossed-out rumor 
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'story-limits/' | relative_url }}" title="How to respect stories without overclaiming | Myths and misconcept 0 d48 d7 personal experience" aria-label="Read more about How to respect stories without overclaiming | Myths and misconcept 0 d48 d7 personal experience">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'story-limits/' | relative_url }}" title="How to respect stories without overclaiming | When Personal Experience Becomes a Myth | Myths and misconcept 0 d48 d7" aria-label="Read more about How to respect stories without overclaiming | When Personal Experience Becomes a Myth | Myths and misconcept 0 d48 d7">Read more</a>
 </div>
 </div>
 </div>
@@ -678,7 +678,7 @@ site_image_description: A desk covered with fact-check notes, crossed-out rumor 
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'safety-reports/' | relative_url }}" title="What safety reports can and cannot prove | Myths and misconcept 0 d48 d7 personal experience" aria-label="Read more about What safety reports can and cannot prove | Myths and misconcept 0 d48 d7 personal experience">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'safety-reports/' | relative_url }}" title="What safety reports can and cannot prove | When Personal Experience Becomes a Myth | Myths and misconcept 0 d48 d7" aria-label="Read more about What safety reports can and cannot prove | When Personal Experience Becomes a Myth | Myths and misconcept 0 d48 d7">Read more</a>
 </div>
 </div>
 </div>
@@ -698,7 +698,7 @@ site_image_description: A desk covered with fact-check notes, crossed-out rumor 
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'small-samples/' | relative_url }}" title="When a handful of cases looks like proof | Myths and misconcept 0 d48 d7 personal experience" aria-label="Read more about When a handful of cases looks like proof | Myths and misconcept 0 d48 d7 personal experience">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'small-samples/' | relative_url }}" title="When a handful of cases looks like proof | When Personal Experience Becomes a Myth | Myths and misconcept 0 d48 d7" aria-label="Read more about When a handful of cases looks like proof | When Personal Experience Becomes a Myth | Myths and misconcept 0 d48 d7">Read more</a>
 </div>
 </div>
 </div>
@@ -718,7 +718,7 @@ site_image_description: A desk covered with fact-check notes, crossed-out rumor 
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'health-stories/' | relative_url }}" title="Why one health story can overpower numbers | Myths and misconcept 0 d48 d7 personal experience" aria-label="Read more about Why one health story can overpower numbers | Myths and misconcept 0 d48 d7 personal experience">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'health-stories/' | relative_url }}" title="Why one health story can overpower numbers | When Personal Experience Becomes a Myth | Myths and misconcept 0 d48 d7" aria-label="Read more about Why one health story can overpower numbers | When Personal Experience Becomes a Myth | Myths and misconcept 0 d48 d7">Read more</a>
 </div>
 </div>
 </div>
@@ -742,7 +742,7 @@ site_image_description: A desk covered with fact-check notes, crossed-out rumor 
 <button class="ct-node-badge ct-node-badge-toggle" type="button" data-home-vertical-badge-toggle title="6 pages" aria-label="6 pages" aria-expanded="false">6 pages</button>
 <div class="home-vertical-card-actions">
 <button class="home-vertical-toggle" type="button" data-home-vertical-toggle aria-label="Expand section: Does Debunking Really Make Myths Stronger? | Myths and misconcept" aria-expanded="false" aria-controls="home-vertical-children-node-myths-and-misconcept-0d48d7-backfire-effect-myth-0599c9"><span class="home-vertical-toggle-icon">+</span><span class="home-vertical-toggle-text">Show subtopics</span></button>
-<a class="topic-card-link home-vertical-read-more" href="{{ 'backfire/' | relative_url }}" title="Does Debunking Really Make Myths Stronger? | Myths and misconcept" aria-label="Read more about Does Debunking Really Make Myths Stronger? | Myths and misconcept">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'backfire/' | relative_url }}" title="Does Debunking Really Make Myths Stronger? | Myths and misconcept 0 d48 d7" aria-label="Read more about Does Debunking Really Make Myths Stronger? | Myths and misconcept 0 d48 d7">Read more</a>
 </div>
 </div>
 </div>
@@ -762,7 +762,7 @@ site_image_description: A desk covered with fact-check notes, crossed-out rumor 
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'study-evidence/' | relative_url }}" title="Did Researchers Actually Find Backfire? | Myths and misconcept 0 d48 d7 backfire effect myth" aria-label="Read more about Did Researchers Actually Find Backfire? | Myths and misconcept 0 d48 d7 backfire effect myth">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'study-evidence/' | relative_url }}" title="Did Researchers Actually Find Backfire? | Does Debunking Really Make Myths Stronger? | Myths and misconcept 0 d48 d7" aria-label="Read more about Did Researchers Actually Find Backfire? | Does Debunking Really Make Myths Stronger? | Myths and misconcept 0 d48 d7">Read more</a>
 </div>
 </div>
 </div>
@@ -782,7 +782,7 @@ site_image_description: A desk covered with fact-check notes, crossed-out rumor 
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'naming-myths/' | relative_url }}" title="How Much Should a Debunk Repeat the Myth? | Myths and misconcept 0 d48 d7 backfire effect myth" aria-label="Read more about How Much Should a Debunk Repeat the Myth? | Myths and misconcept 0 d48 d7 backfire effect myth">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'naming-myths/' | relative_url }}" title="How Much Should a Debunk Repeat the Myth? | Does Debunking Really Make Myths Stronger? | Myths and misconcept 0 d48 d7" aria-label="Read more about How Much Should a Debunk Repeat the Myth? | Does Debunking Really Make Myths Stronger? | Myths and misconcept 0 d48 d7">Read more</a>
 </div>
 </div>
 </div>
@@ -802,7 +802,7 @@ site_image_description: A desk covered with fact-check notes, crossed-out rumor 
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'political-corrections/' | relative_url }}" title="When Corrections Work But Minds Barely Move | Myths and misconcept 0 d48 d7 backfire effect myth" aria-label="Read more about When Corrections Work But Minds Barely Move | Myths and misconcept 0 d48 d7 backfire effect myth">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'political-corrections/' | relative_url }}" title="When Corrections Work But Minds Barely Move | Does Debunking Really Make Myths Stronger? | Myths and misconcept 0 d48 d7" aria-label="Read more about When Corrections Work But Minds Barely Move | Does Debunking Really Make Myths Stronger? | Myths and misconcept 0 d48 d7">Read more</a>
 </div>
 </div>
 </div>
@@ -822,7 +822,7 @@ site_image_description: A desk covered with fact-check notes, crossed-out rumor 
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'distrust-risk/' | relative_url }}" title="When the Correction Becomes the Problem | Myths and misconcept 0 d48 d7 backfire effect myth" aria-label="Read more about When the Correction Becomes the Problem | Myths and misconcept 0 d48 d7 backfire effect myth">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'distrust-risk/' | relative_url }}" title="When the Correction Becomes the Problem | Does Debunking Really Make Myths Stronger? | Myths and misconcept 0 d48 d7" aria-label="Read more about When the Correction Becomes the Problem | Does Debunking Really Make Myths Stronger? | Myths and misconcept 0 d48 d7">Read more</a>
 </div>
 </div>
 </div>
@@ -842,7 +842,7 @@ site_image_description: A desk covered with fact-check notes, crossed-out rumor 
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'correction-decay/' | relative_url }}" title="Why One Fact Check Is Often Not Enough | Myths and misconcept 0 d48 d7 backfire effect myth" aria-label="Read more about Why One Fact Check Is Often Not Enough | Myths and misconcept 0 d48 d7 backfire effect myth">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'correction-decay/' | relative_url }}" title="Why One Fact Check Is Often Not Enough | Does Debunking Really Make Myths Stronger? | Myths and misconcept 0 d48 d7" aria-label="Read more about Why One Fact Check Is Often Not Enough | Does Debunking Really Make Myths Stronger? | Myths and misconcept 0 d48 d7">Read more</a>
 </div>
 </div>
 </div>
@@ -866,7 +866,7 @@ site_image_description: A desk covered with fact-check notes, crossed-out rumor 
 <button class="ct-node-badge ct-node-badge-toggle" type="button" data-home-vertical-badge-toggle title="6 pages" aria-label="6 pages" aria-expanded="false">6 pages</button>
 <div class="home-vertical-card-actions">
 <button class="home-vertical-toggle" type="button" data-home-vertical-toggle aria-label="Expand section: When Falsehoods Are Spread on Purpose | Myths and misconcept" aria-expanded="false" aria-controls="home-vertical-children-node-myths-and-misconcept-0d48d7-organised-disinforma-da0a9d"><span class="home-vertical-toggle-icon">+</span><span class="home-vertical-toggle-text">Show subtopics</span></button>
-<a class="topic-card-link home-vertical-read-more" href="{{ 'campaigns/' | relative_url }}" title="When Falsehoods Are Spread on Purpose | Myths and misconcept" aria-label="Read more about When Falsehoods Are Spread on Purpose | Myths and misconcept">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'campaigns/' | relative_url }}" title="When Falsehoods Are Spread on Purpose | Myths and misconcept 0 d48 d7" aria-label="Read more about When Falsehoods Are Spread on Purpose | Myths and misconcept 0 d48 d7">Read more</a>
 </div>
 </div>
 </div>
@@ -886,7 +886,7 @@ site_image_description: A desk covered with fact-check notes, crossed-out rumor 
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'platform-rules/' | relative_url }}" title="Can Platforms Stop Manipulation, Not Debate? | Myths and misconcept 0 d48 d7 organised disinforma" aria-label="Read more about Can Platforms Stop Manipulation, Not Debate? | Myths and misconcept 0 d48 d7 organised disinforma">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'platform-rules/' | relative_url }}" title="Can Platforms Stop Manipulation, Not Debate? | When Falsehoods Are Spread on Purpose | Myths and misconcept 0 d48 d7" aria-label="Read more about Can Platforms Stop Manipulation, Not Debate? | When Falsehoods Are Spread on Purpose | Myths and misconcept 0 d48 d7">Read more</a>
 </div>
 </div>
 </div>
@@ -906,7 +906,7 @@ site_image_description: A desk covered with fact-check notes, crossed-out rumor 
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'prebunking-150aba/' | relative_url }}" title="Learning the Trick Before the Lie | Myths and misconcept 0 d48 d7 organised disinforma" aria-label="Read more about Learning the Trick Before the Lie | Myths and misconcept 0 d48 d7 organised disinforma">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'prebunking-150aba/' | relative_url }}" title="Learning the Trick Before the Lie | When Falsehoods Are Spread on Purpose | Myths and misconcept 0 d48 d7" aria-label="Read more about Learning the Trick Before the Lie | When Falsehoods Are Spread on Purpose | Myths and misconcept 0 d48 d7">Read more</a>
 </div>
 </div>
 </div>
@@ -926,7 +926,7 @@ site_image_description: A desk covered with fact-check notes, crossed-out rumor 
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'media-coverage/' | relative_url }}" title="Reporting Rumours Without Spreading Them | Myths and misconcept 0 d48 d7 organised disinforma" aria-label="Read more about Reporting Rumours Without Spreading Them | Myths and misconcept 0 d48 d7 organised disinforma">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'media-coverage/' | relative_url }}" title="Reporting Rumours Without Spreading Them | When Falsehoods Are Spread on Purpose | Myths and misconcept 0 d48 d7" aria-label="Read more about Reporting Rumours Without Spreading Them | When Falsehoods Are Spread on Purpose | Myths and misconcept 0 d48 d7">Read more</a>
 </div>
 </div>
 </div>
@@ -946,7 +946,7 @@ site_image_description: A desk covered with fact-check notes, crossed-out rumor 
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'ira-case/' | relative_url }}" title="The Case That Made Coordination Visible | Myths and misconcept 0 d48 d7 organised disinforma" aria-label="Read more about The Case That Made Coordination Visible | Myths and misconcept 0 d48 d7 organised disinforma">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'ira-case/' | relative_url }}" title="The Case That Made Coordination Visible | When Falsehoods Are Spread on Purpose | Myths and misconcept 0 d48 d7" aria-label="Read more about The Case That Made Coordination Visible | When Falsehoods Are Spread on Purpose | Myths and misconcept 0 d48 d7">Read more</a>
 </div>
 </div>
 </div>
@@ -966,7 +966,7 @@ site_image_description: A desk covered with fact-check notes, crossed-out rumor 
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'astroturfing/' | relative_url }}" title="When a Crowd Is Not a Crowd | Myths and misconcept 0 d48 d7 organised disinforma" aria-label="Read more about When a Crowd Is Not a Crowd | Myths and misconcept 0 d48 d7 organised disinforma">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'astroturfing/' | relative_url }}" title="When a Crowd Is Not a Crowd | When Falsehoods Are Spread on Purpose | Myths and misconcept 0 d48 d7" aria-label="Read more about When a Crowd Is Not a Crowd | When Falsehoods Are Spread on Purpose | Myths and misconcept 0 d48 d7">Read more</a>
 </div>
 </div>
 </div>
@@ -990,7 +990,7 @@ site_image_description: A desk covered with fact-check notes, crossed-out rumor 
 <button class="ct-node-badge ct-node-badge-toggle" type="button" data-home-vertical-badge-toggle title="6 pages" aria-label="6 pages" aria-expanded="false">6 pages</button>
 <div class="home-vertical-card-actions">
 <button class="home-vertical-toggle" type="button" data-home-vertical-toggle aria-label="Expand section: When Myths Come in Professional Packaging | Myths and misconcept" aria-expanded="false" aria-controls="home-vertical-children-node-myths-and-misconcept-0d48d7-commercial-professio-dd3a05"><span class="home-vertical-toggle-icon">+</span><span class="home-vertical-toggle-text">Show subtopics</span></button>
-<a class="topic-card-link home-vertical-read-more" href="{{ 'commercial-myths/' | relative_url }}" title="When Myths Come in Professional Packaging | Myths and misconcept" aria-label="Read more about When Myths Come in Professional Packaging | Myths and misconcept">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'commercial-myths/' | relative_url }}" title="When Myths Come in Professional Packaging | Myths and misconcept 0 d48 d7" aria-label="Read more about When Myths Come in Professional Packaging | Myths and misconcept 0 d48 d7">Read more</a>
 </div>
 </div>
 </div>
@@ -1010,7 +1010,7 @@ site_image_description: A desk covered with fact-check notes, crossed-out rumor 
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'learning-styles-2d3803/' | relative_url }}" title="Do learning styles products really help? | Myths and misconcept 0 d48 d7 commercial professio" aria-label="Read more about Do learning styles products really help? | Myths and misconcept 0 d48 d7 commercial professio">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'learning-styles-2d3803/' | relative_url }}" title="Do learning styles products really help? | When Myths Come in Professional Packaging | Myths and misconcept 0 d48 d7" aria-label="Read more about Do learning styles products really help? | When Myths Come in Professional Packaging | Myths and misconcept 0 d48 d7">Read more</a>
 </div>
 </div>
 </div>
@@ -1030,7 +1030,7 @@ site_image_description: A desk covered with fact-check notes, crossed-out rumor 
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'adoption-paths/' | relative_url }}" title="How packaged myths enter school routines | Myths and misconcept 0 d48 d7 commercial professio" aria-label="Read more about How packaged myths enter school routines | Myths and misconcept 0 d48 d7 commercial professio">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'adoption-paths/' | relative_url }}" title="How packaged myths enter school routines | When Myths Come in Professional Packaging | Myths and misconcept 0 d48 d7" aria-label="Read more about How packaged myths enter school routines | When Myths Come in Professional Packaging | Myths and misconcept 0 d48 d7">Read more</a>
 </div>
 </div>
 </div>
@@ -1050,7 +1050,7 @@ site_image_description: A desk covered with fact-check notes, crossed-out rumor 
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'evidence-based/' | relative_url }}" title="When evidence based becomes a sales phrase | Myths and misconcept 0 d48 d7 commercial professio" aria-label="Read more about When evidence based becomes a sales phrase | Myths and misconcept 0 d48 d7 commercial professio">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'evidence-based/' | relative_url }}" title="When evidence based becomes a sales phrase | When Myths Come in Professional Packaging | Myths and misconcept 0 d48 d7" aria-label="Read more about When evidence based becomes a sales phrase | When Myths Come in Professional Packaging | Myths and misconcept 0 d48 d7">Read more</a>
 </div>
 </div>
 </div>
@@ -1070,7 +1070,7 @@ site_image_description: A desk covered with fact-check notes, crossed-out rumor 
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'brain-gym/' | relative_url }}" title="When movement becomes a brain myth | Myths and misconcept 0 d48 d7 commercial professio" aria-label="Read more about When movement becomes a brain myth | Myths and misconcept 0 d48 d7 commercial professio">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'brain-gym/' | relative_url }}" title="When movement becomes a brain myth | When Myths Come in Professional Packaging | Myths and misconcept 0 d48 d7" aria-label="Read more about When movement becomes a brain myth | When Myths Come in Professional Packaging | Myths and misconcept 0 d48 d7">Read more</a>
 </div>
 </div>
 </div>
@@ -1090,7 +1090,7 @@ site_image_description: A desk covered with fact-check notes, crossed-out rumor 
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'brain-based/' | relative_url }}" title="Why brain words make myths sound smarter | Myths and misconcept 0 d48 d7 commercial professio" aria-label="Read more about Why brain words make myths sound smarter | Myths and misconcept 0 d48 d7 commercial professio">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'brain-based/' | relative_url }}" title="Why brain words make myths sound smarter | When Myths Come in Professional Packaging | Myths and misconcept 0 d48 d7" aria-label="Read more about Why brain words make myths sound smarter | When Myths Come in Professional Packaging | Myths and misconcept 0 d48 d7">Read more</a>
 </div>
 </div>
 </div>
@@ -1114,7 +1114,7 @@ site_image_description: A desk covered with fact-check notes, crossed-out rumor 
 <button class="ct-node-badge ct-node-badge-toggle" type="button" data-home-vertical-badge-toggle title="6 pages" aria-label="6 pages" aria-expanded="false">6 pages</button>
 <div class="home-vertical-card-actions">
 <button class="home-vertical-toggle" type="button" data-home-vertical-toggle aria-label="Expand section: When Common Sense Leads US Wrong | Myths and misconcept" aria-expanded="false" aria-controls="home-vertical-children-node-myths-and-misconcept-0d48d7-common-sense-evidenc-b3089a"><span class="home-vertical-toggle-icon">+</span><span class="home-vertical-toggle-text">Show subtopics</span></button>
-<a class="topic-card-link home-vertical-read-more" href="{{ 'common-sense/' | relative_url }}" title="When Common Sense Leads US Wrong | Myths and misconcept" aria-label="Read more about When Common Sense Leads US Wrong | Myths and misconcept">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'common-sense/' | relative_url }}" title="When Common Sense Leads US Wrong | Myths and misconcept 0 d48 d7" aria-label="Read more about When Common Sense Leads US Wrong | Myths and misconcept 0 d48 d7">Read more</a>
 </div>
 </div>
 </div>
@@ -1134,7 +1134,7 @@ site_image_description: A desk covered with fact-check notes, crossed-out rumor 
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'accuracy-prompts/' | relative_url }}" title="Can one prompt reduce false sharing? | Myths and misconcept 0 d48 d7 common sense evidenc" aria-label="Read more about Can one prompt reduce false sharing? | Myths and misconcept 0 d48 d7 common sense evidenc">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'accuracy-prompts/' | relative_url }}" title="Can one prompt reduce false sharing? | When Common Sense Leads US Wrong | Myths and misconcept 0 d48 d7" aria-label="Read more about Can one prompt reduce false sharing? | When Common Sense Leads US Wrong | Myths and misconcept 0 d48 d7">Read more</a>
 </div>
 </div>
 </div>
@@ -1154,7 +1154,7 @@ site_image_description: A desk covered with fact-check notes, crossed-out rumor 
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'full-moons/' | relative_url }}" title="Do full moons really change behavior? | Myths and misconcept 0 d48 d7 common sense evidenc" aria-label="Read more about Do full moons really change behavior? | Myths and misconcept 0 d48 d7 common sense evidenc">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'full-moons/' | relative_url }}" title="Do full moons really change behavior? | When Common Sense Leads US Wrong | Myths and misconcept 0 d48 d7" aria-label="Read more about Do full moons really change behavior? | When Common Sense Leads US Wrong | Myths and misconcept 0 d48 d7">Read more</a>
 </div>
 </div>
 </div>
@@ -1174,7 +1174,7 @@ site_image_description: A desk covered with fact-check notes, crossed-out rumor 
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'learning-styles-cb868a/' | relative_url }}" title="Do learning styles actually improve learning? | Myths and misconcept 0 d48 d7 common sense evidenc" aria-label="Read more about Do learning styles actually improve learning? | Myths and misconcept 0 d48 d7 common sense evidenc">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'learning-styles-cb868a/' | relative_url }}" title="Do learning styles actually improve learning? | When Common Sense Leads US Wrong | Myths and misconcept 0 d48 d7" aria-label="Read more about Do learning styles actually improve learning? | When Common Sense Leads US Wrong | Myths and misconcept 0 d48 d7">Read more</a>
 </div>
 </div>
 </div>
@@ -1194,7 +1194,7 @@ site_image_description: A desk covered with fact-check notes, crossed-out rumor 
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'prediction-test/' | relative_url }}" title="What would we see if it were true? | Myths and misconcept 0 d48 d7 common sense evidenc" aria-label="Read more about What would we see if it were true? | Myths and misconcept 0 d48 d7 common sense evidenc">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'prediction-test/' | relative_url }}" title="What would we see if it were true? | When Common Sense Leads US Wrong | Myths and misconcept 0 d48 d7" aria-label="Read more about What would we see if it were true? | When Common Sense Leads US Wrong | Myths and misconcept 0 d48 d7">Read more</a>
 </div>
 </div>
 </div>
@@ -1214,7 +1214,7 @@ site_image_description: A desk covered with fact-check notes, crossed-out rumor 
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'hindsight/' | relative_url }}" title="Why outcomes seem obvious after they happen | Myths and misconcept 0 d48 d7 common sense evidenc" aria-label="Read more about Why outcomes seem obvious after they happen | Myths and misconcept 0 d48 d7 common sense evidenc">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'hindsight/' | relative_url }}" title="Why outcomes seem obvious after they happen | When Common Sense Leads US Wrong | Myths and misconcept 0 d48 d7" aria-label="Read more about Why outcomes seem obvious after they happen | When Common Sense Leads US Wrong | Myths and misconcept 0 d48 d7">Read more</a>
 </div>
 </div>
 </div>
@@ -1238,7 +1238,7 @@ site_image_description: A desk covered with fact-check notes, crossed-out rumor 
 <button class="ct-node-badge ct-node-badge-toggle" type="button" data-home-vertical-badge-toggle title="6 pages" aria-label="6 pages" aria-expanded="false">6 pages</button>
 <div class="home-vertical-card-actions">
 <button class="home-vertical-toggle" type="button" data-home-vertical-toggle aria-label="Expand section: How Learners Replace Wrong Ideas | Myths and misconcept" aria-expanded="false" aria-controls="home-vertical-children-node-myths-and-misconcept-0d48d7-conceptual-change-le-bdc9ae"><span class="home-vertical-toggle-icon">+</span><span class="home-vertical-toggle-text">Show subtopics</span></button>
-<a class="topic-card-link home-vertical-read-more" href="{{ 'concept-change/' | relative_url }}" title="How Learners Replace Wrong Ideas | Myths and misconcept" aria-label="Read more about How Learners Replace Wrong Ideas | Myths and misconcept">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'concept-change/' | relative_url }}" title="How Learners Replace Wrong Ideas | Myths and misconcept 0 d48 d7" aria-label="Read more about How Learners Replace Wrong Ideas | Myths and misconcept 0 d48 d7">Read more</a>
 </div>
 </div>
 </div>
@@ -1258,7 +1258,7 @@ site_image_description: A desk covered with fact-check notes, crossed-out rumor 
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'diagnostics/' | relative_url }}" title="The Questions That Reveal Misconceptions | Myths and misconcept 0 d48 d7 conceptual change" aria-label="Read more about The Questions That Reveal Misconceptions | Myths and misconcept 0 d48 d7 conceptual change">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'diagnostics/' | relative_url }}" title="The Questions That Reveal Misconceptions | How Learners Replace Wrong Ideas | Myths and misconcept 0 d48 d7" aria-label="Read more about The Questions That Reveal Misconceptions | How Learners Replace Wrong Ideas | Myths and misconcept 0 d48 d7">Read more</a>
 </div>
 </div>
 </div>
@@ -1278,7 +1278,7 @@ site_image_description: A desk covered with fact-check notes, crossed-out rumor 
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'private-universe/' | relative_url }}" title="What A Private Universe Revealed | Myths and misconcept 0 d48 d7 conceptual change" aria-label="Read more about What A Private Universe Revealed | Myths and misconcept 0 d48 d7 conceptual change">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'private-universe/' | relative_url }}" title="What A Private Universe Revealed | How Learners Replace Wrong Ideas | Myths and misconcept 0 d48 d7" aria-label="Read more about What A Private Universe Revealed | How Learners Replace Wrong Ideas | Myths and misconcept 0 d48 d7">Read more</a>
 </div>
 </div>
 </div>
@@ -1298,7 +1298,7 @@ site_image_description: A desk covered with fact-check notes, crossed-out rumor 
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'conflict/' | relative_url }}" title="When Surprises Actually Change Thinking | Myths and misconcept 0 d48 d7 conceptual change" aria-label="Read more about When Surprises Actually Change Thinking | Myths and misconcept 0 d48 d7 conceptual change">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'conflict/' | relative_url }}" title="When Surprises Actually Change Thinking | How Learners Replace Wrong Ideas | Myths and misconcept 0 d48 d7" aria-label="Read more about When Surprises Actually Change Thinking | How Learners Replace Wrong Ideas | Myths and misconcept 0 d48 d7">Read more</a>
 </div>
 </div>
 </div>
@@ -1318,7 +1318,7 @@ site_image_description: A desk covered with fact-check notes, crossed-out rumor 
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'replacement-494721/' | relative_url }}" title="Why Corrections Need Better Explanations | Myths and misconcept 0 d48 d7 conceptual change" aria-label="Read more about Why Corrections Need Better Explanations | Myths and misconcept 0 d48 d7 conceptual change">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'replacement-494721/' | relative_url }}" title="Why Corrections Need Better Explanations | How Learners Replace Wrong Ideas | Myths and misconcept 0 d48 d7" aria-label="Read more about Why Corrections Need Better Explanations | How Learners Replace Wrong Ideas | Myths and misconcept 0 d48 d7">Read more</a>
 </div>
 </div>
 </div>
@@ -1338,7 +1338,7 @@ site_image_description: A desk covered with fact-check notes, crossed-out rumor 
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'everyday-models/' | relative_url }}" title="Why Wrong Science Ideas Feel Sensible | Myths and misconcept 0 d48 d7 conceptual change" aria-label="Read more about Why Wrong Science Ideas Feel Sensible | Myths and misconcept 0 d48 d7 conceptual change">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'everyday-models/' | relative_url }}" title="Why Wrong Science Ideas Feel Sensible | How Learners Replace Wrong Ideas | Myths and misconcept 0 d48 d7" aria-label="Read more about Why Wrong Science Ideas Feel Sensible | How Learners Replace Wrong Ideas | Myths and misconcept 0 d48 d7">Read more</a>
 </div>
 </div>
 </div>
@@ -1362,7 +1362,7 @@ site_image_description: A desk covered with fact-check notes, crossed-out rumor 
 <button class="ct-node-badge ct-node-badge-toggle" type="button" data-home-vertical-badge-toggle title="6 pages" aria-label="6 pages" aria-expanded="false">6 pages</button>
 <div class="home-vertical-card-actions">
 <button class="home-vertical-toggle" type="button" data-home-vertical-toggle aria-label="Expand section: The Three Parts of a Better Debunk | Myths and misconcept" aria-expanded="false" aria-controls="home-vertical-children-node-myths-and-misconcept-0d48d7-fact-warning-explana-254e0a"><span class="home-vertical-toggle-icon">+</span><span class="home-vertical-toggle-text">Show subtopics</span></button>
-<a class="topic-card-link home-vertical-read-more" href="{{ 'debunking/' | relative_url }}" title="The Three Parts of a Better Debunk | Myths and misconcept" aria-label="Read more about The Three Parts of a Better Debunk | Myths and misconcept">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'debunking/' | relative_url }}" title="The Three Parts of a Better Debunk | Myths and misconcept 0 d48 d7" aria-label="Read more about The Three Parts of a Better Debunk | Myths and misconcept 0 d48 d7">Read more</a>
 </div>
 </div>
 </div>
@@ -1382,7 +1382,7 @@ site_image_description: A desk covered with fact-check notes, crossed-out rumor 
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'health-myths/' | relative_url }}" title="How public health corrections avoid repeating myths | Myths and misconcept 0 d48 d7 fact warning explana" aria-label="Read more about How public health corrections avoid repeating myths | Myths and misconcept 0 d48 d7 fact warning explana">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'health-myths/' | relative_url }}" title="How public health corrections avoid repeating myths | The Three Parts of a Better Debunk | Myths and misconcept 0 d48 d7" aria-label="Read more about How public health corrections avoid repeating myths | The Three Parts of a Better Debunk | Myths and misconcept 0 d48 d7">Read more</a>
 </div>
 </div>
 </div>
@@ -1402,7 +1402,7 @@ site_image_description: A desk covered with fact-check notes, crossed-out rumor 
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'the-trick/' | relative_url }}" title="Show the trick that made the myth plausible | Myths and misconcept 0 d48 d7 fact warning explana" aria-label="Read more about Show the trick that made the myth plausible | Myths and misconcept 0 d48 d7 fact warning explana">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'the-trick/' | relative_url }}" title="Show the trick that made the myth plausible | The Three Parts of a Better Debunk | Myths and misconcept 0 d48 d7" aria-label="Read more about Show the trick that made the myth plausible | The Three Parts of a Better Debunk | Myths and misconcept 0 d48 d7">Read more</a>
 </div>
 </div>
 </div>
@@ -1422,7 +1422,7 @@ site_image_description: A desk covered with fact-check notes, crossed-out rumor 
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'name-it/' | relative_url }}" title="When should a correction repeat the myth? | Myths and misconcept 0 d48 d7 fact warning explana" aria-label="Read more about When should a correction repeat the myth? | Myths and misconcept 0 d48 d7 fact warning explana">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'name-it/' | relative_url }}" title="When should a correction repeat the myth? | The Three Parts of a Better Debunk | Myths and misconcept 0 d48 d7" aria-label="Read more about When should a correction repeat the myth? | The Three Parts of a Better Debunk | Myths and misconcept 0 d48 d7">Read more</a>
 </div>
 </div>
 </div>
@@ -1442,7 +1442,7 @@ site_image_description: A desk covered with fact-check notes, crossed-out rumor 
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'replacement-beb36b/' | relative_url }}" title="Why a better story beats a bare denial | Myths and misconcept 0 d48 d7 fact warning explana" aria-label="Read more about Why a better story beats a bare denial | Myths and misconcept 0 d48 d7 fact warning explana">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'replacement-beb36b/' | relative_url }}" title="Why a better story beats a bare denial | The Three Parts of a Better Debunk | Myths and misconcept 0 d48 d7" aria-label="Read more about Why a better story beats a bare denial | The Three Parts of a Better Debunk | Myths and misconcept 0 d48 d7">Read more</a>
 </div>
 </div>
 </div>
@@ -1462,7 +1462,7 @@ site_image_description: A desk covered with fact-check notes, crossed-out rumor 
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'fact-first/' | relative_url }}" title="Why corrections should lead with the fact | Myths and misconcept 0 d48 d7 fact warning explana" aria-label="Read more about Why corrections should lead with the fact | Myths and misconcept 0 d48 d7 fact warning explana">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'fact-first/' | relative_url }}" title="Why corrections should lead with the fact | The Three Parts of a Better Debunk | Myths and misconcept 0 d48 d7" aria-label="Read more about Why corrections should lead with the fact | The Three Parts of a Better Debunk | Myths and misconcept 0 d48 d7">Read more</a>
 </div>
 </div>
 </div>
@@ -1486,7 +1486,7 @@ site_image_description: A desk covered with fact-check notes, crossed-out rumor 
 <button class="ct-node-badge ct-node-badge-toggle" type="button" data-home-vertical-badge-toggle title="6 pages" aria-label="6 pages" aria-expanded="false">6 pages</button>
 <div class="home-vertical-card-actions">
 <button class="home-vertical-toggle" type="button" data-home-vertical-toggle aria-label="Expand section: When Expert Trust Carries Bad Claims | Myths and misconcept" aria-expanded="false" aria-controls="home-vertical-children-node-myths-and-misconcept-0d48d7-expert-trust-health-481656"><span class="home-vertical-toggle-icon">+</span><span class="home-vertical-toggle-text">Show subtopics</span></button>
-<a class="topic-card-link home-vertical-read-more" href="{{ 'expert-trust/' | relative_url }}" title="When Expert Trust Carries Bad Claims | Myths and misconcept" aria-label="Read more about When Expert Trust Carries Bad Claims | Myths and misconcept">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'expert-trust/' | relative_url }}" title="When Expert Trust Carries Bad Claims | Myths and misconcept 0 d48 d7" aria-label="Read more about When Expert Trust Carries Bad Claims | Myths and misconcept 0 d48 d7">Read more</a>
 </div>
 </div>
 </div>
@@ -1506,7 +1506,7 @@ site_image_description: A desk covered with fact-check notes, crossed-out rumor 
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'ai-doctors/' | relative_url }}" title="Can You Trust the Doctor on Screen? | Myths and misconcept 0 d48 d7 expert trust health" aria-label="Read more about Can You Trust the Doctor on Screen? | Myths and misconcept 0 d48 d7 expert trust health">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'ai-doctors/' | relative_url }}" title="Can You Trust the Doctor on Screen? | When Expert Trust Carries Bad Claims | Myths and misconcept 0 d48 d7" aria-label="Read more about Can You Trust the Doctor on Screen? | When Expert Trust Carries Bad Claims | Myths and misconcept 0 d48 d7">Read more</a>
 </div>
 </div>
 </div>
@@ -1526,7 +1526,7 @@ site_image_description: A desk covered with fact-check notes, crossed-out rumor 
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'mmr-case/' | relative_url }}" title="How the MMR Myth Borrowed Medical Authority | Myths and misconcept 0 d48 d7 expert trust health" aria-label="Read more about How the MMR Myth Borrowed Medical Authority | Myths and misconcept 0 d48 d7 expert trust health">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'mmr-case/' | relative_url }}" title="How the MMR Myth Borrowed Medical Authority | When Expert Trust Carries Bad Claims | Myths and misconcept 0 d48 d7" aria-label="Read more about How the MMR Myth Borrowed Medical Authority | When Expert Trust Carries Bad Claims | Myths and misconcept 0 d48 d7">Read more</a>
 </div>
 </div>
 </div>
@@ -1546,7 +1546,7 @@ site_image_description: A desk covered with fact-check notes, crossed-out rumor 
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'false-balance-0e8d1b/' | relative_url }}" title="When One Expert Is Not Half the Debate | Myths and misconcept 0 d48 d7 expert trust health" aria-label="Read more about When One Expert Is Not Half the Debate | Myths and misconcept 0 d48 d7 expert trust health">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'false-balance-0e8d1b/' | relative_url }}" title="When One Expert Is Not Half the Debate | When Expert Trust Carries Bad Claims | Myths and misconcept 0 d48 d7" aria-label="Read more about When One Expert Is Not Half the Debate | When Expert Trust Carries Bad Claims | Myths and misconcept 0 d48 d7">Read more</a>
 </div>
 </div>
 </div>
@@ -1566,7 +1566,7 @@ site_image_description: A desk covered with fact-check notes, crossed-out rumor 
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'surgisphere/' | relative_url }}" title="When Prestigious Journals Get It Wrong | Myths and misconcept 0 d48 d7 expert trust health" aria-label="Read more about When Prestigious Journals Get It Wrong | Myths and misconcept 0 d48 d7 expert trust health">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'surgisphere/' | relative_url }}" title="When Prestigious Journals Get It Wrong | When Expert Trust Carries Bad Claims | Myths and misconcept 0 d48 d7" aria-label="Read more about When Prestigious Journals Get It Wrong | When Expert Trust Carries Bad Claims | Myths and misconcept 0 d48 d7">Read more</a>
 </div>
 </div>
 </div>
@@ -1586,7 +1586,7 @@ site_image_description: A desk covered with fact-check notes, crossed-out rumor 
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'one-doctor/' | relative_url }}" title="Why One Doctor Can Keep a Myth Alive | Myths and misconcept 0 d48 d7 expert trust health" aria-label="Read more about Why One Doctor Can Keep a Myth Alive | Myths and misconcept 0 d48 d7 expert trust health">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'one-doctor/' | relative_url }}" title="Why One Doctor Can Keep a Myth Alive | When Expert Trust Carries Bad Claims | Myths and misconcept 0 d48 d7" aria-label="Read more about Why One Doctor Can Keep a Myth Alive | When Expert Trust Carries Bad Claims | Myths and misconcept 0 d48 d7">Read more</a>
 </div>
 </div>
 </div>
@@ -1610,7 +1610,7 @@ site_image_description: A desk covered with fact-check notes, crossed-out rumor 
 <button class="ct-node-badge ct-node-badge-toggle" type="button" data-home-vertical-badge-toggle title="6 pages" aria-label="6 pages" aria-expanded="false">6 pages</button>
 <div class="home-vertical-card-actions">
 <button class="home-vertical-toggle" type="button" data-home-vertical-toggle aria-label="Expand section: Why Fact Checking Is Not Enough | Myths and misconcept" aria-expanded="false" aria-controls="home-vertical-children-node-myths-and-misconcept-0d48d7-fact-checking-limits-22dd32"><span class="home-vertical-toggle-icon">+</span><span class="home-vertical-toggle-text">Show subtopics</span></button>
-<a class="topic-card-link home-vertical-read-more" href="{{ 'fact-checks/' | relative_url }}" title="Why Fact Checking Is Not Enough | Myths and misconcept" aria-label="Read more about Why Fact Checking Is Not Enough | Myths and misconcept">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'fact-checks/' | relative_url }}" title="Why Fact Checking Is Not Enough | Myths and misconcept 0 d48 d7" aria-label="Read more about Why Fact Checking Is Not Enough | Myths and misconcept 0 d48 d7">Read more</a>
 </div>
 </div>
 </div>
@@ -1630,7 +1630,7 @@ site_image_description: A desk covered with fact-check notes, crossed-out rumor 
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'prebunking-810fc5/' | relative_url }}" title="Can Prebunking Stop Myths Earlier? | Myths and misconcept 0 d48 d7 fact checking limits" aria-label="Read more about Can Prebunking Stop Myths Earlier? | Myths and misconcept 0 d48 d7 fact checking limits">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'prebunking-810fc5/' | relative_url }}" title="Can Prebunking Stop Myths Earlier? | Why Fact Checking Is Not Enough | Myths and misconcept 0 d48 d7" aria-label="Read more about Can Prebunking Stop Myths Earlier? | Why Fact Checking Is Not Enough | Myths and misconcept 0 d48 d7">Read more</a>
 </div>
 </div>
 </div>
@@ -1650,7 +1650,7 @@ site_image_description: A desk covered with fact-check notes, crossed-out rumor 
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'mutation/' | relative_url }}" title="How Myths Survive After Being Debunked | Myths and misconcept 0 d48 d7 fact checking limits" aria-label="Read more about How Myths Survive After Being Debunked | Myths and misconcept 0 d48 d7 fact checking limits">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'mutation/' | relative_url }}" title="How Myths Survive After Being Debunked | Why Fact Checking Is Not Enough | Myths and misconcept 0 d48 d7" aria-label="Read more about How Myths Survive After Being Debunked | Why Fact Checking Is Not Enough | Myths and misconcept 0 d48 d7">Read more</a>
 </div>
 </div>
 </div>
@@ -1670,7 +1670,7 @@ site_image_description: A desk covered with fact-check notes, crossed-out rumor 
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'platforms/' | relative_url }}" title="When Platforms Reward Myths Over Accuracy | Myths and misconcept 0 d48 d7 fact checking limits" aria-label="Read more about When Platforms Reward Myths Over Accuracy | Myths and misconcept 0 d48 d7 fact checking limits">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'platforms/' | relative_url }}" title="When Platforms Reward Myths Over Accuracy | Why Fact Checking Is Not Enough | Myths and misconcept 0 d48 d7" aria-label="Read more about When Platforms Reward Myths Over Accuracy | Why Fact Checking Is Not Enough | Myths and misconcept 0 d48 d7">Read more</a>
 </div>
 </div>
 </div>
@@ -1690,7 +1690,7 @@ site_image_description: A desk covered with fact-check notes, crossed-out rumor 
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'better-story-524703/' | relative_url }}" title="Why Debunking Needs a Replacement Story | Myths and misconcept 0 d48 d7 fact checking limits" aria-label="Read more about Why Debunking Needs a Replacement Story | Myths and misconcept 0 d48 d7 fact checking limits">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'better-story-524703/' | relative_url }}" title="Why Debunking Needs a Replacement Story | Why Fact Checking Is Not Enough | Myths and misconcept 0 d48 d7" aria-label="Read more about Why Debunking Needs a Replacement Story | Why Fact Checking Is Not Enough | Myths and misconcept 0 d48 d7">Read more</a>
 </div>
 </div>
 </div>
@@ -1710,7 +1710,7 @@ site_image_description: A desk covered with fact-check notes, crossed-out rumor 
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'speed-gap/' | relative_url }}" title="Why Myths Move Faster Than Corrections | Myths and misconcept 0 d48 d7 fact checking limits" aria-label="Read more about Why Myths Move Faster Than Corrections | Myths and misconcept 0 d48 d7 fact checking limits">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'speed-gap/' | relative_url }}" title="Why Myths Move Faster Than Corrections | Why Fact Checking Is Not Enough | Myths and misconcept 0 d48 d7" aria-label="Read more about Why Myths Move Faster Than Corrections | Why Fact Checking Is Not Enough | Myths and misconcept 0 d48 d7">Read more</a>
 </div>
 </div>
 </div>
@@ -1734,7 +1734,7 @@ site_image_description: A desk covered with fact-check notes, crossed-out rumor 
 <button class="ct-node-badge ct-node-badge-toggle" type="button" data-home-vertical-badge-toggle title="6 pages" aria-label="6 pages" aria-expanded="false">6 pages</button>
 <div class="home-vertical-card-actions">
 <button class="home-vertical-toggle" type="button" data-home-vertical-toggle aria-label="Expand section: Why Common Sense Gets Falling Objects Wrong | Myths and misconcept" aria-expanded="false" aria-controls="home-vertical-children-node-myths-and-misconcept-0d48d7-falling-objects-intu-7c231d"><span class="home-vertical-toggle-icon">+</span><span class="home-vertical-toggle-text">Show subtopics</span></button>
-<a class="topic-card-link home-vertical-read-more" href="{{ 'falling-objects/' | relative_url }}" title="Why Common Sense Gets Falling Objects Wrong | Myths and misconcept" aria-label="Read more about Why Common Sense Gets Falling Objects Wrong | Myths and misconcept">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'falling-objects/' | relative_url }}" title="Why Common Sense Gets Falling Objects Wrong | Myths and misconcept 0 d48 d7" aria-label="Read more about Why Common Sense Gets Falling Objects Wrong | Myths and misconcept 0 d48 d7">Read more</a>
 </div>
 </div>
 </div>
@@ -1754,7 +1754,7 @@ site_image_description: A desk covered with fact-check notes, crossed-out rumor 
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'galileo/' | relative_url }}" title="Did Galileo really prove it from a tower? | Myths and misconcept 0 d48 d7 falling objects intu" aria-label="Read more about Did Galileo really prove it from a tower? | Myths and misconcept 0 d48 d7 falling objects intu">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'galileo/' | relative_url }}" title="Did Galileo really prove it from a tower? | Why Common Sense Gets Falling Objects Wrong | Myths and misconcept 0 d48 d7" aria-label="Read more about Did Galileo really prove it from a tower? | Why Common Sense Gets Falling Objects Wrong | Myths and misconcept 0 d48 d7">Read more</a>
 </div>
 </div>
 </div>
@@ -1774,7 +1774,7 @@ site_image_description: A desk covered with fact-check notes, crossed-out rumor 
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'home-tests/' | relative_url }}" title="Try the falling object myth for yourself | Myths and misconcept 0 d48 d7 falling objects intu" aria-label="Read more about Try the falling object myth for yourself | Myths and misconcept 0 d48 d7 falling objects intu">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'home-tests/' | relative_url }}" title="Try the falling object myth for yourself | Why Common Sense Gets Falling Objects Wrong | Myths and misconcept 0 d48 d7" aria-label="Read more about Try the falling object myth for yourself | Why Common Sense Gets Falling Objects Wrong | Myths and misconcept 0 d48 d7">Read more</a>
 </div>
 </div>
 </div>
@@ -1794,7 +1794,7 @@ site_image_description: A desk covered with fact-check notes, crossed-out rumor 
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'paper-shape/' | relative_url }}" title="Why crumpled paper beats flat paper | Myths and misconcept 0 d48 d7 falling objects intu" aria-label="Read more about Why crumpled paper beats flat paper | Myths and misconcept 0 d48 d7 falling objects intu">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'paper-shape/' | relative_url }}" title="Why crumpled paper beats flat paper | Why Common Sense Gets Falling Objects Wrong | Myths and misconcept 0 d48 d7" aria-label="Read more about Why crumpled paper beats flat paper | Why Common Sense Gets Falling Objects Wrong | Myths and misconcept 0 d48 d7">Read more</a>
 </div>
 </div>
 </div>
@@ -1814,7 +1814,7 @@ site_image_description: A desk covered with fact-check notes, crossed-out rumor 
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'terminal-speed/' | relative_url }}" title="Why falling objects stop speeding up | Myths and misconcept 0 d48 d7 falling objects intu" aria-label="Read more about Why falling objects stop speeding up | Myths and misconcept 0 d48 d7 falling objects intu">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'terminal-speed/' | relative_url }}" title="Why falling objects stop speeding up | Why Common Sense Gets Falling Objects Wrong | Myths and misconcept 0 d48 d7" aria-label="Read more about Why falling objects stop speeding up | Why Common Sense Gets Falling Objects Wrong | Myths and misconcept 0 d48 d7">Read more</a>
 </div>
 </div>
 </div>
@@ -1834,7 +1834,7 @@ site_image_description: A desk covered with fact-check notes, crossed-out rumor 
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'moon-drop/' | relative_url }}" title="Why the hammer and feather landed together | Myths and misconcept 0 d48 d7 falling objects intu" aria-label="Read more about Why the hammer and feather landed together | Myths and misconcept 0 d48 d7 falling objects intu">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'moon-drop/' | relative_url }}" title="Why the hammer and feather landed together | Why Common Sense Gets Falling Objects Wrong | Myths and misconcept 0 d48 d7" aria-label="Read more about Why the hammer and feather landed together | Why Common Sense Gets Falling Objects Wrong | Myths and misconcept 0 d48 d7">Read more</a>
 </div>
 </div>
 </div>
@@ -1858,7 +1858,7 @@ site_image_description: A desk covered with fact-check notes, crossed-out rumor 
 <button class="ct-node-badge ct-node-badge-toggle" type="button" data-home-vertical-badge-toggle title="6 pages" aria-label="6 pages" aria-expanded="false">6 pages</button>
 <div class="home-vertical-card-actions">
 <button class="home-vertical-toggle" type="button" data-home-vertical-toggle aria-label="Expand section: When Both Sides Framing Misleads Readers | Myths and misconcept" aria-expanded="false" aria-controls="home-vertical-children-node-myths-and-misconcept-0d48d7-false-balance-claims-5530ff"><span class="home-vertical-toggle-icon">+</span><span class="home-vertical-toggle-text">Show subtopics</span></button>
-<a class="topic-card-link home-vertical-read-more" href="{{ 'false-balance/' | relative_url }}" title="When Both Sides Framing Misleads Readers | Myths and misconcept" aria-label="Read more about When Both Sides Framing Misleads Readers | Myths and misconcept">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'false-balance/' | relative_url }}" title="When Both Sides Framing Misleads Readers | Myths and misconcept 0 d48 d7" aria-label="Read more about When Both Sides Framing Misleads Readers | Myths and misconcept 0 d48 d7">Read more</a>
 </div>
 </div>
 </div>
@@ -1878,7 +1878,7 @@ site_image_description: A desk covered with fact-check notes, crossed-out rumor 
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'vaccine-coverage/' | relative_url }}" title="Can Balanced Reporting Make Vaccine Myths Stronger? | Myths and misconcept 0 d48 d7 false balance claims" aria-label="Read more about Can Balanced Reporting Make Vaccine Myths Stronger? | Myths and misconcept 0 d48 d7 false balance claims">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'vaccine-coverage/' | relative_url }}" title="Can Balanced Reporting Make Vaccine Myths Stronger? | When Both Sides Framing Misleads Readers | Myths and misconcept 0 d48 d7" aria-label="Read more about Can Balanced Reporting Make Vaccine Myths Stronger? | When Both Sides Framing Misleads Readers | Myths and misconcept 0 d48 d7">Read more</a>
 </div>
 </div>
 </div>
@@ -1898,7 +1898,7 @@ site_image_description: A desk covered with fact-check notes, crossed-out rumor 
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'equal-airtime/' | relative_url }}" title="Does Equal Airtime Create False Certainty? | Myths and misconcept 0 d48 d7 false balance claims" aria-label="Read more about Does Equal Airtime Create False Certainty? | Myths and misconcept 0 d48 d7 false balance claims">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'equal-airtime/' | relative_url }}" title="Does Equal Airtime Create False Certainty? | When Both Sides Framing Misleads Readers | Myths and misconcept 0 d48 d7" aria-label="Read more about Does Equal Airtime Create False Certainty? | When Both Sides Framing Misleads Readers | Myths and misconcept 0 d48 d7">Read more</a>
 </div>
 </div>
 </div>
@@ -1918,7 +1918,7 @@ site_image_description: A desk covered with fact-check notes, crossed-out rumor 
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'evidence-weighting/' | relative_url }}" title="What Does Fair Reporting Look Like Instead? | Myths and misconcept 0 d48 d7 false balance claims" aria-label="Read more about What Does Fair Reporting Look Like Instead? | Myths and misconcept 0 d48 d7 false balance claims">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'evidence-weighting/' | relative_url }}" title="What Does Fair Reporting Look Like Instead? | When Both Sides Framing Misleads Readers | Myths and misconcept 0 d48 d7" aria-label="Read more about What Does Fair Reporting Look Like Instead? | When Both Sides Framing Misleads Readers | Myths and misconcept 0 d48 d7">Read more</a>
 </div>
 </div>
 </div>
@@ -1938,7 +1938,7 @@ site_image_description: A desk covered with fact-check notes, crossed-out rumor 
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'climate-debate/' | relative_url }}" title="Why Climate Science Looked More Divided Than It Was | Myths and misconcept 0 d48 d7 false balance claims" aria-label="Read more about Why Climate Science Looked More Divided Than It Was | Myths and misconcept 0 d48 d7 false balance claims">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'climate-debate/' | relative_url }}" title="Why Climate Science Looked More Divided Than It Was | When Both Sides Framing Misleads Readers | Myths and misconcept 0 d48 d7" aria-label="Read more about Why Climate Science Looked More Divided Than It Was | When Both Sides Framing Misleads Readers | Myths and misconcept 0 d48 d7">Read more</a>
 </div>
 </div>
 </div>
@@ -1958,7 +1958,7 @@ site_image_description: A desk covered with fact-check notes, crossed-out rumor 
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'due-impartiality/' | relative_url }}" title="Why Fairness Is Not Always Fifty Fifty | Myths and misconcept 0 d48 d7 false balance claims" aria-label="Read more about Why Fairness Is Not Always Fifty Fifty | Myths and misconcept 0 d48 d7 false balance claims">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'due-impartiality/' | relative_url }}" title="Why Fairness Is Not Always Fifty Fifty | When Both Sides Framing Misleads Readers | Myths and misconcept 0 d48 d7" aria-label="Read more about Why Fairness Is Not Always Fifty Fifty | When Both Sides Framing Misleads Readers | Myths and misconcept 0 d48 d7">Read more</a>
 </div>
 </div>
 </div>
@@ -1982,7 +1982,7 @@ site_image_description: A desk covered with fact-check notes, crossed-out rumor 
 <button class="ct-node-badge ct-node-badge-toggle" type="button" data-home-vertical-badge-toggle title="6 pages" aria-label="6 pages" aria-expanded="false">6 pages</button>
 <div class="home-vertical-card-actions">
 <button class="home-vertical-toggle" type="button" data-home-vertical-toggle aria-label="Expand section: Misinformation or Disinformation: Why Intent Matters | Myths and misconcept" aria-expanded="false" aria-controls="home-vertical-children-node-myths-and-misconcept-0d48d7-misinformation-disin-12ff83"><span class="home-vertical-toggle-icon">+</span><span class="home-vertical-toggle-text">Show subtopics</span></button>
-<a class="topic-card-link home-vertical-read-more" href="{{ 'false-info/' | relative_url }}" title="Misinformation or Disinformation: Why Intent Matters | Myths and misconcept" aria-label="Read more about Misinformation or Disinformation: Why Intent Matters | Myths and misconcept">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'false-info/' | relative_url }}" title="Misinformation or Disinformation: Why Intent Matters | Myths and misconcept 0 d48 d7" aria-label="Read more about Misinformation or Disinformation: Why Intent Matters | Myths and misconcept 0 d48 d7">Read more</a>
 </div>
 </div>
 </div>
@@ -2002,7 +2002,7 @@ site_image_description: A desk covered with fact-check notes, crossed-out rumor 
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'flood-tactics/' | relative_url }}" title="How deception campaigns flood the truth | Myths and misconcept 0 d48 d7 misinformation disin" aria-label="Read more about How deception campaigns flood the truth | Myths and misconcept 0 d48 d7 misinformation disin">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'flood-tactics/' | relative_url }}" title="How deception campaigns flood the truth | Misinformation or Disinformation: Why Intent Matters | Myths and misconcept 0 d48 d7" aria-label="Read more about How deception campaigns flood the truth | Misinformation or Disinformation: Why Intent Matters | Myths and misconcept 0 d48 d7">Read more</a>
 </div>
 </div>
 </div>
@@ -2022,7 +2022,7 @@ site_image_description: A desk covered with fact-check notes, crossed-out rumor 
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'overcalling/' | relative_url }}" title="When disinformation is the wrong label | Myths and misconcept 0 d48 d7 misinformation disin" aria-label="Read more about When disinformation is the wrong label | Myths and misconcept 0 d48 d7 misinformation disin">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'overcalling/' | relative_url }}" title="When disinformation is the wrong label | Misinformation or Disinformation: Why Intent Matters | Myths and misconcept 0 d48 d7" aria-label="Read more about When disinformation is the wrong label | Misinformation or Disinformation: Why Intent Matters | Myths and misconcept 0 d48 d7">Read more</a>
 </div>
 </div>
 </div>
@@ -2042,7 +2042,7 @@ site_image_description: A desk covered with fact-check notes, crossed-out rumor 
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'better-fixes/' | relative_url }}" title="Why corrections need a better story | Myths and misconcept 0 d48 d7 misinformation disin" aria-label="Read more about Why corrections need a better story | Myths and misconcept 0 d48 d7 misinformation disin">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'better-fixes/' | relative_url }}" title="Why corrections need a better story | Misinformation or Disinformation: Why Intent Matters | Myths and misconcept 0 d48 d7" aria-label="Read more about Why corrections need a better story | Misinformation or Disinformation: Why Intent Matters | Myths and misconcept 0 d48 d7">Read more</a>
 </div>
 </div>
 </div>
@@ -2062,7 +2062,7 @@ site_image_description: A desk covered with fact-check notes, crossed-out rumor 
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'intent-test/' | relative_url }}" title="Why intent changes the right response | Myths and misconcept 0 d48 d7 misinformation disin" aria-label="Read more about Why intent changes the right response | Myths and misconcept 0 d48 d7 misinformation disin">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'intent-test/' | relative_url }}" title="Why intent changes the right response | Misinformation or Disinformation: Why Intent Matters | Myths and misconcept 0 d48 d7" aria-label="Read more about Why intent changes the right response | Misinformation or Disinformation: Why Intent Matters | Myths and misconcept 0 d48 d7">Read more</a>
 </div>
 </div>
 </div>
@@ -2082,7 +2082,7 @@ site_image_description: A desk covered with fact-check notes, crossed-out rumor 
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'platform-risk/' | relative_url }}" title="Why platforms look beyond single posts | Myths and misconcept 0 d48 d7 misinformation disin" aria-label="Read more about Why platforms look beyond single posts | Myths and misconcept 0 d48 d7 misinformation disin">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'platform-risk/' | relative_url }}" title="Why platforms look beyond single posts | Misinformation or Disinformation: Why Intent Matters | Myths and misconcept 0 d48 d7" aria-label="Read more about Why platforms look beyond single posts | Misinformation or Disinformation: Why Intent Matters | Myths and misconcept 0 d48 d7">Read more</a>
 </div>
 </div>
 </div>
@@ -2106,7 +2106,7 @@ site_image_description: A desk covered with fact-check notes, crossed-out rumor 
 <button class="ct-node-badge ct-node-badge-toggle" type="button" data-home-vertical-badge-toggle title="6 pages" aria-label="6 pages" aria-expanded="false">6 pages</button>
 <div class="home-vertical-card-actions">
 <button class="home-vertical-toggle" type="button" data-home-vertical-toggle aria-label="Expand section: Why Repetition Makes Claims Feel True | Myths and misconcept" aria-expanded="false" aria-controls="home-vertical-children-node-myths-and-misconcept-0d48d7-familiar-claims-beli-a7d535"><span class="home-vertical-toggle-icon">+</span><span class="home-vertical-toggle-text">Show subtopics</span></button>
-<a class="topic-card-link home-vertical-read-more" href="{{ 'familiarity/' | relative_url }}" title="Why Repetition Makes Claims Feel True | Myths and misconcept" aria-label="Read more about Why Repetition Makes Claims Feel True | Myths and misconcept">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'familiarity/' | relative_url }}" title="Why Repetition Makes Claims Feel True | Myths and misconcept 0 d48 d7" aria-label="Read more about Why Repetition Makes Claims Feel True | Myths and misconcept 0 d48 d7">Read more</a>
 </div>
 </div>
 </div>
@@ -2126,7 +2126,7 @@ site_image_description: A desk covered with fact-check notes, crossed-out rumor 
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'better-corrections/' | relative_url }}" title="How to correct a myth without boosting it | Myths and misconcept 0 d48 d7 familiar claims beli" aria-label="Read more about How to correct a myth without boosting it | Myths and misconcept 0 d48 d7 familiar claims beli">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'better-corrections/' | relative_url }}" title="How to correct a myth without boosting it | Why Repetition Makes Claims Feel True | Myths and misconcept 0 d48 d7" aria-label="Read more about How to correct a myth without boosting it | Why Repetition Makes Claims Feel True | Myths and misconcept 0 d48 d7">Read more</a>
 </div>
 </div>
 </div>
@@ -2146,7 +2146,7 @@ site_image_description: A desk covered with fact-check notes, crossed-out rumor 
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'fluency/' | relative_url }}" title="When easy thinking feels like evidence | Myths and misconcept 0 d48 d7 familiar claims beli" aria-label="Read more about When easy thinking feels like evidence | Myths and misconcept 0 d48 d7 familiar claims beli">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'fluency/' | relative_url }}" title="When easy thinking feels like evidence | Why Repetition Makes Claims Feel True | Myths and misconcept 0 d48 d7" aria-label="Read more about When easy thinking feels like evidence | Why Repetition Makes Claims Feel True | Myths and misconcept 0 d48 d7">Read more</a>
 </div>
 </div>
 </div>
@@ -2166,7 +2166,7 @@ site_image_description: A desk covered with fact-check notes, crossed-out rumor 
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'climate-claims/' | relative_url }}" title="When repeated climate claims feel established | Myths and misconcept 0 d48 d7 familiar claims beli" aria-label="Read more about When repeated climate claims feel established | Myths and misconcept 0 d48 d7 familiar claims beli">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'climate-claims/' | relative_url }}" title="When repeated climate claims feel established | Why Repetition Makes Claims Feel True | Myths and misconcept 0 d48 d7" aria-label="Read more about When repeated climate claims feel established | Why Repetition Makes Claims Feel True | Myths and misconcept 0 d48 d7">Read more</a>
 </div>
 </div>
 </div>
@@ -2186,7 +2186,7 @@ site_image_description: A desk covered with fact-check notes, crossed-out rumor 
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'after-correction/' | relative_url }}" title="Why corrected myths can still sound true | Myths and misconcept 0 d48 d7 familiar claims beli" aria-label="Read more about Why corrected myths can still sound true | Myths and misconcept 0 d48 d7 familiar claims beli">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'after-correction/' | relative_url }}" title="Why corrected myths can still sound true | Why Repetition Makes Claims Feel True | Myths and misconcept 0 d48 d7" aria-label="Read more about Why corrected myths can still sound true | Why Repetition Makes Claims Feel True | Myths and misconcept 0 d48 d7">Read more</a>
 </div>
 </div>
 </div>
@@ -2206,7 +2206,7 @@ site_image_description: A desk covered with fact-check notes, crossed-out rumor 
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'headlines/' | relative_url }}" title="Why one headline can feel familiar enough | Myths and misconcept 0 d48 d7 familiar claims beli" aria-label="Read more about Why one headline can feel familiar enough | Myths and misconcept 0 d48 d7 familiar claims beli">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'headlines/' | relative_url }}" title="Why one headline can feel familiar enough | Why Repetition Makes Claims Feel True | Myths and misconcept 0 d48 d7" aria-label="Read more about Why one headline can feel familiar enough | Why Repetition Makes Claims Feel True | Myths and misconcept 0 d48 d7">Read more</a>
 </div>
 </div>
 </div>
@@ -2230,7 +2230,7 @@ site_image_description: A desk covered with fact-check notes, crossed-out rumor 
 <button class="ct-node-badge ct-node-badge-toggle" type="button" data-home-vertical-badge-toggle title="6 pages" aria-label="6 pages" aria-expanded="false">6 pages</button>
 <div class="home-vertical-card-actions">
 <button class="home-vertical-toggle" type="button" data-home-vertical-toggle aria-label="Expand section: Why Helpful Health Advice Can Be Wrong | Myths and misconcept" aria-expanded="false" aria-controls="home-vertical-children-node-myths-and-misconcept-0d48d7-false-health-claims-1bb5c7"><span class="home-vertical-toggle-icon">+</span><span class="home-vertical-toggle-text">Show subtopics</span></button>
-<a class="topic-card-link home-vertical-read-more" href="{{ 'health-claims/' | relative_url }}" title="Why Helpful Health Advice Can Be Wrong | Myths and misconcept" aria-label="Read more about Why Helpful Health Advice Can Be Wrong | Myths and misconcept">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'health-claims/' | relative_url }}" title="Why Helpful Health Advice Can Be Wrong | Myths and misconcept 0 d48 d7" aria-label="Read more about Why Helpful Health Advice Can Be Wrong | Myths and misconcept 0 d48 d7">Read more</a>
 </div>
 </div>
 </div>
@@ -2250,7 +2250,7 @@ site_image_description: A desk covered with fact-check notes, crossed-out rumor 
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'kind-corrections/' | relative_url }}" title="How to Correct Health Myths Kindly | Myths and misconcept 0 d48 d7 false health claims" aria-label="Read more about How to Correct Health Myths Kindly | Myths and misconcept 0 d48 d7 false health claims">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'kind-corrections/' | relative_url }}" title="How to Correct Health Myths Kindly | Why Helpful Health Advice Can Be Wrong | Myths and misconcept 0 d48 d7" aria-label="Read more about How to Correct Health Myths Kindly | Why Helpful Health Advice Can Be Wrong | Myths and misconcept 0 d48 d7">Read more</a>
 </div>
 </div>
 </div>
@@ -2270,7 +2270,7 @@ site_image_description: A desk covered with fact-check notes, crossed-out rumor 
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'cancer-stories/' | relative_url }}" title="When Cancer Cure Stories Leave Out Treatment | Myths and misconcept 0 d48 d7 false health claims" aria-label="Read more about When Cancer Cure Stories Leave Out Treatment | Myths and misconcept 0 d48 d7 false health claims">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'cancer-stories/' | relative_url }}" title="When Cancer Cure Stories Leave Out Treatment | Why Helpful Health Advice Can Be Wrong | Myths and misconcept 0 d48 d7" aria-label="Read more about When Cancer Cure Stories Leave Out Treatment | Why Helpful Health Advice Can Be Wrong | Myths and misconcept 0 d48 d7">Read more</a>
 </div>
 </div>
 </div>
@@ -2290,7 +2290,7 @@ site_image_description: A desk covered with fact-check notes, crossed-out rumor 
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'natural-remedies/' | relative_url }}" title="When Natural Sounds Safer Than Evidence | Myths and misconcept 0 d48 d7 false health claims" aria-label="Read more about When Natural Sounds Safer Than Evidence | Myths and misconcept 0 d48 d7 false health claims">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'natural-remedies/' | relative_url }}" title="When Natural Sounds Safer Than Evidence | Why Helpful Health Advice Can Be Wrong | Myths and misconcept 0 d48 d7" aria-label="Read more about When Natural Sounds Safer Than Evidence | Why Helpful Health Advice Can Be Wrong | Myths and misconcept 0 d48 d7">Read more</a>
 </div>
 </div>
 </div>
@@ -2310,7 +2310,7 @@ site_image_description: A desk covered with fact-check notes, crossed-out rumor 
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'urgent-warnings/' | relative_url }}" title="Why Urgent Health Warnings Spread So Fast | Myths and misconcept 0 d48 d7 false health claims" aria-label="Read more about Why Urgent Health Warnings Spread So Fast | Myths and misconcept 0 d48 d7 false health claims">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'urgent-warnings/' | relative_url }}" title="Why Urgent Health Warnings Spread So Fast | Why Helpful Health Advice Can Be Wrong | Myths and misconcept 0 d48 d7" aria-label="Read more about Why Urgent Health Warnings Spread So Fast | Why Helpful Health Advice Can Be Wrong | Myths and misconcept 0 d48 d7">Read more</a>
 </div>
 </div>
 </div>
@@ -2330,7 +2330,7 @@ site_image_description: A desk covered with fact-check notes, crossed-out rumor 
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'vaccine-fears/' | relative_url }}" title="Why Vaccine Myths Feel Protective to Parents | Myths and misconcept 0 d48 d7 false health claims" aria-label="Read more about Why Vaccine Myths Feel Protective to Parents | Myths and misconcept 0 d48 d7 false health claims">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'vaccine-fears/' | relative_url }}" title="Why Vaccine Myths Feel Protective to Parents | Why Helpful Health Advice Can Be Wrong | Myths and misconcept 0 d48 d7" aria-label="Read more about Why Vaccine Myths Feel Protective to Parents | Why Helpful Health Advice Can Be Wrong | Myths and misconcept 0 d48 d7">Read more</a>
 </div>
 </div>
 </div>
@@ -2354,7 +2354,7 @@ site_image_description: A desk covered with fact-check notes, crossed-out rumor 
 <button class="ct-node-badge ct-node-badge-toggle" type="button" data-home-vertical-badge-toggle title="6 pages" aria-label="6 pages" aria-expanded="false">6 pages</button>
 <div class="home-vertical-card-actions">
 <button class="home-vertical-toggle" type="button" data-home-vertical-toggle aria-label="Expand section: Why Trusted People Make Myths Stick | Myths and misconcept" aria-expanded="false" aria-controls="home-vertical-children-node-myths-and-misconcept-0d48d7-identity-trust-belie-3d20c4"><span class="home-vertical-toggle-icon">+</span><span class="home-vertical-toggle-text">Show subtopics</span></button>
-<a class="topic-card-link home-vertical-read-more" href="{{ 'identity/' | relative_url }}" title="Why Trusted People Make Myths Stick | Myths and misconcept" aria-label="Read more about Why Trusted People Make Myths Stick | Myths and misconcept">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'identity/' | relative_url }}" title="Why Trusted People Make Myths Stick | Myths and misconcept 0 d48 d7" aria-label="Read more about Why Trusted People Make Myths Stick | Myths and misconcept 0 d48 d7">Read more</a>
 </div>
 </div>
 </div>
@@ -2374,7 +2374,7 @@ site_image_description: A desk covered with fact-check notes, crossed-out rumor 
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'trusted-fixes/' | relative_url }}" title="How corrections avoid sounding like attacks | Myths and misconcept 0 d48 d7 identity trust belie" aria-label="Read more about How corrections avoid sounding like attacks | Myths and misconcept 0 d48 d7 identity trust belie">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'trusted-fixes/' | relative_url }}" title="How corrections avoid sounding like attacks | Why Trusted People Make Myths Stick | Myths and misconcept 0 d48 d7" aria-label="Read more about How corrections avoid sounding like attacks | Why Trusted People Make Myths Stick | Myths and misconcept 0 d48 d7">Read more</a>
 </div>
 </div>
 </div>
@@ -2394,7 +2394,7 @@ site_image_description: A desk covered with fact-check notes, crossed-out rumor 
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'group-loyalty/' | relative_url }}" title="When a myth becomes a loyalty test | Myths and misconcept 0 d48 d7 identity trust belie" aria-label="Read more about When a myth becomes a loyalty test | Myths and misconcept 0 d48 d7 identity trust belie">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'group-loyalty/' | relative_url }}" title="When a myth becomes a loyalty test | Why Trusted People Make Myths Stick | Myths and misconcept 0 d48 d7" aria-label="Read more about When a myth becomes a loyalty test | Why Trusted People Make Myths Stick | Myths and misconcept 0 d48 d7">Read more</a>
 </div>
 </div>
 </div>
@@ -2414,7 +2414,7 @@ site_image_description: A desk covered with fact-check notes, crossed-out rumor 
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'expert-limits/' | relative_url }}" title="When experts are trusted for the wrong thing | Myths and misconcept 0 d48 d7 identity trust belie" aria-label="Read more about When experts are trusted for the wrong thing | Myths and misconcept 0 d48 d7 identity trust belie">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'expert-limits/' | relative_url }}" title="When experts are trusted for the wrong thing | Why Trusted People Make Myths Stick | Myths and misconcept 0 d48 d7" aria-label="Read more about When experts are trusted for the wrong thing | Why Trusted People Make Myths Stick | Myths and misconcept 0 d48 d7">Read more</a>
 </div>
 </div>
 </div>
@@ -2434,7 +2434,7 @@ site_image_description: A desk covered with fact-check notes, crossed-out rumor 
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'influencers-5b6d7d/' | relative_url }}" title="Why familiar influencers can sound reliable | Myths and misconcept 0 d48 d7 identity trust belie" aria-label="Read more about Why familiar influencers can sound reliable | Myths and misconcept 0 d48 d7 identity trust belie">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'influencers-5b6d7d/' | relative_url }}" title="Why familiar influencers can sound reliable | Why Trusted People Make Myths Stick | Myths and misconcept 0 d48 d7" aria-label="Read more about Why familiar influencers can sound reliable | Why Trusted People Make Myths Stick | Myths and misconcept 0 d48 d7">Read more</a>
 </div>
 </div>
 </div>
@@ -2454,7 +2454,7 @@ site_image_description: A desk covered with fact-check notes, crossed-out rumor 
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'family-advice/' | relative_url }}" title="Why family health myths feel so convincing | Myths and misconcept 0 d48 d7 identity trust belie" aria-label="Read more about Why family health myths feel so convincing | Myths and misconcept 0 d48 d7 identity trust belie">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'family-advice/' | relative_url }}" title="Why family health myths feel so convincing | Why Trusted People Make Myths Stick | Myths and misconcept 0 d48 d7" aria-label="Read more about Why family health myths feel so convincing | Why Trusted People Make Myths Stick | Myths and misconcept 0 d48 d7">Read more</a>
 </div>
 </div>
 </div>
@@ -2478,7 +2478,7 @@ site_image_description: A desk covered with fact-check notes, crossed-out rumor 
 <button class="ct-node-badge ct-node-badge-toggle" type="button" data-home-vertical-badge-toggle title="6 pages" aria-label="6 pages" aria-expanded="false">6 pages</button>
 <div class="home-vertical-card-actions">
 <button class="home-vertical-toggle" type="button" data-home-vertical-toggle aria-label="Expand section: When Authority Shortcuts Spread Myths | Myths and misconcept" aria-expanded="false" aria-controls="home-vertical-children-node-myths-and-misconcept-0d48d7-authority-shortcuts-4b05b1"><span class="home-vertical-toggle-icon">+</span><span class="home-vertical-toggle-text">Show subtopics</span></button>
-<a class="topic-card-link home-vertical-read-more" href="{{ 'influencers/' | relative_url }}" title="When Authority Shortcuts Spread Myths | Myths and misconcept" aria-label="Read more about When Authority Shortcuts Spread Myths | Myths and misconcept">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'influencers/' | relative_url }}" title="When Authority Shortcuts Spread Myths | Myths and misconcept 0 d48 d7" aria-label="Read more about When Authority Shortcuts Spread Myths | Myths and misconcept 0 d48 d7">Read more</a>
 </div>
 </div>
 </div>
@@ -2498,7 +2498,7 @@ site_image_description: A desk covered with fact-check notes, crossed-out rumor 
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'viral-proof/' | relative_url }}" title="When Likes Make Myths Look True | Myths and misconcept 0 d48 d7 authority shortcuts" aria-label="Read more about When Likes Make Myths Look True | Myths and misconcept 0 d48 d7 authority shortcuts">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'viral-proof/' | relative_url }}" title="When Likes Make Myths Look True | When Authority Shortcuts Spread Myths | Myths and misconcept 0 d48 d7" aria-label="Read more about When Likes Make Myths Look True | When Authority Shortcuts Spread Myths | Myths and misconcept 0 d48 d7">Read more</a>
 </div>
 </div>
 </div>
@@ -2518,7 +2518,7 @@ site_image_description: A desk covered with fact-check notes, crossed-out rumor 
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'lane-drift/' | relative_url }}" title="When Trusted Influencers Leave Their Lane | Myths and misconcept 0 d48 d7 authority shortcuts" aria-label="Read more about When Trusted Influencers Leave Their Lane | Myths and misconcept 0 d48 d7 authority shortcuts">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'lane-drift/' | relative_url }}" title="When Trusted Influencers Leave Their Lane | When Authority Shortcuts Spread Myths | Myths and misconcept 0 d48 d7" aria-label="Read more about When Trusted Influencers Leave Their Lane | When Authority Shortcuts Spread Myths | Myths and misconcept 0 d48 d7">Read more</a>
 </div>
 </div>
 </div>
@@ -2538,7 +2538,7 @@ site_image_description: A desk covered with fact-check notes, crossed-out rumor 
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'local-voices/' | relative_url }}" title="Who Can Correct Influencer Myths? | Myths and misconcept 0 d48 d7 authority shortcuts" aria-label="Read more about Who Can Correct Influencer Myths? | Myths and misconcept 0 d48 d7 authority shortcuts">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'local-voices/' | relative_url }}" title="Who Can Correct Influencer Myths? | When Authority Shortcuts Spread Myths | Myths and misconcept 0 d48 d7" aria-label="Read more about Who Can Correct Influencer Myths? | When Authority Shortcuts Spread Myths | Myths and misconcept 0 d48 d7">Read more</a>
 </div>
 </div>
 </div>
@@ -2558,7 +2558,7 @@ site_image_description: A desk covered with fact-check notes, crossed-out rumor 
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'check-first/' | relative_url }}" title="Why Creators Share Before They Check | Myths and misconcept 0 d48 d7 authority shortcuts" aria-label="Read more about Why Creators Share Before They Check | Myths and misconcept 0 d48 d7 authority shortcuts">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'check-first/' | relative_url }}" title="Why Creators Share Before They Check | When Authority Shortcuts Spread Myths | Myths and misconcept 0 d48 d7" aria-label="Read more about Why Creators Share Before They Check | When Authority Shortcuts Spread Myths | Myths and misconcept 0 d48 d7">Read more</a>
 </div>
 </div>
 </div>
@@ -2578,7 +2578,7 @@ site_image_description: A desk covered with fact-check notes, crossed-out rumor 
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'felt-trust/' | relative_url }}" title="Why Influencer Health Advice Feels Personal | Myths and misconcept 0 d48 d7 authority shortcuts" aria-label="Read more about Why Influencer Health Advice Feels Personal | Myths and misconcept 0 d48 d7 authority shortcuts">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'felt-trust/' | relative_url }}" title="Why Influencer Health Advice Feels Personal | When Authority Shortcuts Spread Myths | Myths and misconcept 0 d48 d7" aria-label="Read more about Why Influencer Health Advice Feels Personal | When Authority Shortcuts Spread Myths | Myths and misconcept 0 d48 d7">Read more</a>
 </div>
 </div>
 </div>
@@ -2602,7 +2602,7 @@ site_image_description: A desk covered with fact-check notes, crossed-out rumor 
 <button class="ct-node-badge ct-node-badge-toggle" type="button" data-home-vertical-badge-toggle title="6 pages" aria-label="6 pages" aria-expanded="false">6 pages</button>
 <div class="home-vertical-card-actions">
 <button class="home-vertical-toggle" type="button" data-home-vertical-toggle aria-label="Expand section: Myth or Misconception: What Is the Difference? | Myths and misconcept" aria-expanded="false" aria-controls="home-vertical-children-node-myths-and-misconcept-0d48d7-myth-vs-misconceptio-b6f36d"><span class="home-vertical-toggle-icon">+</span><span class="home-vertical-toggle-text">Show subtopics</span></button>
-<a class="topic-card-link home-vertical-read-more" href="{{ 'key-terms/' | relative_url }}" title="Myth or Misconception: What Is the Difference? | Myths and misconcept" aria-label="Read more about Myth or Misconception: What Is the Difference? | Myths and misconcept">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'key-terms/' | relative_url }}" title="Myth or Misconception: What Is the Difference? | Myths and misconcept 0 d48 d7" aria-label="Read more about Myth or Misconception: What Is the Difference? | Myths and misconcept 0 d48 d7">Read more</a>
 </div>
 </div>
 </div>
@@ -2622,7 +2622,7 @@ site_image_description: A desk covered with fact-check notes, crossed-out rumor 
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'better-corrections-e615f7/' | relative_url }}" title="Correct the Story or Fix the Model? | Myths and misconcept 0 d48 d7 myth vs misconceptio" aria-label="Read more about Correct the Story or Fix the Model? | Myths and misconcept 0 d48 d7 myth vs misconceptio">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'better-corrections-e615f7/' | relative_url }}" title="Correct the Story or Fix the Model? | Myth or Misconception: What Is the Difference? | Myths and misconcept 0 d48 d7" aria-label="Read more about Correct the Story or Fix the Model? | Myth or Misconception: What Is the Difference? | Myths and misconcept 0 d48 d7">Read more</a>
 </div>
 </div>
 </div>
@@ -2642,7 +2642,7 @@ site_image_description: A desk covered with fact-check notes, crossed-out rumor 
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'cultural-myths/' | relative_url }}" title="How False Claims Become Shared Stories | Myths and misconcept 0 d48 d7 myth vs misconceptio" aria-label="Read more about How False Claims Become Shared Stories | Myths and misconcept 0 d48 d7 myth vs misconceptio">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'cultural-myths/' | relative_url }}" title="How False Claims Become Shared Stories | Myth or Misconception: What Is the Difference? | Myths and misconcept 0 d48 d7" aria-label="Read more about How False Claims Become Shared Stories | Myth or Misconception: What Is the Difference? | Myths and misconcept 0 d48 d7">Read more</a>
 </div>
 </div>
 </div>
@@ -2662,7 +2662,7 @@ site_image_description: A desk covered with fact-check notes, crossed-out rumor 
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'tell-them-apart/' | relative_url }}" title="Is It a Myth or a Misconception? | Myths and misconcept 0 d48 d7 myth vs misconceptio" aria-label="Read more about Is It a Myth or a Misconception? | Myths and misconcept 0 d48 d7 myth vs misconceptio">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'tell-them-apart/' | relative_url }}" title="Is It a Myth or a Misconception? | Myth or Misconception: What Is the Difference? | Myths and misconcept 0 d48 d7" aria-label="Read more about Is It a Myth or a Misconception? | Myth or Misconception: What Is the Difference? | Myths and misconcept 0 d48 d7">Read more</a>
 </div>
 </div>
 </div>
@@ -2682,7 +2682,7 @@ site_image_description: A desk covered with fact-check notes, crossed-out rumor 
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'myth-to-model/' | relative_url }}" title="When Repeated Claims Shape Understanding | Myths and misconcept 0 d48 d7 myth vs misconceptio" aria-label="Read more about When Repeated Claims Shape Understanding | Myths and misconcept 0 d48 d7 myth vs misconceptio">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'myth-to-model/' | relative_url }}" title="When Repeated Claims Shape Understanding | Myth or Misconception: What Is the Difference? | Myths and misconcept 0 d48 d7" aria-label="Read more about When Repeated Claims Shape Understanding | Myth or Misconception: What Is the Difference? | Myths and misconcept 0 d48 d7">Read more</a>
 </div>
 </div>
 </div>
@@ -2702,7 +2702,7 @@ site_image_description: A desk covered with fact-check notes, crossed-out rumor 
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'mistaken-models/' | relative_url }}" title="Why Wrong Explanations Can Feel Right | Myths and misconcept 0 d48 d7 myth vs misconceptio" aria-label="Read more about Why Wrong Explanations Can Feel Right | Myths and misconcept 0 d48 d7 myth vs misconceptio">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'mistaken-models/' | relative_url }}" title="Why Wrong Explanations Can Feel Right | Myth or Misconception: What Is the Difference? | Myths and misconcept 0 d48 d7" aria-label="Read more about Why Wrong Explanations Can Feel Right | Myth or Misconception: What Is the Difference? | Myths and misconcept 0 d48 d7">Read more</a>
 </div>
 </div>
 </div>
@@ -2726,7 +2726,7 @@ site_image_description: A desk covered with fact-check notes, crossed-out rumor 
 <button class="ct-node-badge ct-node-badge-toggle" type="button" data-home-vertical-badge-toggle title="6 pages" aria-label="6 pages" aria-expanded="false">6 pages</button>
 <div class="home-vertical-card-actions">
 <button class="home-vertical-toggle" type="button" data-home-vertical-toggle aria-label="Expand section: Do Learning Styles Really Improve Learning? | Myths and misconcept" aria-expanded="false" aria-controls="home-vertical-children-node-myths-and-misconcept-0d48d7-learning-styles-evid-7a050d"><span class="home-vertical-toggle-icon">+</span><span class="home-vertical-toggle-text">Show subtopics</span></button>
-<a class="topic-card-link home-vertical-read-more" href="{{ 'learning-styles/' | relative_url }}" title="Do Learning Styles Really Improve Learning? | Myths and misconcept" aria-label="Read more about Do Learning Styles Really Improve Learning? | Myths and misconcept">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'learning-styles/' | relative_url }}" title="Do Learning Styles Really Improve Learning? | Myths and misconcept 0 d48 d7" aria-label="Read more about Do Learning Styles Really Improve Learning? | Myths and misconcept 0 d48 d7">Read more</a>
 </div>
 </div>
 </div>
@@ -2746,7 +2746,7 @@ site_image_description: A desk covered with fact-check notes, crossed-out rumor 
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'labels-risk/' | relative_url }}" title="Can a helpful label hold students back? | Myths and misconcept 0 d48 d7 learning styles evid" aria-label="Read more about Can a helpful label hold students back? | Myths and misconcept 0 d48 d7 learning styles evid">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'labels-risk/' | relative_url }}" title="Can a helpful label hold students back? | Do Learning Styles Really Improve Learning? | Myths and misconcept 0 d48 d7" aria-label="Read more about Can a helpful label hold students back? | Do Learning Styles Really Improve Learning? | Myths and misconcept 0 d48 d7">Read more</a>
 </div>
 </div>
 </div>
@@ -2766,7 +2766,7 @@ site_image_description: A desk covered with fact-check notes, crossed-out rumor 
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'content-first/' | relative_url }}" title="Let the content choose the mode | Myths and misconcept 0 d48 d7 learning styles evid" aria-label="Read more about Let the content choose the mode | Myths and misconcept 0 d48 d7 learning styles evid">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'content-first/' | relative_url }}" title="Let the content choose the mode | Do Learning Styles Really Improve Learning? | Myths and misconcept 0 d48 d7" aria-label="Read more about Let the content choose the mode | Do Learning Styles Really Improve Learning? | Myths and misconcept 0 d48 d7">Read more</a>
 </div>
 </div>
 </div>
@@ -2786,7 +2786,7 @@ site_image_description: A desk covered with fact-check notes, crossed-out rumor 
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'survey-trap/' | relative_url }}" title="The planning time learning styles steal | Myths and misconcept 0 d48 d7 learning styles evid" aria-label="Read more about The planning time learning styles steal | Myths and misconcept 0 d48 d7 learning styles evid">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'survey-trap/' | relative_url }}" title="The planning time learning styles steal | Do Learning Styles Really Improve Learning? | Myths and misconcept 0 d48 d7" aria-label="Read more about The planning time learning styles steal | Do Learning Styles Really Improve Learning? | Myths and misconcept 0 d48 d7">Read more</a>
 </div>
 </div>
 </div>
@@ -2806,7 +2806,7 @@ site_image_description: A desk covered with fact-check notes, crossed-out rumor 
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'self-labels/' | relative_url }}" title="When students believe they learn only one way | Myths and misconcept 0 d48 d7 learning styles evid" aria-label="Read more about When students believe they learn only one way | Myths and misconcept 0 d48 d7 learning styles evid">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'self-labels/' | relative_url }}" title="When students believe they learn only one way | Do Learning Styles Really Improve Learning? | Myths and misconcept 0 d48 d7" aria-label="Read more about When students believe they learn only one way | Do Learning Styles Really Improve Learning? | Myths and misconcept 0 d48 d7">Read more</a>
 </div>
 </div>
 </div>
@@ -2826,7 +2826,7 @@ site_image_description: A desk covered with fact-check notes, crossed-out rumor 
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'matching-claim/' | relative_url }}" title="Why the matching claim falls apart | Myths and misconcept 0 d48 d7 learning styles evid" aria-label="Read more about Why the matching claim falls apart | Myths and misconcept 0 d48 d7 learning styles evid">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'matching-claim/' | relative_url }}" title="Why the matching claim falls apart | Do Learning Styles Really Improve Learning? | Myths and misconcept 0 d48 d7" aria-label="Read more about Why the matching claim falls apart | Do Learning Styles Really Improve Learning? | Myths and misconcept 0 d48 d7">Read more</a>
 </div>
 </div>
 </div>
@@ -2850,7 +2850,7 @@ site_image_description: A desk covered with fact-check notes, crossed-out rumor 
 <button class="ct-node-badge ct-node-badge-toggle" type="button" data-home-vertical-badge-toggle title="6 pages" aria-label="6 pages" aria-expanded="false">6 pages</button>
 <div class="home-vertical-card-actions">
 <button class="home-vertical-toggle" type="button" data-home-vertical-toggle aria-label="Expand section: Are People Really Left Brain or Right Brain? | Myths and misconcept" aria-expanded="false" aria-controls="home-vertical-children-node-myths-and-misconcept-0d48d7-left-right-brain-cla-de8870"><span class="home-vertical-toggle-icon">+</span><span class="home-vertical-toggle-text">Show subtopics</span></button>
-<a class="topic-card-link home-vertical-read-more" href="{{ 'left-brain/' | relative_url }}" title="Are People Really Left Brain or Right Brain? | Myths and misconcept" aria-label="Read more about Are People Really Left Brain or Right Brain? | Myths and misconcept">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'left-brain/' | relative_url }}" title="Are People Really Left Brain or Right Brain? | Myths and misconcept 0 d48 d7" aria-label="Read more about Are People Really Left Brain or Right Brain? | Myths and misconcept 0 d48 d7">Read more</a>
 </div>
 </div>
 </div>
@@ -2870,7 +2870,7 @@ site_image_description: A desk covered with fact-check notes, crossed-out rumor 
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'imaging-study/' | relative_url }}" title="Did brain scans find left brained people? | Myths and misconcept 0 d48 d7 left right brain cla" aria-label="Read more about Did brain scans find left brained people? | Myths and misconcept 0 d48 d7 left right brain cla">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'imaging-study/' | relative_url }}" title="Did brain scans find left brained people? | Are People Really Left Brain or Right Brain? | Myths and misconcept 0 d48 d7" aria-label="Read more about Did brain scans find left brained people? | Are People Really Left Brain or Right Brain? | Myths and misconcept 0 d48 d7">Read more</a>
 </div>
 </div>
 </div>
@@ -2890,7 +2890,7 @@ site_image_description: A desk covered with fact-check notes, crossed-out rumor 
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'creativity-myth/' | relative_url }}" title="Is creativity really a right brain skill? | Myths and misconcept 0 d48 d7 left right brain cla" aria-label="Read more about Is creativity really a right brain skill? | Myths and misconcept 0 d48 d7 left right brain cla">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'creativity-myth/' | relative_url }}" title="Is creativity really a right brain skill? | Are People Really Left Brain or Right Brain? | Myths and misconcept 0 d48 d7" aria-label="Read more about Is creativity really a right brain skill? | Are People Really Left Brain or Right Brain? | Myths and misconcept 0 d48 d7">Read more</a>
 </div>
 </div>
 </div>
@@ -2910,7 +2910,7 @@ site_image_description: A desk covered with fact-check notes, crossed-out rumor 
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'lateralisation/' | relative_url }}" title="What brain lateralisation really means | Myths and misconcept 0 d48 d7 left right brain cla" aria-label="Read more about What brain lateralisation really means | Myths and misconcept 0 d48 d7 left right brain cla">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'lateralisation/' | relative_url }}" title="What brain lateralisation really means | Are People Really Left Brain or Right Brain? | Myths and misconcept 0 d48 d7" aria-label="Read more about What brain lateralisation really means | Are People Really Left Brain or Right Brain? | Myths and misconcept 0 d48 d7">Read more</a>
 </div>
 </div>
 </div>
@@ -2930,7 +2930,7 @@ site_image_description: A desk covered with fact-check notes, crossed-out rumor 
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'learner-labels-f9b3ab/' | relative_url }}" title="When brain labels shrink expectations | Myths and misconcept 0 d48 d7 left right brain cla" aria-label="Read more about When brain labels shrink expectations | Myths and misconcept 0 d48 d7 left right brain cla">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'learner-labels-f9b3ab/' | relative_url }}" title="When brain labels shrink expectations | Are People Really Left Brain or Right Brain? | Myths and misconcept 0 d48 d7" aria-label="Read more about When brain labels shrink expectations | Are People Really Left Brain or Right Brain? | Myths and misconcept 0 d48 d7">Read more</a>
 </div>
 </div>
 </div>
@@ -2950,7 +2950,7 @@ site_image_description: A desk covered with fact-check notes, crossed-out rumor 
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'style-matching/' | relative_url }}" title="Why matching styles is not enough | Myths and misconcept 0 d48 d7 left right brain cla" aria-label="Read more about Why matching styles is not enough | Myths and misconcept 0 d48 d7 left right brain cla">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'style-matching/' | relative_url }}" title="Why matching styles is not enough | Are People Really Left Brain or Right Brain? | Myths and misconcept 0 d48 d7" aria-label="Read more about Why matching styles is not enough | Are People Really Left Brain or Right Brain? | Myths and misconcept 0 d48 d7">Read more</a>
 </div>
 </div>
 </div>
@@ -2974,7 +2974,7 @@ site_image_description: A desk covered with fact-check notes, crossed-out rumor 
 <button class="ct-node-badge ct-node-badge-toggle" type="button" data-home-vertical-badge-toggle title="6 pages" aria-label="6 pages" aria-expanded="false">6 pages</button>
 <div class="home-vertical-card-actions">
 <button class="home-vertical-toggle" type="button" data-home-vertical-toggle aria-label="Expand section: How Media Literacy Prevents Myths | Myths and misconcept" aria-expanded="false" aria-controls="home-vertical-children-node-myths-and-misconcept-0d48d7-media-literacy-preve-08a3ab"><span class="home-vertical-toggle-icon">+</span><span class="home-vertical-toggle-text">Show subtopics</span></button>
-<a class="topic-card-link home-vertical-read-more" href="{{ 'media-literacy/' | relative_url }}" title="How Media Literacy Prevents Myths | Myths and misconcept" aria-label="Read more about How Media Literacy Prevents Myths | Myths and misconcept">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'media-literacy/' | relative_url }}" title="How Media Literacy Prevents Myths | Myths and misconcept 0 d48 d7" aria-label="Read more about How Media Literacy Prevents Myths | Myths and misconcept 0 d48 d7">Read more</a>
 </div>
 </div>
 </div>
@@ -2994,7 +2994,7 @@ site_image_description: A desk covered with fact-check notes, crossed-out rumor 
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'sift-method/' | relative_url }}" title="A simple checklist for suspicious claims | Myths and misconcept 0 d48 d7 media literacy preve" aria-label="Read more about A simple checklist for suspicious claims | Myths and misconcept 0 d48 d7 media literacy preve">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'sift-method/' | relative_url }}" title="A simple checklist for suspicious claims | How Media Literacy Prevents Myths | Myths and misconcept 0 d48 d7" aria-label="Read more about A simple checklist for suspicious claims | How Media Literacy Prevents Myths | Myths and misconcept 0 d48 d7">Read more</a>
 </div>
 </div>
 </div>
@@ -3014,7 +3014,7 @@ site_image_description: A desk covered with fact-check notes, crossed-out rumor 
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'prebunking-869b67/' | relative_url }}" title="Can warning people before myths work better? | Myths and misconcept 0 d48 d7 media literacy preve" aria-label="Read more about Can warning people before myths work better? | Myths and misconcept 0 d48 d7 media literacy preve">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'prebunking-869b67/' | relative_url }}" title="Can warning people before myths work better? | How Media Literacy Prevents Myths | Myths and misconcept 0 d48 d7" aria-label="Read more about Can warning people before myths work better? | How Media Literacy Prevents Myths | Myths and misconcept 0 d48 d7">Read more</a>
 </div>
 </div>
 </div>
@@ -3034,7 +3034,7 @@ site_image_description: A desk covered with fact-check notes, crossed-out rumor 
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'emotional-headlines/' | relative_url }}" title="When outrage should make you pause | Myths and misconcept 0 d48 d7 media literacy preve" aria-label="Read more about When outrage should make you pause | Myths and misconcept 0 d48 d7 media literacy preve">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'emotional-headlines/' | relative_url }}" title="When outrage should make you pause | How Media Literacy Prevents Myths | Myths and misconcept 0 d48 d7" aria-label="Read more about When outrage should make you pause | How Media Literacy Prevents Myths | Myths and misconcept 0 d48 d7">Read more</a>
 </div>
 </div>
 </div>
@@ -3054,7 +3054,7 @@ site_image_description: A desk covered with fact-check notes, crossed-out rumor 
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'lateral-reading/' | relative_url }}" title="Why leaving the page can reveal more | Myths and misconcept 0 d48 d7 media literacy preve" aria-label="Read more about Why leaving the page can reveal more | Myths and misconcept 0 d48 d7 media literacy preve">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'lateral-reading/' | relative_url }}" title="Why leaving the page can reveal more | How Media Literacy Prevents Myths | Myths and misconcept 0 d48 d7" aria-label="Read more about Why leaving the page can reveal more | How Media Literacy Prevents Myths | Myths and misconcept 0 d48 d7">Read more</a>
 </div>
 </div>
 </div>
@@ -3074,7 +3074,7 @@ site_image_description: A desk covered with fact-check notes, crossed-out rumor 
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'practice-limits/' | relative_url }}" title="Why one lesson is rarely enough | Myths and misconcept 0 d48 d7 media literacy preve" aria-label="Read more about Why one lesson is rarely enough | Myths and misconcept 0 d48 d7 media literacy preve">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'practice-limits/' | relative_url }}" title="Why one lesson is rarely enough | How Media Literacy Prevents Myths | Myths and misconcept 0 d48 d7" aria-label="Read more about Why one lesson is rarely enough | How Media Literacy Prevents Myths | Myths and misconcept 0 d48 d7">Read more</a>
 </div>
 </div>
 </div>
@@ -3098,7 +3098,7 @@ site_image_description: A desk covered with fact-check notes, crossed-out rumor 
 <button class="ct-node-badge ct-node-badge-toggle" type="button" data-home-vertical-badge-toggle title="6 pages" aria-label="6 pages" aria-expanded="false">6 pages</button>
 <div class="home-vertical-card-actions">
 <button class="home-vertical-toggle" type="button" data-home-vertical-toggle aria-label="Expand section: Why Memory Is Not a Video Recording | Myths and misconcept" aria-expanded="false" aria-controls="home-vertical-children-node-myths-and-misconcept-0d48d7-memory-recording-mis-a2a9c2"><span class="home-vertical-toggle-icon">+</span><span class="home-vertical-toggle-text">Show subtopics</span></button>
-<a class="topic-card-link home-vertical-read-more" href="{{ 'memory/' | relative_url }}" title="Why Memory Is Not a Video Recording | Myths and misconcept" aria-label="Read more about Why Memory Is Not a Video Recording | Myths and misconcept">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'memory/' | relative_url }}" title="Why Memory Is Not a Video Recording | Myths and misconcept 0 d48 d7" aria-label="Read more about Why Memory Is Not a Video Recording | Myths and misconcept 0 d48 d7">Read more</a>
 </div>
 </div>
 </div>
@@ -3118,7 +3118,7 @@ site_image_description: A desk covered with fact-check notes, crossed-out rumor 
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'leading-questions/' | relative_url }}" title="Can a Question Change a Memory? | Myths and misconcept 0 d48 d7 memory recording mis" aria-label="Read more about Can a Question Change a Memory? | Myths and misconcept 0 d48 d7 memory recording mis">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'leading-questions/' | relative_url }}" title="Can a Question Change a Memory? | Why Memory Is Not a Video Recording | Myths and misconcept 0 d48 d7" aria-label="Read more about Can a Question Change a Memory? | Why Memory Is Not a Video Recording | Myths and misconcept 0 d48 d7">Read more</a>
 </div>
 </div>
 </div>
@@ -3138,7 +3138,7 @@ site_image_description: A desk covered with fact-check notes, crossed-out rumor 
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'fair-lineups/' | relative_url }}" title="What Makes an Eyewitness Lineup Fair? | Myths and misconcept 0 d48 d7 memory recording mis" aria-label="Read more about What Makes an Eyewitness Lineup Fair? | Myths and misconcept 0 d48 d7 memory recording mis">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'fair-lineups/' | relative_url }}" title="What Makes an Eyewitness Lineup Fair? | Why Memory Is Not a Video Recording | Myths and misconcept 0 d48 d7" aria-label="Read more about What Makes an Eyewitness Lineup Fair? | Why Memory Is Not a Video Recording | Myths and misconcept 0 d48 d7">Read more</a>
 </div>
 </div>
 </div>
@@ -3158,7 +3158,7 @@ site_image_description: A desk covered with fact-check notes, crossed-out rumor 
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'confidence/' | relative_url }}" title="When Should We Trust Witness Confidence? | Myths and misconcept 0 d48 d7 memory recording mis" aria-label="Read more about When Should We Trust Witness Confidence? | Myths and misconcept 0 d48 d7 memory recording mis">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'confidence/' | relative_url }}" title="When Should We Trust Witness Confidence? | Why Memory Is Not a Video Recording | Myths and misconcept 0 d48 d7" aria-label="Read more about When Should We Trust Witness Confidence? | Why Memory Is Not a Video Recording | Myths and misconcept 0 d48 d7">Read more</a>
 </div>
 </div>
 </div>
@@ -3178,7 +3178,7 @@ site_image_description: A desk covered with fact-check notes, crossed-out rumor 
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'retelling/' | relative_url }}" title="Why Repeated Stories Feel More True | Myths and misconcept 0 d48 d7 memory recording mis" aria-label="Read more about Why Repeated Stories Feel More True | Myths and misconcept 0 d48 d7 memory recording mis">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'retelling/' | relative_url }}" title="Why Repeated Stories Feel More True | Why Memory Is Not a Video Recording | Myths and misconcept 0 d48 d7" aria-label="Read more about Why Repeated Stories Feel More True | Why Memory Is Not a Video Recording | Myths and misconcept 0 d48 d7">Read more</a>
 </div>
 </div>
 </div>
@@ -3198,7 +3198,7 @@ site_image_description: A desk covered with fact-check notes, crossed-out rumor 
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'flashbulb-memory/' | relative_url }}" title="Why Vivid Memories Can Still Be Wrong | Myths and misconcept 0 d48 d7 memory recording mis" aria-label="Read more about Why Vivid Memories Can Still Be Wrong | Myths and misconcept 0 d48 d7 memory recording mis">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'flashbulb-memory/' | relative_url }}" title="Why Vivid Memories Can Still Be Wrong | Why Memory Is Not a Video Recording | Myths and misconcept 0 d48 d7" aria-label="Read more about Why Vivid Memories Can Still Be Wrong | Why Memory Is Not a Video Recording | Myths and misconcept 0 d48 d7">Read more</a>
 </div>
 </div>
 </div>
@@ -3222,7 +3222,7 @@ site_image_description: A desk covered with fact-check notes, crossed-out rumor 
 <button class="ct-node-badge ct-node-badge-toggle" type="button" data-home-vertical-badge-toggle title="6 pages" aria-label="6 pages" aria-expanded="false">6 pages</button>
 <div class="home-vertical-card-actions">
 <button class="home-vertical-toggle" type="button" data-home-vertical-toggle aria-label="Expand section: Why Wrong Ideas Can Feel Coherent | Myths and misconcept" aria-expanded="false" aria-controls="home-vertical-children-node-myths-and-misconcept-0d48d7-mental-models-myths-2fa808"><span class="home-vertical-toggle-icon">+</span><span class="home-vertical-toggle-text">Show subtopics</span></button>
-<a class="topic-card-link home-vertical-read-more" href="{{ 'mental-models/' | relative_url }}" title="Why Wrong Ideas Can Feel Coherent | Myths and misconcept" aria-label="Read more about Why Wrong Ideas Can Feel Coherent | Myths and misconcept">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'mental-models/' | relative_url }}" title="Why Wrong Ideas Can Feel Coherent | Myths and misconcept 0 d48 d7" aria-label="Read more about Why Wrong Ideas Can Feel Coherent | Myths and misconcept 0 d48 d7">Read more</a>
 </div>
 </div>
 </div>
@@ -3242,7 +3242,7 @@ site_image_description: A desk covered with fact-check notes, crossed-out rumor 
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'better-story/' | relative_url }}" title="How Better Stories Beat Bad Myths | Myths and misconcept 0 d48 d7 mental models myths" aria-label="Read more about How Better Stories Beat Bad Myths | Myths and misconcept 0 d48 d7 mental models myths">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'better-story/' | relative_url }}" title="How Better Stories Beat Bad Myths | Why Wrong Ideas Can Feel Coherent | Myths and misconcept 0 d48 d7" aria-label="Read more about How Better Stories Beat Bad Myths | Why Wrong Ideas Can Feel Coherent | Myths and misconcept 0 d48 d7">Read more</a>
 </div>
 </div>
 </div>
@@ -3262,7 +3262,7 @@ site_image_description: A desk covered with fact-check notes, crossed-out rumor 
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'contradictions/' | relative_url }}" title="When Contradictions Make Myths Stronger | Myths and misconcept 0 d48 d7 mental models myths" aria-label="Read more about When Contradictions Make Myths Stronger | Myths and misconcept 0 d48 d7 mental models myths">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'contradictions/' | relative_url }}" title="When Contradictions Make Myths Stronger | Why Wrong Ideas Can Feel Coherent | Myths and misconcept 0 d48 d7" aria-label="Read more about When Contradictions Make Myths Stronger | Why Wrong Ideas Can Feel Coherent | Myths and misconcept 0 d48 d7">Read more</a>
 </div>
 </div>
 </div>
@@ -3282,7 +3282,7 @@ site_image_description: A desk covered with fact-check notes, crossed-out rumor 
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'earth-models/' | relative_url }}" title="When Wrong Earth Models Make Sense | Myths and misconcept 0 d48 d7 mental models myths" aria-label="Read more about When Wrong Earth Models Make Sense | Myths and misconcept 0 d48 d7 mental models myths">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'earth-models/' | relative_url }}" title="When Wrong Earth Models Make Sense | Why Wrong Ideas Can Feel Coherent | Myths and misconcept 0 d48 d7" aria-label="Read more about When Wrong Earth Models Make Sense | Why Wrong Ideas Can Feel Coherent | Myths and misconcept 0 d48 d7">Read more</a>
 </div>
 </div>
 </div>
@@ -3302,7 +3302,7 @@ site_image_description: A desk covered with fact-check notes, crossed-out rumor 
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'retracted-causes/' | relative_url }}" title="Why False Causes Stick After Correction | Myths and misconcept 0 d48 d7 mental models myths" aria-label="Read more about Why False Causes Stick After Correction | Myths and misconcept 0 d48 d7 mental models myths">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'retracted-causes/' | relative_url }}" title="Why False Causes Stick After Correction | Why Wrong Ideas Can Feel Coherent | Myths and misconcept 0 d48 d7" aria-label="Read more about Why False Causes Stick After Correction | Why Wrong Ideas Can Feel Coherent | Myths and misconcept 0 d48 d7">Read more</a>
 </div>
 </div>
 </div>
@@ -3322,7 +3322,7 @@ site_image_description: A desk covered with fact-check notes, crossed-out rumor 
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'natural-myths/' | relative_url }}" title="Why Natural Health Myths Feel Coherent | Myths and misconcept 0 d48 d7 mental models myths" aria-label="Read more about Why Natural Health Myths Feel Coherent | Myths and misconcept 0 d48 d7 mental models myths">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'natural-myths/' | relative_url }}" title="Why Natural Health Myths Feel Coherent | Why Wrong Ideas Can Feel Coherent | Myths and misconcept 0 d48 d7" aria-label="Read more about Why Natural Health Myths Feel Coherent | Why Wrong Ideas Can Feel Coherent | Myths and misconcept 0 d48 d7">Read more</a>
 </div>
 </div>
 </div>
@@ -3346,7 +3346,7 @@ site_image_description: A desk covered with fact-check notes, crossed-out rumor 
 <button class="ct-node-badge ct-node-badge-toggle" type="button" data-home-vertical-badge-toggle title="6 pages" aria-label="6 pages" aria-expanded="false">6 pages</button>
 <div class="home-vertical-card-actions">
 <button class="home-vertical-toggle" type="button" data-home-vertical-toggle aria-label="Expand section: Why Brain Myths Spread in Schools | Myths and misconcept" aria-expanded="false" aria-controls="home-vertical-children-node-myths-and-misconcept-0d48d7-neuromyths-in-school-b3f10d"><span class="home-vertical-toggle-icon">+</span><span class="home-vertical-toggle-text">Show subtopics</span></button>
-<a class="topic-card-link home-vertical-read-more" href="{{ 'neuromyths/' | relative_url }}" title="Why Brain Myths Spread in Schools | Myths and misconcept" aria-label="Read more about Why Brain Myths Spread in Schools | Myths and misconcept">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'neuromyths/' | relative_url }}" title="Why Brain Myths Spread in Schools | Myths and misconcept 0 d48 d7" aria-label="Read more about Why Brain Myths Spread in Schools | Myths and misconcept 0 d48 d7">Read more</a>
 </div>
 </div>
 </div>
@@ -3366,7 +3366,7 @@ site_image_description: A desk covered with fact-check notes, crossed-out rumor 
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'critical-periods/' | relative_url }}" title="Are children ever too late to learn? | Myths and misconcept 0 d48 d7 neuromyths in school" aria-label="Read more about Are children ever too late to learn? | Myths and misconcept 0 d48 d7 neuromyths in school">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'critical-periods/' | relative_url }}" title="Are children ever too late to learn? | Why Brain Myths Spread in Schools | Myths and misconcept 0 d48 d7" aria-label="Read more about Are children ever too late to learn? | Why Brain Myths Spread in Schools | Myths and misconcept 0 d48 d7">Read more</a>
 </div>
 </div>
 </div>
@@ -3386,7 +3386,7 @@ site_image_description: A desk covered with fact-check notes, crossed-out rumor 
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'learning-styles-17c40a/' | relative_url }}" title="Do learning styles really improve lessons? | Myths and misconcept 0 d48 d7 neuromyths in school" aria-label="Read more about Do learning styles really improve lessons? | Myths and misconcept 0 d48 d7 neuromyths in school">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'learning-styles-17c40a/' | relative_url }}" title="Do learning styles really improve lessons? | Why Brain Myths Spread in Schools | Myths and misconcept 0 d48 d7" aria-label="Read more about Do learning styles really improve lessons? | Why Brain Myths Spread in Schools | Myths and misconcept 0 d48 d7">Read more</a>
 </div>
 </div>
 </div>
@@ -3406,7 +3406,7 @@ site_image_description: A desk covered with fact-check notes, crossed-out rumor 
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'training-rubrics/' | relative_url }}" title="How teacher training can preserve myths | Myths and misconcept 0 d48 d7 neuromyths in school" aria-label="Read more about How teacher training can preserve myths | Myths and misconcept 0 d48 d7 neuromyths in school">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'training-rubrics/' | relative_url }}" title="How teacher training can preserve myths | Why Brain Myths Spread in Schools | Myths and misconcept 0 d48 d7" aria-label="Read more about How teacher training can preserve myths | Why Brain Myths Spread in Schools | Myths and misconcept 0 d48 d7">Read more</a>
 </div>
 </div>
 </div>
@@ -3426,7 +3426,7 @@ site_image_description: A desk covered with fact-check notes, crossed-out rumor 
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'brain-gym-e79dce/' | relative_url }}" title="When movement breaks become brain myths | Myths and misconcept 0 d48 d7 neuromyths in school" aria-label="Read more about When movement breaks become brain myths | Myths and misconcept 0 d48 d7 neuromyths in school">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'brain-gym-e79dce/' | relative_url }}" title="When movement breaks become brain myths | Why Brain Myths Spread in Schools | Myths and misconcept 0 d48 d7" aria-label="Read more about When movement breaks become brain myths | Why Brain Myths Spread in Schools | Myths and misconcept 0 d48 d7">Read more</a>
 </div>
 </div>
 </div>
@@ -3446,7 +3446,7 @@ site_image_description: A desk covered with fact-check notes, crossed-out rumor 
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'brain-labels/' | relative_url }}" title="Why left brain labels mislead teachers | Myths and misconcept 0 d48 d7 neuromyths in school" aria-label="Read more about Why left brain labels mislead teachers | Myths and misconcept 0 d48 d7 neuromyths in school">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'brain-labels/' | relative_url }}" title="Why left brain labels mislead teachers | Why Brain Myths Spread in Schools | Myths and misconcept 0 d48 d7" aria-label="Read more about Why left brain labels mislead teachers | Why Brain Myths Spread in Schools | Myths and misconcept 0 d48 d7">Read more</a>
 </div>
 </div>
 </div>
@@ -3470,7 +3470,7 @@ site_image_description: A desk covered with fact-check notes, crossed-out rumor 
 <button class="ct-node-badge ct-node-badge-toggle" type="button" data-home-vertical-badge-toggle title="6 pages" aria-label="6 pages" aria-expanded="false">6 pages</button>
 <div class="home-vertical-card-actions">
 <button class="home-vertical-toggle" type="button" data-home-vertical-toggle aria-label="Expand section: Why Corrected Myths Still Linger | Myths and misconcept" aria-expanded="false" aria-controls="home-vertical-children-node-myths-and-misconcept-0d48d7-continued-influence-15b78f"><span class="home-vertical-toggle-icon">+</span><span class="home-vertical-toggle-text">Show subtopics</span></button>
-<a class="topic-card-link home-vertical-read-more" href="{{ 'old-stories/' | relative_url }}" title="Why Corrected Myths Still Linger | Myths and misconcept" aria-label="Read more about Why Corrected Myths Still Linger | Myths and misconcept">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'old-stories/' | relative_url }}" title="Why Corrected Myths Still Linger | Myths and misconcept 0 d48 d7" aria-label="Read more about Why Corrected Myths Still Linger | Myths and misconcept 0 d48 d7">Read more</a>
 </div>
 </div>
 </div>
@@ -3490,7 +3490,7 @@ site_image_description: A desk covered with fact-check notes, crossed-out rumor 
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'memory-gap/' | relative_url }}" title="Knowing it is false is not enough | Myths and misconcept 0 d48 d7 continued influence" aria-label="Read more about Knowing it is false is not enough | Myths and misconcept 0 d48 d7 continued influence">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'memory-gap/' | relative_url }}" title="Knowing it is false is not enough | Why Corrected Myths Still Linger | Myths and misconcept 0 d48 d7" aria-label="Read more about Knowing it is false is not enough | Why Corrected Myths Still Linger | Myths and misconcept 0 d48 d7">Read more</a>
 </div>
 </div>
 </div>
@@ -3510,7 +3510,7 @@ site_image_description: A desk covered with fact-check notes, crossed-out rumor 
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'replacement/' | relative_url }}" title="The missing piece in stronger corrections | Myths and misconcept 0 d48 d7 continued influence" aria-label="Read more about The missing piece in stronger corrections | Myths and misconcept 0 d48 d7 continued influence">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'replacement/' | relative_url }}" title="The missing piece in stronger corrections | Why Corrected Myths Still Linger | Myths and misconcept 0 d48 d7" aria-label="Read more about The missing piece in stronger corrections | Why Corrected Myths Still Linger | Myths and misconcept 0 d48 d7">Read more</a>
 </div>
 </div>
 </div>
@@ -3530,7 +3530,7 @@ site_image_description: A desk covered with fact-check notes, crossed-out rumor 
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'myth-vs-fact/' | relative_url }}" title="When myth versus fact pages fall short | Myths and misconcept 0 d48 d7 continued influence" aria-label="Read more about When myth versus fact pages fall short | Myths and misconcept 0 d48 d7 continued influence">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'myth-vs-fact/' | relative_url }}" title="When myth versus fact pages fall short | Why Corrected Myths Still Linger | Myths and misconcept 0 d48 d7" aria-label="Read more about When myth versus fact pages fall short | Why Corrected Myths Still Linger | Myths and misconcept 0 d48 d7">Read more</a>
 </div>
 </div>
 </div>
@@ -3550,7 +3550,7 @@ site_image_description: A desk covered with fact-check notes, crossed-out rumor 
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'old-causes/' | relative_url }}" title="Why corrected causes still feel useful | Myths and misconcept 0 d48 d7 continued influence" aria-label="Read more about Why corrected causes still feel useful | Myths and misconcept 0 d48 d7 continued influence">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'old-causes/' | relative_url }}" title="Why corrected causes still feel useful | Why Corrected Myths Still Linger | Myths and misconcept 0 d48 d7" aria-label="Read more about Why corrected causes still feel useful | Why Corrected Myths Still Linger | Myths and misconcept 0 d48 d7">Read more</a>
 </div>
 </div>
 </div>
@@ -3570,7 +3570,7 @@ site_image_description: A desk covered with fact-check notes, crossed-out rumor 
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'fire-study/' | relative_url }}" title="Why the warehouse fire myth lingered | Myths and misconcept 0 d48 d7 continued influence" aria-label="Read more about Why the warehouse fire myth lingered | Myths and misconcept 0 d48 d7 continued influence">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'fire-study/' | relative_url }}" title="Why the warehouse fire myth lingered | Why Corrected Myths Still Linger | Myths and misconcept 0 d48 d7" aria-label="Read more about Why the warehouse fire myth lingered | Why Corrected Myths Still Linger | Myths and misconcept 0 d48 d7">Read more</a>
 </div>
 </div>
 </div>
@@ -3594,7 +3594,7 @@ site_image_description: A desk covered with fact-check notes, crossed-out rumor 
 <button class="ct-node-badge ct-node-badge-toggle" type="button" data-home-vertical-badge-toggle title="6 pages" aria-label="6 pages" aria-expanded="false">6 pages</button>
 <div class="home-vertical-card-actions">
 <button class="home-vertical-toggle" type="button" data-home-vertical-toggle aria-label="Expand section: Can Platform Design Slow Myths Down? | Myths and misconcept" aria-expanded="false" aria-controls="home-vertical-children-node-myths-and-misconcept-0d48d7-platform-design-myth-d8c20e"><span class="home-vertical-toggle-icon">+</span><span class="home-vertical-toggle-text">Show subtopics</span></button>
-<a class="topic-card-link home-vertical-read-more" href="{{ 'platform-design/' | relative_url }}" title="Can Platform Design Slow Myths Down? | Myths and misconcept" aria-label="Read more about Can Platform Design Slow Myths Down? | Myths and misconcept">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'platform-design/' | relative_url }}" title="Can Platform Design Slow Myths Down? | Myths and misconcept 0 d48 d7" aria-label="Read more about Can Platform Design Slow Myths Down? | Myths and misconcept 0 d48 d7">Read more</a>
 </div>
 </div>
 </div>
@@ -3614,7 +3614,7 @@ site_image_description: A desk covered with fact-check notes, crossed-out rumor 
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'sharing-prompts/' | relative_url }}" title="Can a Pause Stop a False Claim? | Myths and misconcept 0 d48 d7 platform design myth" aria-label="Read more about Can a Pause Stop a False Claim? | Myths and misconcept 0 d48 d7 platform design myth">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'sharing-prompts/' | relative_url }}" title="Can a Pause Stop a False Claim? | Can Platform Design Slow Myths Down? | Myths and misconcept 0 d48 d7" aria-label="Read more about Can a Pause Stop a False Claim? | Can Platform Design Slow Myths Down? | Myths and misconcept 0 d48 d7">Read more</a>
 </div>
 </div>
 </div>
@@ -3634,7 +3634,7 @@ site_image_description: A desk covered with fact-check notes, crossed-out rumor 
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'community-notes/' | relative_url }}" title="Can Crowds Catch Viral Misinformation Fast Enough? | Myths and misconcept 0 d48 d7 platform design myth" aria-label="Read more about Can Crowds Catch Viral Misinformation Fast Enough? | Myths and misconcept 0 d48 d7 platform design myth">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'community-notes/' | relative_url }}" title="Can Crowds Catch Viral Misinformation Fast Enough? | Can Platform Design Slow Myths Down? | Myths and misconcept 0 d48 d7" aria-label="Read more about Can Crowds Catch Viral Misinformation Fast Enough? | Can Platform Design Slow Myths Down? | Myths and misconcept 0 d48 d7">Read more</a>
 </div>
 </div>
 </div>
@@ -3654,7 +3654,7 @@ site_image_description: A desk covered with fact-check notes, crossed-out rumor 
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'algorithms-84eed4/' | relative_url }}" title="The Hidden Engine Behind Myth Spread | Myths and misconcept 0 d48 d7 platform design myth" aria-label="Read more about The Hidden Engine Behind Myth Spread | Myths and misconcept 0 d48 d7 platform design myth">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'algorithms-84eed4/' | relative_url }}" title="The Hidden Engine Behind Myth Spread | Can Platform Design Slow Myths Down? | Myths and misconcept 0 d48 d7" aria-label="Read more about The Hidden Engine Behind Myth Spread | Can Platform Design Slow Myths Down? | Myths and misconcept 0 d48 d7">Read more</a>
 </div>
 </div>
 </div>
@@ -3674,7 +3674,7 @@ site_image_description: A desk covered with fact-check notes, crossed-out rumor 
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'warning-labels/' | relative_url }}" title="When Do Misinformation Labels Actually Work? | Myths and misconcept 0 d48 d7 platform design myth" aria-label="Read more about When Do Misinformation Labels Actually Work? | Myths and misconcept 0 d48 d7 platform design myth">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'warning-labels/' | relative_url }}" title="When Do Misinformation Labels Actually Work? | Can Platform Design Slow Myths Down? | Myths and misconcept 0 d48 d7" aria-label="Read more about When Do Misinformation Labels Actually Work? | Can Platform Design Slow Myths Down? | Myths and misconcept 0 d48 d7">Read more</a>
 </div>
 </div>
 </div>
@@ -3694,7 +3694,7 @@ site_image_description: A desk covered with fact-check notes, crossed-out rumor 
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'accuracy-nudges/' | relative_url }}" title="Why Asking About Accuracy Changes Sharing | Myths and misconcept 0 d48 d7 platform design myth" aria-label="Read more about Why Asking About Accuracy Changes Sharing | Myths and misconcept 0 d48 d7 platform design myth">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'accuracy-nudges/' | relative_url }}" title="Why Asking About Accuracy Changes Sharing | Can Platform Design Slow Myths Down? | Myths and misconcept 0 d48 d7" aria-label="Read more about Why Asking About Accuracy Changes Sharing | Can Platform Design Slow Myths Down? | Myths and misconcept 0 d48 d7">Read more</a>
 </div>
 </div>
 </div>
@@ -3718,7 +3718,7 @@ site_image_description: A desk covered with fact-check notes, crossed-out rumor 
 <button class="ct-node-badge ct-node-badge-toggle" type="button" data-home-vertical-badge-toggle title="6 pages" aria-label="6 pages" aria-expanded="false">6 pages</button>
 <div class="home-vertical-card-actions">
 <button class="home-vertical-toggle" type="button" data-home-vertical-toggle aria-label="Expand section: Why Political Myths Resist Correction | Myths and misconcept" aria-expanded="false" aria-controls="home-vertical-children-node-myths-and-misconcept-0d48d7-political-myth-resis-f90f95"><span class="home-vertical-toggle-icon">+</span><span class="home-vertical-toggle-text">Show subtopics</span></button>
-<a class="topic-card-link home-vertical-read-more" href="{{ 'politics/' | relative_url }}" title="Why Political Myths Resist Correction | Myths and misconcept" aria-label="Read more about Why Political Myths Resist Correction | Myths and misconcept">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'politics/' | relative_url }}" title="Why Political Myths Resist Correction | Myths and misconcept 0 d48 d7" aria-label="Read more about Why Political Myths Resist Correction | Myths and misconcept 0 d48 d7">Read more</a>
 </div>
 </div>
 </div>
@@ -3738,7 +3738,7 @@ site_image_description: A desk covered with fact-check notes, crossed-out rumor 
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'group-cues/' | relative_url }}" title="How Online Crowds Make Myths Feel True | Myths and misconcept 0 d48 d7 political myth resis" aria-label="Read more about How Online Crowds Make Myths Feel True | Myths and misconcept 0 d48 d7 political myth resis">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'group-cues/' | relative_url }}" title="How Online Crowds Make Myths Feel True | Why Political Myths Resist Correction | Myths and misconcept 0 d48 d7" aria-label="Read more about How Online Crowds Make Myths Feel True | Why Political Myths Resist Correction | Myths and misconcept 0 d48 d7">Read more</a>
 </div>
 </div>
 </div>
@@ -3758,7 +3758,7 @@ site_image_description: A desk covered with fact-check notes, crossed-out rumor 
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'low-conflict/' | relative_url }}" title="How to Correct Myths Without Starting a Fight | Myths and misconcept 0 d48 d7 political myth resis" aria-label="Read more about How to Correct Myths Without Starting a Fight | Myths and misconcept 0 d48 d7 political myth resis">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'low-conflict/' | relative_url }}" title="How to Correct Myths Without Starting a Fight | Why Political Myths Resist Correction | Myths and misconcept 0 d48 d7" aria-label="Read more about How to Correct Myths Without Starting a Fight | Why Political Myths Resist Correction | Myths and misconcept 0 d48 d7">Read more</a>
 </div>
 </div>
 </div>
@@ -3778,7 +3778,7 @@ site_image_description: A desk covered with fact-check notes, crossed-out rumor 
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'smart-defenses/' | relative_url }}" title="When Smart People Defend False Political Claims | Myths and misconcept 0 d48 d7 political myth resis" aria-label="Read more about When Smart People Defend False Political Claims | Myths and misconcept 0 d48 d7 political myth resis">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'smart-defenses/' | relative_url }}" title="When Smart People Defend False Political Claims | Why Political Myths Resist Correction | Myths and misconcept 0 d48 d7" aria-label="Read more about When Smart People Defend False Political Claims | Why Political Myths Resist Correction | Myths and misconcept 0 d48 d7">Read more</a>
 </div>
 </div>
 </div>
@@ -3798,7 +3798,7 @@ site_image_description: A desk covered with fact-check notes, crossed-out rumor 
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'social-risk/' | relative_url }}" title="Why Changing Your Mind Can Feel Like Betrayal | Myths and misconcept 0 d48 d7 political myth resis" aria-label="Read more about Why Changing Your Mind Can Feel Like Betrayal | Myths and misconcept 0 d48 d7 political myth resis">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'social-risk/' | relative_url }}" title="Why Changing Your Mind Can Feel Like Betrayal | Why Political Myths Resist Correction | Myths and misconcept 0 d48 d7" aria-label="Read more about Why Changing Your Mind Can Feel Like Betrayal | Why Political Myths Resist Correction | Myths and misconcept 0 d48 d7">Read more</a>
 </div>
 </div>
 </div>
@@ -3818,7 +3818,7 @@ site_image_description: A desk covered with fact-check notes, crossed-out rumor 
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'after-fact-checks/' | relative_url }}" title="Why Fact Checks Fix Facts, Not Worldviews | Myths and misconcept 0 d48 d7 political myth resis" aria-label="Read more about Why Fact Checks Fix Facts, Not Worldviews | Myths and misconcept 0 d48 d7 political myth resis">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'after-fact-checks/' | relative_url }}" title="Why Fact Checks Fix Facts, Not Worldviews | Why Political Myths Resist Correction | Myths and misconcept 0 d48 d7" aria-label="Read more about Why Fact Checks Fix Facts, Not Worldviews | Why Political Myths Resist Correction | Myths and misconcept 0 d48 d7">Read more</a>
 </div>
 </div>
 </div>
@@ -3842,7 +3842,7 @@ site_image_description: A desk covered with fact-check notes, crossed-out rumor 
 <button class="ct-node-badge ct-node-badge-toggle" type="button" data-home-vertical-badge-toggle title="6 pages" aria-label="6 pages" aria-expanded="false">6 pages</button>
 <div class="home-vertical-card-actions">
 <button class="home-vertical-toggle" type="button" data-home-vertical-toggle aria-label="Expand section: Can You Protect People Before Myths Spread? | Myths and misconcept" aria-expanded="false" aria-controls="home-vertical-children-node-myths-and-misconcept-0d48d7-prebunking-misinform-8ad4ae"><span class="home-vertical-toggle-icon">+</span><span class="home-vertical-toggle-text">Show subtopics</span></button>
-<a class="topic-card-link home-vertical-read-more" href="{{ 'prebunking/' | relative_url }}" title="Can You Protect People Before Myths Spread? | Myths and misconcept" aria-label="Read more about Can You Protect People Before Myths Spread? | Myths and misconcept">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'prebunking/' | relative_url }}" title="Can You Protect People Before Myths Spread? | Myths and misconcept 0 d48 d7" aria-label="Read more about Can You Protect People Before Myths Spread? | Myths and misconcept 0 d48 d7">Read more</a>
 </div>
 </div>
 </div>
@@ -3862,7 +3862,7 @@ site_image_description: A desk covered with fact-check notes, crossed-out rumor 
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'emotion-cues/' | relative_url }}" title="Can a warning slow outrage sharing? | Myths and misconcept 0 d48 d7 prebunking misinform" aria-label="Read more about Can a warning slow outrage sharing? | Myths and misconcept 0 d48 d7 prebunking misinform">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'emotion-cues/' | relative_url }}" title="Can a warning slow outrage sharing? | Can You Protect People Before Myths Spread? | Myths and misconcept 0 d48 d7" aria-label="Read more about Can a warning slow outrage sharing? | Can You Protect People Before Myths Spread? | Myths and misconcept 0 d48 d7">Read more</a>
 </div>
 </div>
 </div>
@@ -3882,7 +3882,7 @@ site_image_description: A desk covered with fact-check notes, crossed-out rumor 
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'election-rumours/' | relative_url }}" title="How election prebunks protect basic voting facts | Myths and misconcept 0 d48 d7 prebunking misinform" aria-label="Read more about How election prebunks protect basic voting facts | Myths and misconcept 0 d48 d7 prebunking misinform">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'election-rumours/' | relative_url }}" title="How election prebunks protect basic voting facts | Can You Protect People Before Myths Spread? | Myths and misconcept 0 d48 d7" aria-label="Read more about How election prebunks protect basic voting facts | Can You Protect People Before Myths Spread? | Myths and misconcept 0 d48 d7">Read more</a>
 </div>
 </div>
 </div>
@@ -3902,7 +3902,7 @@ site_image_description: A desk covered with fact-check notes, crossed-out rumor 
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'fact-vs-tactic/' | relative_url }}" title="Should a prebunk name the myth or the trick? | Myths and misconcept 0 d48 d7 prebunking misinform" aria-label="Read more about Should a prebunk name the myth or the trick? | Myths and misconcept 0 d48 d7 prebunking misinform">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'fact-vs-tactic/' | relative_url }}" title="Should a prebunk name the myth or the trick? | Can You Protect People Before Myths Spread? | Myths and misconcept 0 d48 d7" aria-label="Read more about Should a prebunk name the myth or the trick? | Can You Protect People Before Myths Spread? | Myths and misconcept 0 d48 d7">Read more</a>
 </div>
 </div>
 </div>
@@ -3922,7 +3922,7 @@ site_image_description: A desk covered with fact-check notes, crossed-out rumor 
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'fading-effects/' | relative_url }}" title="Why one prebunk is not permanent immunity | Myths and misconcept 0 d48 d7 prebunking misinform" aria-label="Read more about Why one prebunk is not permanent immunity | Myths and misconcept 0 d48 d7 prebunking misinform">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'fading-effects/' | relative_url }}" title="Why one prebunk is not permanent immunity | Can You Protect People Before Myths Spread? | Myths and misconcept 0 d48 d7" aria-label="Read more about Why one prebunk is not permanent immunity | Can You Protect People Before Myths Spread? | Myths and misconcept 0 d48 d7">Read more</a>
 </div>
 </div>
 </div>
@@ -3942,7 +3942,7 @@ site_image_description: A desk covered with fact-check notes, crossed-out rumor 
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'bad-news-game/' | relative_url }}" title="Why pretending to mislead can teach resistance | Myths and misconcept 0 d48 d7 prebunking misinform" aria-label="Read more about Why pretending to mislead can teach resistance | Myths and misconcept 0 d48 d7 prebunking misinform">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'bad-news-game/' | relative_url }}" title="Why pretending to mislead can teach resistance | Can You Protect People Before Myths Spread? | Myths and misconcept 0 d48 d7" aria-label="Read more about Why pretending to mislead can teach resistance | Can You Protect People Before Myths Spread? | Myths and misconcept 0 d48 d7">Read more</a>
 </div>
 </div>
 </div>
@@ -3966,7 +3966,7 @@ site_image_description: A desk covered with fact-check notes, crossed-out rumor 
 <button class="ct-node-badge ct-node-badge-toggle" type="button" data-home-vertical-badge-toggle title="6 pages" aria-label="6 pages" aria-expanded="false">6 pages</button>
 <div class="home-vertical-card-actions">
 <button class="home-vertical-toggle" type="button" data-home-vertical-toggle aria-label="Expand section: Why Debunks Need a Better Story | Myths and misconcept" aria-expanded="false" aria-controls="home-vertical-children-node-myths-and-misconcept-0d48d7-replacement-stories-587456"><span class="home-vertical-toggle-icon">+</span><span class="home-vertical-toggle-text">Show subtopics</span></button>
-<a class="topic-card-link home-vertical-read-more" href="{{ 'rumour-gaps/' | relative_url }}" title="Why Debunks Need a Better Story | Myths and misconcept" aria-label="Read more about Why Debunks Need a Better Story | Myths and misconcept">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'rumour-gaps/' | relative_url }}" title="Why Debunks Need a Better Story | Myths and misconcept 0 d48 d7" aria-label="Read more about Why Debunks Need a Better Story | Myths and misconcept 0 d48 d7">Read more</a>
 </div>
 </div>
 </div>
@@ -3986,7 +3986,7 @@ site_image_description: A desk covered with fact-check notes, crossed-out rumor 
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'fire-scenario/' | relative_url }}" title="The Fire Rumour That Still Explains Too Much | Myths and misconcept 0 d48 d7 replacement stories" aria-label="Read more about The Fire Rumour That Still Explains Too Much | Myths and misconcept 0 d48 d7 replacement stories">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'fire-scenario/' | relative_url }}" title="The Fire Rumour That Still Explains Too Much | Why Debunks Need a Better Story | Myths and misconcept 0 d48 d7" aria-label="Read more about The Fire Rumour That Still Explains Too Much | Why Debunks Need a Better Story | Myths and misconcept 0 d48 d7">Read more</a>
 </div>
 </div>
 </div>
@@ -4006,7 +4006,7 @@ site_image_description: A desk covered with fact-check notes, crossed-out rumor 
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'vote-delays/' | relative_url }}" title="When Slow Counting Needs a Better Story | Myths and misconcept 0 d48 d7 replacement stories" aria-label="Read more about When Slow Counting Needs a Better Story | Myths and misconcept 0 d48 d7 replacement stories">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'vote-delays/' | relative_url }}" title="When Slow Counting Needs a Better Story | Why Debunks Need a Better Story | Myths and misconcept 0 d48 d7" aria-label="Read more about When Slow Counting Needs a Better Story | Why Debunks Need a Better Story | Myths and misconcept 0 d48 d7">Read more</a>
 </div>
 </div>
 </div>
@@ -4026,7 +4026,7 @@ site_image_description: A desk covered with fact-check notes, crossed-out rumor 
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'uncertainty-3560c5/' | relative_url }}" title="When We Do Not Know Yet Is Better | Myths and misconcept 0 d48 d7 replacement stories" aria-label="Read more about When We Do Not Know Yet Is Better | Myths and misconcept 0 d48 d7 replacement stories">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'uncertainty-3560c5/' | relative_url }}" title="When We Do Not Know Yet Is Better | Why Debunks Need a Better Story | Myths and misconcept 0 d48 d7" aria-label="Read more about When We Do Not Know Yet Is Better | Why Debunks Need a Better Story | Myths and misconcept 0 d48 d7">Read more</a>
 </div>
 </div>
 </div>
@@ -4046,7 +4046,7 @@ site_image_description: A desk covered with fact-check notes, crossed-out rumor 
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'outbreak-origins/' | relative_url }}" title="Why Outbreak Rumours Need Origin Stories | Myths and misconcept 0 d48 d7 replacement stories" aria-label="Read more about Why Outbreak Rumours Need Origin Stories | Myths and misconcept 0 d48 d7 replacement stories">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'outbreak-origins/' | relative_url }}" title="Why Outbreak Rumours Need Origin Stories | Why Debunks Need a Better Story | Myths and misconcept 0 d48 d7" aria-label="Read more about Why Outbreak Rumours Need Origin Stories | Why Debunks Need a Better Story | Myths and misconcept 0 d48 d7">Read more</a>
 </div>
 </div>
 </div>
@@ -4066,7 +4066,7 @@ site_image_description: A desk covered with fact-check notes, crossed-out rumor 
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'bare-denials/' | relative_url }}" title="Why Saying False Is Not Enough | Myths and misconcept 0 d48 d7 replacement stories" aria-label="Read more about Why Saying False Is Not Enough | Myths and misconcept 0 d48 d7 replacement stories">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'bare-denials/' | relative_url }}" title="Why Saying False Is Not Enough | Why Debunks Need a Better Story | Myths and misconcept 0 d48 d7" aria-label="Read more about Why Saying False Is Not Enough | Why Debunks Need a Better Story | Myths and misconcept 0 d48 d7">Read more</a>
 </div>
 </div>
 </div>
@@ -4090,7 +4090,7 @@ site_image_description: A desk covered with fact-check notes, crossed-out rumor 
 <button class="ct-node-badge ct-node-badge-toggle" type="button" data-home-vertical-badge-toggle title="6 pages" aria-label="6 pages" aria-expanded="false">6 pages</button>
 <div class="home-vertical-card-actions">
 <button class="home-vertical-toggle" type="button" data-home-vertical-toggle aria-label="Expand section: Why Sciencey Language Makes Myths Persuasive | Myths and misconcept" aria-expanded="false" aria-controls="home-vertical-children-node-myths-and-misconcept-0d48d7-sciencey-language-94b7a1"><span class="home-vertical-toggle-icon">+</span><span class="home-vertical-toggle-text">Show subtopics</span></button>
-<a class="topic-card-link home-vertical-read-more" href="{{ 'sciencey-words/' | relative_url }}" title="Why Sciencey Language Makes Myths Persuasive | Myths and misconcept" aria-label="Read more about Why Sciencey Language Makes Myths Persuasive | Myths and misconcept">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'sciencey-words/' | relative_url }}" title="Why Sciencey Language Makes Myths Persuasive | Myths and misconcept 0 d48 d7" aria-label="Read more about Why Sciencey Language Makes Myths Persuasive | Myths and misconcept 0 d48 d7">Read more</a>
 </div>
 </div>
 </div>
@@ -4110,7 +4110,7 @@ site_image_description: A desk covered with fact-check notes, crossed-out rumor 
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'brain-jargon/' | relative_url }}" title="The Brain Words That Sell Weak Explanations | Myths and misconcept 0 d48 d7 sciencey language" aria-label="Read more about The Brain Words That Sell Weak Explanations | Myths and misconcept 0 d48 d7 sciencey language">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'brain-jargon/' | relative_url }}" title="The Brain Words That Sell Weak Explanations | Why Sciencey Language Makes Myths Persuasive | Myths and misconcept 0 d48 d7" aria-label="Read more about The Brain Words That Sell Weak Explanations | Why Sciencey Language Makes Myths Persuasive | Myths and misconcept 0 d48 d7">Read more</a>
 </div>
 </div>
 </div>
@@ -4130,7 +4130,7 @@ site_image_description: A desk covered with fact-check notes, crossed-out rumor 
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'untestable-claims/' | relative_url }}" title="The Claim That Cannot Lose | Myths and misconcept 0 d48 d7 sciencey language" aria-label="Read more about The Claim That Cannot Lose | Myths and misconcept 0 d48 d7 sciencey language">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'untestable-claims/' | relative_url }}" title="The Claim That Cannot Lose | Why Sciencey Language Makes Myths Persuasive | Myths and misconcept 0 d48 d7" aria-label="Read more about The Claim That Cannot Lose | Why Sciencey Language Makes Myths Persuasive | Myths and misconcept 0 d48 d7">Read more</a>
 </div>
 </div>
 </div>
@@ -4150,7 +4150,7 @@ site_image_description: A desk covered with fact-check notes, crossed-out rumor 
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'detox-claims/' | relative_url }}" title="What &#x27;Detox&#x27; Claims Usually Leave Out | Myths and misconcept 0 d48 d7 sciencey language" aria-label="Read more about What &#x27;Detox&#x27; Claims Usually Leave Out | Myths and misconcept 0 d48 d7 sciencey language">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'detox-claims/' | relative_url }}" title="What 'Detox' Claims Usually Leave Out | Why Sciencey Language Makes Myths Persuasive | Myths and misconcept 0 d48 d7" aria-label="Read more about What 'Detox' Claims Usually Leave Out | Why Sciencey Language Makes Myths Persuasive | Myths and misconcept 0 d48 d7">Read more</a>
 </div>
 </div>
 </div>
@@ -4170,7 +4170,7 @@ site_image_description: A desk covered with fact-check notes, crossed-out rumor 
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'clinically-proven/' | relative_url }}" title="When &#x27;Clinically Proven&#x27; Does Not Prove Much | Myths and misconcept 0 d48 d7 sciencey language" aria-label="Read more about When &#x27;Clinically Proven&#x27; Does Not Prove Much | Myths and misconcept 0 d48 d7 sciencey language">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'clinically-proven/' | relative_url }}" title="When 'Clinically Proven' Does Not Prove Much | Why Sciencey Language Makes Myths Persuasive | Myths and misconcept 0 d48 d7" aria-label="Read more about When 'Clinically Proven' Does Not Prove Much | Why Sciencey Language Makes Myths Persuasive | Myths and misconcept 0 d48 d7">Read more</a>
 </div>
 </div>
 </div>
@@ -4190,7 +4190,7 @@ site_image_description: A desk covered with fact-check notes, crossed-out rumor 
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'quantum-claims/' | relative_url }}" title="Why &#x27;Quantum&#x27; Makes Weak Claims Sound Deeper | Myths and misconcept 0 d48 d7 sciencey language" aria-label="Read more about Why &#x27;Quantum&#x27; Makes Weak Claims Sound Deeper | Myths and misconcept 0 d48 d7 sciencey language">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'quantum-claims/' | relative_url }}" title="Why 'Quantum' Makes Weak Claims Sound Deeper | Why Sciencey Language Makes Myths Persuasive | Myths and misconcept 0 d48 d7" aria-label="Read more about Why 'Quantum' Makes Weak Claims Sound Deeper | Why Sciencey Language Makes Myths Persuasive | Myths and misconcept 0 d48 d7">Read more</a>
 </div>
 </div>
 </div>
@@ -4214,7 +4214,7 @@ site_image_description: A desk covered with fact-check notes, crossed-out rumor 
 <button class="ct-node-badge ct-node-badge-toggle" type="button" data-home-vertical-badge-toggle title="6 pages" aria-label="6 pages" aria-expanded="false">6 pages</button>
 <div class="home-vertical-card-actions">
 <button class="home-vertical-toggle" type="button" data-home-vertical-toggle aria-label="Expand section: Why Myths Beat Nuance in a Sentence | Myths and misconcept" aria-expanded="false" aria-controls="home-vertical-children-node-myths-and-misconcept-0d48d7-slogans-vs-explanati-60c7b9"><span class="home-vertical-toggle-icon">+</span><span class="home-vertical-toggle-text">Show subtopics</span></button>
-<a class="topic-card-link home-vertical-read-more" href="{{ 'slogans/' | relative_url }}" title="Why Myths Beat Nuance in a Sentence | Myths and misconcept" aria-label="Read more about Why Myths Beat Nuance in a Sentence | Myths and misconcept">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'slogans/' | relative_url }}" title="Why Myths Beat Nuance in a Sentence | Myths and misconcept 0 d48 d7" aria-label="Read more about Why Myths Beat Nuance in a Sentence | Myths and misconcept 0 d48 d7">Read more</a>
 </div>
 </div>
 </div>
@@ -4234,7 +4234,7 @@ site_image_description: A desk covered with fact-check notes, crossed-out rumor 
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'backfire-risk/' | relative_url }}" title="Can myth busting accidentally spread myths? | Myths and misconcept 0 d48 d7 slogans vs explanati" aria-label="Read more about Can myth busting accidentally spread myths? | Myths and misconcept 0 d48 d7 slogans vs explanati">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'backfire-risk/' | relative_url }}" title="Can myth busting accidentally spread myths? | Why Myths Beat Nuance in a Sentence | Myths and misconcept 0 d48 d7" aria-label="Read more about Can myth busting accidentally spread myths? | Why Myths Beat Nuance in a Sentence | Myths and misconcept 0 d48 d7">Read more</a>
 </div>
 </div>
 </div>
@@ -4254,7 +4254,7 @@ site_image_description: A desk covered with fact-check notes, crossed-out rumor 
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'corrections/' | relative_url }}" title="What should replace a false slogan? | Myths and misconcept 0 d48 d7 slogans vs explanati" aria-label="Read more about What should replace a false slogan? | Myths and misconcept 0 d48 d7 slogans vs explanati">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'corrections/' | relative_url }}" title="What should replace a false slogan? | Why Myths Beat Nuance in a Sentence | Myths and misconcept 0 d48 d7" aria-label="Read more about What should replace a false slogan? | Why Myths Beat Nuance in a Sentence | Myths and misconcept 0 d48 d7">Read more</a>
 </div>
 </div>
 </div>
@@ -4274,7 +4274,7 @@ site_image_description: A desk covered with fact-check notes, crossed-out rumor 
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'health-slogans/' | relative_url }}" title="When health slogans leave out risk | Myths and misconcept 0 d48 d7 slogans vs explanati" aria-label="Read more about When health slogans leave out risk | Myths and misconcept 0 d48 d7 slogans vs explanati">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'health-slogans/' | relative_url }}" title="When health slogans leave out risk | Why Myths Beat Nuance in a Sentence | Myths and misconcept 0 d48 d7" aria-label="Read more about When health slogans leave out risk | Why Myths Beat Nuance in a Sentence | Myths and misconcept 0 d48 d7">Read more</a>
 </div>
 </div>
 </div>
@@ -4294,7 +4294,7 @@ site_image_description: A desk covered with fact-check notes, crossed-out rumor 
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'emotion/' | relative_url }}" title="Why emotional myths travel faster | Myths and misconcept 0 d48 d7 slogans vs explanati" aria-label="Read more about Why emotional myths travel faster | Myths and misconcept 0 d48 d7 slogans vs explanati">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'emotion/' | relative_url }}" title="Why emotional myths travel faster | Why Myths Beat Nuance in a Sentence | Myths and misconcept 0 d48 d7" aria-label="Read more about Why emotional myths travel faster | Why Myths Beat Nuance in a Sentence | Myths and misconcept 0 d48 d7">Read more</a>
 </div>
 </div>
 </div>
@@ -4314,7 +4314,7 @@ site_image_description: A desk covered with fact-check notes, crossed-out rumor 
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'repetition/' | relative_url }}" title="Why repetition makes myths feel true | Myths and misconcept 0 d48 d7 slogans vs explanati" aria-label="Read more about Why repetition makes myths feel true | Myths and misconcept 0 d48 d7 slogans vs explanati">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'repetition/' | relative_url }}" title="Why repetition makes myths feel true | Why Myths Beat Nuance in a Sentence | Myths and misconcept 0 d48 d7" aria-label="Read more about Why repetition makes myths feel true | Why Myths Beat Nuance in a Sentence | Myths and misconcept 0 d48 d7">Read more</a>
 </div>
 </div>
 </div>
@@ -4338,7 +4338,7 @@ site_image_description: A desk covered with fact-check notes, crossed-out rumor 
 <button class="ct-node-badge ct-node-badge-toggle" type="button" data-home-vertical-badge-toggle title="5 pages" aria-label="5 pages" aria-expanded="false">5 pages</button>
 <div class="home-vertical-card-actions">
 <button class="home-vertical-toggle" type="button" data-home-vertical-toggle aria-label="Expand section: What Helps Learning More Than Learning Styles? | Myths and misconcept" aria-expanded="false" aria-controls="home-vertical-children-node-myths-and-misconcept-0d48d7-retrieval-vs-learnin-6ef371"><span class="home-vertical-toggle-icon">+</span><span class="home-vertical-toggle-text">Show subtopics</span></button>
-<a class="topic-card-link home-vertical-read-more" href="{{ 'study-practice/' | relative_url }}" title="What Helps Learning More Than Learning Styles? | Myths and misconcept" aria-label="Read more about What Helps Learning More Than Learning Styles? | Myths and misconcept">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'study-practice/' | relative_url }}" title="What Helps Learning More Than Learning Styles? | Myths and misconcept 0 d48 d7" aria-label="Read more about What Helps Learning More Than Learning Styles? | Myths and misconcept 0 d48 d7">Read more</a>
 </div>
 </div>
 </div>
@@ -4358,7 +4358,7 @@ site_image_description: A desk covered with fact-check notes, crossed-out rumor 
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'check-gaps/' | relative_url }}" title="How recall reveals what students really know | Myths and misconcept 0 d48 d7 retrieval vs learnin" aria-label="Read more about How recall reveals what students really know | Myths and misconcept 0 d48 d7 retrieval vs learnin">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'check-gaps/' | relative_url }}" title="How recall reveals what students really know | What Helps Learning More Than Learning Styles? | Myths and misconcept 0 d48 d7" aria-label="Read more about How recall reveals what students really know | What Helps Learning More Than Learning Styles? | Myths and misconcept 0 d48 d7">Read more</a>
 </div>
 </div>
 </div>
@@ -4378,7 +4378,7 @@ site_image_description: A desk covered with fact-check notes, crossed-out rumor 
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'fit-the-task/' | relative_url }}" title="Match the method to the lesson, not the label | Myths and misconcept 0 d48 d7 retrieval vs learnin" aria-label="Read more about Match the method to the lesson, not the label | Myths and misconcept 0 d48 d7 retrieval vs learnin">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'fit-the-task/' | relative_url }}" title="Match the method to the lesson, not the label | What Helps Learning More Than Learning Styles? | Myths and misconcept 0 d48 d7" aria-label="Read more about Match the method to the lesson, not the label | What Helps Learning More Than Learning Styles? | Myths and misconcept 0 d48 d7">Read more</a>
 </div>
 </div>
 </div>
@@ -4398,7 +4398,7 @@ site_image_description: A desk covered with fact-check notes, crossed-out rumor 
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'style-surveys/' | relative_url }}" title="Why learning preferences do not prove learning styles | Myths and misconcept 0 d48 d7 retrieval vs learnin" aria-label="Read more about Why learning preferences do not prove learning styles | Myths and misconcept 0 d48 d7 retrieval vs learnin">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'style-surveys/' | relative_url }}" title="Why learning preferences do not prove learning styles | What Helps Learning More Than Learning Styles? | Myths and misconcept 0 d48 d7" aria-label="Read more about Why learning preferences do not prove learning styles | What Helps Learning More Than Learning Styles? | Myths and misconcept 0 d48 d7">Read more</a>
 </div>
 </div>
 </div>
@@ -4418,7 +4418,7 @@ site_image_description: A desk covered with fact-check notes, crossed-out rumor 
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'self-testing/' | relative_url }}" title="Why rereading feels easier but works less well | Myths and misconcept 0 d48 d7 retrieval vs learnin" aria-label="Read more about Why rereading feels easier but works less well | Myths and misconcept 0 d48 d7 retrieval vs learnin">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'self-testing/' | relative_url }}" title="Why rereading feels easier but works less well | What Helps Learning More Than Learning Styles? | Myths and misconcept 0 d48 d7" aria-label="Read more about Why rereading feels easier but works less well | What Helps Learning More Than Learning Styles? | Myths and misconcept 0 d48 d7">Read more</a>
 </div>
 </div>
 </div>
@@ -4442,7 +4442,7 @@ site_image_description: A desk covered with fact-check notes, crossed-out rumor 
 <button class="ct-node-badge ct-node-badge-toggle" type="button" data-home-vertical-badge-toggle title="6 pages" aria-label="6 pages" aria-expanded="false">6 pages</button>
 <div class="home-vertical-card-actions">
 <button class="home-vertical-toggle" type="button" data-home-vertical-toggle aria-label="Expand section: How Common Is Belief in Learning Styles? | Myths and misconcept" aria-expanded="false" aria-controls="home-vertical-children-node-myths-and-misconcept-0d48d7-learning-styles-surv-b4e9eb"><span class="home-vertical-toggle-icon">+</span><span class="home-vertical-toggle-text">Show subtopics</span></button>
-<a class="topic-card-link home-vertical-read-more" href="{{ 'teacher-belief/' | relative_url }}" title="How Common Is Belief in Learning Styles? | Myths and misconcept" aria-label="Read more about How Common Is Belief in Learning Styles? | Myths and misconcept">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'teacher-belief/' | relative_url }}" title="How Common Is Belief in Learning Styles? | Myths and misconcept 0 d48 d7" aria-label="Read more about How Common Is Belief in Learning Styles? | Myths and misconcept 0 d48 d7">Read more</a>
 </div>
 </div>
 </div>
@@ -4462,7 +4462,7 @@ site_image_description: A desk covered with fact-check notes, crossed-out rumor 
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'learner-labels/' | relative_url }}" title="The hidden risk of learner labels | Myths and misconcept 0 d48 d7 learning styles surv" aria-label="Read more about The hidden risk of learner labels | Myths and misconcept 0 d48 d7 learning styles surv">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'learner-labels/' | relative_url }}" title="The hidden risk of learner labels | How Common Is Belief in Learning Styles? | Myths and misconcept 0 d48 d7" aria-label="Read more about The hidden risk of learner labels | How Common Is Belief in Learning Styles? | Myths and misconcept 0 d48 d7">Read more</a>
 </div>
 </div>
 </div>
@@ -4482,7 +4482,7 @@ site_image_description: A desk covered with fact-check notes, crossed-out rumor 
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'correction/' | relative_url }}" title="What changes minds about learning styles | Myths and misconcept 0 d48 d7 learning styles surv" aria-label="Read more about What changes minds about learning styles | Myths and misconcept 0 d48 d7 learning styles surv">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'correction/' | relative_url }}" title="What changes minds about learning styles | How Common Is Belief in Learning Styles? | Myths and misconcept 0 d48 d7" aria-label="Read more about What changes minds about learning styles | How Common Is Belief in Learning Styles? | Myths and misconcept 0 d48 d7">Read more</a>
 </div>
 </div>
 </div>
@@ -4502,7 +4502,7 @@ site_image_description: A desk covered with fact-check notes, crossed-out rumor 
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'reported-use/' | relative_url }}" title="When belief becomes classroom routine | Myths and misconcept 0 d48 d7 learning styles surv" aria-label="Read more about When belief becomes classroom routine | Myths and misconcept 0 d48 d7 learning styles surv">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'reported-use/' | relative_url }}" title="When belief becomes classroom routine | How Common Is Belief in Learning Styles? | Myths and misconcept 0 d48 d7" aria-label="Read more about When belief becomes classroom routine | How Common Is Belief in Learning Styles? | Myths and misconcept 0 d48 d7">Read more</a>
 </div>
 </div>
 </div>
@@ -4522,7 +4522,7 @@ site_image_description: A desk covered with fact-check notes, crossed-out rumor 
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'teacher-belief-a45b18/' | relative_url }}" title="Why new teachers still inherit learning styles | Myths and misconcept 0 d48 d7 learning styles surv" aria-label="Read more about Why new teachers still inherit learning styles | Myths and misconcept 0 d48 d7 learning styles surv">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'teacher-belief-a45b18/' | relative_url }}" title="Why new teachers still inherit learning styles | How Common Is Belief in Learning Styles? | Myths and misconcept 0 d48 d7" aria-label="Read more about Why new teachers still inherit learning styles | How Common Is Belief in Learning Styles? | Myths and misconcept 0 d48 d7">Read more</a>
 </div>
 </div>
 </div>
@@ -4542,7 +4542,7 @@ site_image_description: A desk covered with fact-check notes, crossed-out rumor 
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'survey-wording/' | relative_url }}" title="Why survey questions make the myth easy to endorse | Myths and misconcept 0 d48 d7 learning styles surv" aria-label="Read more about Why survey questions make the myth easy to endorse | Myths and misconcept 0 d48 d7 learning styles surv">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'survey-wording/' | relative_url }}" title="Why survey questions make the myth easy to endorse | How Common Is Belief in Learning Styles? | Myths and misconcept 0 d48 d7" aria-label="Read more about Why survey questions make the myth easy to endorse | How Common Is Belief in Learning Styles? | Myths and misconcept 0 d48 d7">Read more</a>
 </div>
 </div>
 </div>
@@ -4566,7 +4566,7 @@ site_image_description: A desk covered with fact-check notes, crossed-out rumor 
 <button class="ct-node-badge ct-node-badge-toggle" type="button" data-home-vertical-badge-toggle title="6 pages" aria-label="6 pages" aria-expanded="false">6 pages</button>
 <div class="home-vertical-card-actions">
 <button class="home-vertical-toggle" type="button" data-home-vertical-toggle aria-label="Expand section: Can Teacher Training Reduce Education Myths? | Myths and misconcept" aria-expanded="false" aria-controls="home-vertical-children-node-myths-and-misconcept-0d48d7-education-myth-corre-425e93"><span class="home-vertical-toggle-icon">+</span><span class="home-vertical-toggle-text">Show subtopics</span></button>
-<a class="topic-card-link home-vertical-read-more" href="{{ 'teacher-corrections/' | relative_url }}" title="Can Teacher Training Reduce Education Myths? | Myths and misconcept" aria-label="Read more about Can Teacher Training Reduce Education Myths? | Myths and misconcept">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'teacher-corrections/' | relative_url }}" title="Can Teacher Training Reduce Education Myths? | Myths and misconcept 0 d48 d7" aria-label="Read more about Can Teacher Training Reduce Education Myths? | Myths and misconcept 0 d48 d7">Read more</a>
 </div>
 </div>
 </div>
@@ -4586,7 +4586,7 @@ site_image_description: A desk covered with fact-check notes, crossed-out rumor 
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'training-design/' | relative_url }}" title="How Teacher Training Can Keep Myths Gone | Myths and misconcept 0 d48 d7 education myth corre" aria-label="Read more about How Teacher Training Can Keep Myths Gone | Myths and misconcept 0 d48 d7 education myth corre">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'training-design/' | relative_url }}" title="How Teacher Training Can Keep Myths Gone | Can Teacher Training Reduce Education Myths? | Myths and misconcept 0 d48 d7" aria-label="Read more about How Teacher Training Can Keep Myths Gone | Can Teacher Training Reduce Education Myths? | Myths and misconcept 0 d48 d7">Read more</a>
 </div>
 </div>
 </div>
@@ -4606,7 +4606,7 @@ site_image_description: A desk covered with fact-check notes, crossed-out rumor 
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'personalised-fixes/' | relative_url }}" title="Should Every Teacher Hear Every Myth? | Myths and misconcept 0 d48 d7 education myth corre" aria-label="Read more about Should Every Teacher Hear Every Myth? | Myths and misconcept 0 d48 d7 education myth corre">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'personalised-fixes/' | relative_url }}" title="Should Every Teacher Hear Every Myth? | Can Teacher Training Reduce Education Myths? | Myths and misconcept 0 d48 d7" aria-label="Read more about Should Every Teacher Hear Every Myth? | Can Teacher Training Reduce Education Myths? | Myths and misconcept 0 d48 d7">Read more</a>
 </div>
 </div>
 </div>
@@ -4626,7 +4626,7 @@ site_image_description: A desk covered with fact-check notes, crossed-out rumor 
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'learning-styles-17414b/' | relative_url }}" title="What Should Replace Learning Styles? | Myths and misconcept 0 d48 d7 education myth corre" aria-label="Read more about What Should Replace Learning Styles? | Myths and misconcept 0 d48 d7 education myth corre">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'learning-styles-17414b/' | relative_url }}" title="What Should Replace Learning Styles? | Can Teacher Training Reduce Education Myths? | Myths and misconcept 0 d48 d7" aria-label="Read more about What Should Replace Learning Styles? | Can Teacher Training Reduce Education Myths? | Myths and misconcept 0 d48 d7">Read more</a>
 </div>
 </div>
 </div>
@@ -4646,7 +4646,7 @@ site_image_description: A desk covered with fact-check notes, crossed-out rumor 
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'practice-gap/' | relative_url }}" title="When Debunking Does Not Change Teaching | Myths and misconcept 0 d48 d7 education myth corre" aria-label="Read more about When Debunking Does Not Change Teaching | Myths and misconcept 0 d48 d7 education myth corre">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'practice-gap/' | relative_url }}" title="When Debunking Does Not Change Teaching | Can Teacher Training Reduce Education Myths? | Myths and misconcept 0 d48 d7" aria-label="Read more about When Debunking Does Not Change Teaching | Can Teacher Training Reduce Education Myths? | Myths and misconcept 0 d48 d7">Read more</a>
 </div>
 </div>
 </div>
@@ -4666,7 +4666,7 @@ site_image_description: A desk covered with fact-check notes, crossed-out rumor 
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'refutation-texts/' | relative_url }}" title="Why Some Myth Corrections Actually Stick | Myths and misconcept 0 d48 d7 education myth corre" aria-label="Read more about Why Some Myth Corrections Actually Stick | Myths and misconcept 0 d48 d7 education myth corre">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'refutation-texts/' | relative_url }}" title="Why Some Myth Corrections Actually Stick | Can Teacher Training Reduce Education Myths? | Myths and misconcept 0 d48 d7" aria-label="Read more about Why Some Myth Corrections Actually Stick | Can Teacher Training Reduce Education Myths? | Myths and misconcept 0 d48 d7">Read more</a>
 </div>
 </div>
 </div>
@@ -4690,7 +4690,7 @@ site_image_description: A desk covered with fact-check notes, crossed-out rumor 
 <button class="ct-node-badge ct-node-badge-toggle" type="button" data-home-vertical-badge-toggle title="6 pages" aria-label="6 pages" aria-expanded="false">6 pages</button>
 <div class="home-vertical-card-actions">
 <button class="home-vertical-toggle" type="button" data-home-vertical-toggle aria-label="Expand section: When Should a Myth Be Corrected? | Myths and misconcept" aria-expanded="false" aria-controls="home-vertical-children-node-myths-and-misconcept-0d48d7-correction-timing-c61362"><span class="home-vertical-toggle-icon">+</span><span class="home-vertical-toggle-text">Show subtopics</span></button>
-<a class="topic-card-link home-vertical-read-more" href="{{ 'timing/' | relative_url }}" title="When Should a Myth Be Corrected? | Myths and misconcept" aria-label="Read more about When Should a Myth Be Corrected? | Myths and misconcept">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'timing/' | relative_url }}" title="When Should a Myth Be Corrected? | Myths and misconcept 0 d48 d7" aria-label="Read more about When Should a Myth Be Corrected? | Myths and misconcept 0 d48 d7">Read more</a>
 </div>
 </div>
 </div>
@@ -4710,7 +4710,7 @@ site_image_description: A desk covered with fact-check notes, crossed-out rumor 
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'amplification/' | relative_url }}" title="Can a correction spread the myth further? | Myths and misconcept 0 d48 d7 correction timing" aria-label="Read more about Can a correction spread the myth further? | Myths and misconcept 0 d48 d7 correction timing">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'amplification/' | relative_url }}" title="Can a correction spread the myth further? | When Should a Myth Be Corrected? | Myths and misconcept 0 d48 d7" aria-label="Read more about Can a correction spread the myth further? | When Should a Myth Be Corrected? | Myths and misconcept 0 d48 d7">Read more</a>
 </div>
 </div>
 </div>
@@ -4730,7 +4730,7 @@ site_image_description: A desk covered with fact-check notes, crossed-out rumor 
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'late-labels/' | relative_url }}" title="Do warning labels arrive too late? | Myths and misconcept 0 d48 d7 correction timing" aria-label="Read more about Do warning labels arrive too late? | Myths and misconcept 0 d48 d7 correction timing">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'late-labels/' | relative_url }}" title="Do warning labels arrive too late? | When Should a Myth Be Corrected? | Myths and misconcept 0 d48 d7" aria-label="Read more about Do warning labels arrive too late? | When Should a Myth Be Corrected? | Myths and misconcept 0 d48 d7">Read more</a>
 </div>
 </div>
 </div>
@@ -4750,7 +4750,7 @@ site_image_description: A desk covered with fact-check notes, crossed-out rumor 
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'holding-fixes/' | relative_url }}" title="When should you correct before certainty? | Myths and misconcept 0 d48 d7 correction timing" aria-label="Read more about When should you correct before certainty? | Myths and misconcept 0 d48 d7 correction timing">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'holding-fixes/' | relative_url }}" title="When should you correct before certainty? | When Should a Myth Be Corrected? | Myths and misconcept 0 d48 d7" aria-label="Read more about When should you correct before certainty? | When Should a Myth Be Corrected? | Myths and misconcept 0 d48 d7">Read more</a>
 </div>
 </div>
 </div>
@@ -4770,7 +4770,7 @@ site_image_description: A desk covered with fact-check notes, crossed-out rumor 
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'high-harm/' | relative_url }}" title="Which myths need the fastest correction? | Myths and misconcept 0 d48 d7 correction timing" aria-label="Read more about Which myths need the fastest correction? | Myths and misconcept 0 d48 d7 correction timing">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'high-harm/' | relative_url }}" title="Which myths need the fastest correction? | When Should a Myth Be Corrected? | Myths and misconcept 0 d48 d7" aria-label="Read more about Which myths need the fastest correction? | When Should a Myth Be Corrected? | Myths and misconcept 0 d48 d7">Read more</a>
 </div>
 </div>
 </div>
@@ -4790,7 +4790,7 @@ site_image_description: A desk covered with fact-check notes, crossed-out rumor 
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'familiarity-7d16d3/' | relative_url }}" title="Why do repeated myths start feeling true? | Myths and misconcept 0 d48 d7 correction timing" aria-label="Read more about Why do repeated myths start feeling true? | Myths and misconcept 0 d48 d7 correction timing">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'familiarity-7d16d3/' | relative_url }}" title="Why do repeated myths start feeling true? | When Should a Myth Be Corrected? | Myths and misconcept 0 d48 d7" aria-label="Read more about Why do repeated myths start feeling true? | When Should a Myth Be Corrected? | Myths and misconcept 0 d48 d7">Read more</a>
 </div>
 </div>
 </div>
@@ -4814,7 +4814,7 @@ site_image_description: A desk covered with fact-check notes, crossed-out rumor 
 <button class="ct-node-badge ct-node-badge-toggle" type="button" data-home-vertical-badge-toggle title="6 pages" aria-label="6 pages" aria-expanded="false">6 pages</button>
 <div class="home-vertical-card-actions">
 <button class="home-vertical-toggle" type="button" data-home-vertical-toggle aria-label="Expand section: Why Shaming People Makes Corrections Harder | Myths and misconcept" aria-expanded="false" aria-controls="home-vertical-children-node-myths-and-misconcept-0d48d7-condescending-correc-7062df"><span class="home-vertical-toggle-icon">+</span><span class="home-vertical-toggle-text">Show subtopics</span></button>
-<a class="topic-card-link home-vertical-read-more" href="{{ 'tone/' | relative_url }}" title="Why Shaming People Makes Corrections Harder | Myths and misconcept" aria-label="Read more about Why Shaming People Makes Corrections Harder | Myths and misconcept">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'tone/' | relative_url }}" title="Why Shaming People Makes Corrections Harder | Myths and misconcept 0 d48 d7" aria-label="Read more about Why Shaming People Makes Corrections Harder | Myths and misconcept 0 d48 d7">Read more</a>
 </div>
 </div>
 </div>
@@ -4834,7 +4834,7 @@ site_image_description: A desk covered with fact-check notes, crossed-out rumor 
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'face-saving/' | relative_url }}" title="How to Correct Without Cornering Someone | Myths and misconcept 0 d48 d7 condescending correc" aria-label="Read more about How to Correct Without Cornering Someone | Myths and misconcept 0 d48 d7 condescending correc">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'face-saving/' | relative_url }}" title="How to Correct Without Cornering Someone | Why Shaming People Makes Corrections Harder | Myths and misconcept 0 d48 d7" aria-label="Read more about How to Correct Without Cornering Someone | Why Shaming People Makes Corrections Harder | Myths and misconcept 0 d48 d7">Read more</a>
 </div>
 </div>
 </div>
@@ -4854,7 +4854,7 @@ site_image_description: A desk covered with fact-check notes, crossed-out rumor 
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'intent/' | relative_url }}" title="Mistaken Is Not Always Malicious | Myths and misconcept 0 d48 d7 condescending correc" aria-label="Read more about Mistaken Is Not Always Malicious | Myths and misconcept 0 d48 d7 condescending correc">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'intent/' | relative_url }}" title="Mistaken Is Not Always Malicious | Why Shaming People Makes Corrections Harder | Myths and misconcept 0 d48 d7" aria-label="Read more about Mistaken Is Not Always Malicious | Why Shaming People Makes Corrections Harder | Myths and misconcept 0 d48 d7">Read more</a>
 </div>
 </div>
 </div>
@@ -4874,7 +4874,7 @@ site_image_description: A desk covered with fact-check notes, crossed-out rumor 
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'replacements/' | relative_url }}" title="The Missing Piece in Many Corrections | Myths and misconcept 0 d48 d7 condescending correc" aria-label="Read more about The Missing Piece in Many Corrections | Myths and misconcept 0 d48 d7 condescending correc">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'replacements/' | relative_url }}" title="The Missing Piece in Many Corrections | Why Shaming People Makes Corrections Harder | Myths and misconcept 0 d48 d7" aria-label="Read more about The Missing Piece in Many Corrections | Why Shaming People Makes Corrections Harder | Myths and misconcept 0 d48 d7">Read more</a>
 </div>
 </div>
 </div>
@@ -4894,7 +4894,7 @@ site_image_description: A desk covered with fact-check notes, crossed-out rumor 
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'public-replies/' | relative_url }}" title="When Public Correction Becomes Public Shaming | Myths and misconcept 0 d48 d7 condescending correc" aria-label="Read more about When Public Correction Becomes Public Shaming | Myths and misconcept 0 d48 d7 condescending correc">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'public-replies/' | relative_url }}" title="When Public Correction Becomes Public Shaming | Why Shaming People Makes Corrections Harder | Myths and misconcept 0 d48 d7" aria-label="Read more about When Public Correction Becomes Public Shaming | Why Shaming People Makes Corrections Harder | Myths and misconcept 0 d48 d7">Read more</a>
 </div>
 </div>
 </div>
@@ -4914,7 +4914,7 @@ site_image_description: A desk covered with fact-check notes, crossed-out rumor 
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'reactance/' | relative_url }}" title="Why Harsh Corrections Can Trigger Defiance | Myths and misconcept 0 d48 d7 condescending correc" aria-label="Read more about Why Harsh Corrections Can Trigger Defiance | Myths and misconcept 0 d48 d7 condescending correc">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'reactance/' | relative_url }}" title="Why Harsh Corrections Can Trigger Defiance | Why Shaming People Makes Corrections Harder | Myths and misconcept 0 d48 d7" aria-label="Read more about Why Harsh Corrections Can Trigger Defiance | Why Shaming People Makes Corrections Harder | Myths and misconcept 0 d48 d7">Read more</a>
 </div>
 </div>
 </div>
@@ -4938,7 +4938,7 @@ site_image_description: A desk covered with fact-check notes, crossed-out rumor 
 <button class="ct-node-badge ct-node-badge-toggle" type="button" data-home-vertical-badge-toggle title="6 pages" aria-label="6 pages" aria-expanded="false">6 pages</button>
 <div class="home-vertical-card-actions">
 <button class="home-vertical-toggle" type="button" data-home-vertical-toggle aria-label="Expand section: Why Uncertainty Makes Myths Appealing | Myths and misconcept" aria-expanded="false" aria-controls="home-vertical-children-node-myths-and-misconcept-0d48d7-uncertainty-and-myth-ca758b"><span class="home-vertical-toggle-icon">+</span><span class="home-vertical-toggle-text">Show subtopics</span></button>
-<a class="topic-card-link home-vertical-read-more" href="{{ 'uncertainty/' | relative_url }}" title="Why Uncertainty Makes Myths Appealing | Myths and misconcept" aria-label="Read more about Why Uncertainty Makes Myths Appealing | Myths and misconcept">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'uncertainty/' | relative_url }}" title="Why Uncertainty Makes Myths Appealing | Myths and misconcept 0 d48 d7" aria-label="Read more about Why Uncertainty Makes Myths Appealing | Myths and misconcept 0 d48 d7">Read more</a>
 </div>
 </div>
 </div>
@@ -4958,7 +4958,7 @@ site_image_description: A desk covered with fact-check notes, crossed-out rumor 
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'communicating/' | relative_url }}" title="Can Honest Uncertainty Build More Public Trust? | Myths and misconcept 0 d48 d7 uncertainty and myth" aria-label="Read more about Can Honest Uncertainty Build More Public Trust? | Myths and misconcept 0 d48 d7 uncertainty and myth">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'communicating/' | relative_url }}" title="Can Honest Uncertainty Build More Public Trust? | Why Uncertainty Makes Myths Appealing | Myths and misconcept 0 d48 d7" aria-label="Read more about Can Honest Uncertainty Build More Public Trust? | Why Uncertainty Makes Myths Appealing | Myths and misconcept 0 d48 d7">Read more</a>
 </div>
 </div>
 </div>
@@ -4978,7 +4978,7 @@ site_image_description: A desk covered with fact-check notes, crossed-out rumor 
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'need-closure/' | relative_url }}" title="How the Need for Closure Fuels Conspiracy Beliefs | Myths and misconcept 0 d48 d7 uncertainty and myth" aria-label="Read more about How the Need for Closure Fuels Conspiracy Beliefs | Myths and misconcept 0 d48 d7 uncertainty and myth">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'need-closure/' | relative_url }}" title="How the Need for Closure Fuels Conspiracy Beliefs | Why Uncertainty Makes Myths Appealing | Myths and misconcept 0 d48 d7" aria-label="Read more about How the Need for Closure Fuels Conspiracy Beliefs | Why Uncertainty Makes Myths Appealing | Myths and misconcept 0 d48 d7">Read more</a>
 </div>
 </div>
 </div>
@@ -4998,7 +4998,7 @@ site_image_description: A desk covered with fact-check notes, crossed-out rumor 
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'fake-news/' | relative_url }}" title="When Feelings Override Evidence in News Judgments | Myths and misconcept 0 d48 d7 uncertainty and myth" aria-label="Read more about When Feelings Override Evidence in News Judgments | Myths and misconcept 0 d48 d7 uncertainty and myth">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'fake-news/' | relative_url }}" title="When Feelings Override Evidence in News Judgments | Why Uncertainty Makes Myths Appealing | Myths and misconcept 0 d48 d7" aria-label="Read more about When Feelings Override Evidence in News Judgments | Why Uncertainty Makes Myths Appealing | Myths and misconcept 0 d48 d7">Read more</a>
 </div>
 </div>
 </div>
@@ -5018,7 +5018,7 @@ site_image_description: A desk covered with fact-check notes, crossed-out rumor 
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'anxiety-effects/' | relative_url }}" title="Why Do Anxious People Prefer Simple Explanations? | Myths and misconcept 0 d48 d7 uncertainty and myth" aria-label="Read more about Why Do Anxious People Prefer Simple Explanations? | Myths and misconcept 0 d48 d7 uncertainty and myth">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'anxiety-effects/' | relative_url }}" title="Why Do Anxious People Prefer Simple Explanations? | Why Uncertainty Makes Myths Appealing | Myths and misconcept 0 d48 d7" aria-label="Read more about Why Do Anxious People Prefer Simple Explanations? | Why Uncertainty Makes Myths Appealing | Myths and misconcept 0 d48 d7">Read more</a>
 </div>
 </div>
 </div>
@@ -5038,7 +5038,7 @@ site_image_description: A desk covered with fact-check notes, crossed-out rumor 
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'blame-seeking/' | relative_url }}" title="Why Uncertainty Creates a Search for Someone to Blame | Myths and misconcept 0 d48 d7 uncertainty and myth" aria-label="Read more about Why Uncertainty Creates a Search for Someone to Blame | Myths and misconcept 0 d48 d7 uncertainty and myth">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'blame-seeking/' | relative_url }}" title="Why Uncertainty Creates a Search for Someone to Blame | Why Uncertainty Makes Myths Appealing | Myths and misconcept 0 d48 d7" aria-label="Read more about Why Uncertainty Creates a Search for Someone to Blame | Why Uncertainty Makes Myths Appealing | Myths and misconcept 0 d48 d7">Read more</a>
 </div>
 </div>
 </div>
@@ -5062,7 +5062,7 @@ site_image_description: A desk covered with fact-check notes, crossed-out rumor 
 <button class="ct-node-badge ct-node-badge-toggle" type="button" data-home-vertical-badge-toggle title="6 pages" aria-label="6 pages" aria-expanded="false">6 pages</button>
 <div class="home-vertical-card-actions">
 <button class="home-vertical-toggle" type="button" data-home-vertical-toggle aria-label="Expand section: What the Vaccine Autism Myth Teaches Debunkers | Myths and misconcept" aria-expanded="false" aria-controls="home-vertical-children-node-myths-and-misconcept-0d48d7-vaccine-autism-corre-58e816"><span class="home-vertical-toggle-icon">+</span><span class="home-vertical-toggle-text">Show subtopics</span></button>
-<a class="topic-card-link home-vertical-read-more" href="{{ 'vaccines/' | relative_url }}" title="What the Vaccine Autism Myth Teaches Debunkers | Myths and misconcept" aria-label="Read more about What the Vaccine Autism Myth Teaches Debunkers | Myths and misconcept">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'vaccines/' | relative_url }}" title="What the Vaccine Autism Myth Teaches Debunkers | Myths and misconcept 0 d48 d7" aria-label="Read more about What the Vaccine Autism Myth Teaches Debunkers | Myths and misconcept 0 d48 d7">Read more</a>
 </div>
 </div>
 </div>
@@ -5082,7 +5082,7 @@ site_image_description: A desk covered with fact-check notes, crossed-out rumor 
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'wakefield-paper/' | relative_url }}" title="How One Weak Paper Became a Public Myth | Myths and misconcept 0 d48 d7 vaccine autism corre" aria-label="Read more about How One Weak Paper Became a Public Myth | Myths and misconcept 0 d48 d7 vaccine autism corre">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'wakefield-paper/' | relative_url }}" title="How One Weak Paper Became a Public Myth | What the Vaccine Autism Myth Teaches Debunkers | Myths and misconcept 0 d48 d7" aria-label="Read more about How One Weak Paper Became a Public Myth | What the Vaccine Autism Myth Teaches Debunkers | Myths and misconcept 0 d48 d7">Read more</a>
 </div>
 </div>
 </div>
@@ -5102,7 +5102,7 @@ site_image_description: A desk covered with fact-check notes, crossed-out rumor 
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'respectful-correction/' | relative_url }}" title="How To Correct The Myth Without Harm | Myths and misconcept 0 d48 d7 vaccine autism corre" aria-label="Read more about How To Correct The Myth Without Harm | Myths and misconcept 0 d48 d7 vaccine autism corre">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'respectful-correction/' | relative_url }}" title="How To Correct The Myth Without Harm | What the Vaccine Autism Myth Teaches Debunkers | Myths and misconcept 0 d48 d7" aria-label="Read more about How To Correct The Myth Without Harm | What the Vaccine Autism Myth Teaches Debunkers | Myths and misconcept 0 d48 d7">Read more</a>
 </div>
 </div>
 </div>
@@ -5122,7 +5122,7 @@ site_image_description: A desk covered with fact-check notes, crossed-out rumor 
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'large-studies/' | relative_url }}" title="What Larger Studies Found About MMR | Myths and misconcept 0 d48 d7 vaccine autism corre" aria-label="Read more about What Larger Studies Found About MMR | Myths and misconcept 0 d48 d7 vaccine autism corre">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'large-studies/' | relative_url }}" title="What Larger Studies Found About MMR | What the Vaccine Autism Myth Teaches Debunkers | Myths and misconcept 0 d48 d7" aria-label="Read more about What Larger Studies Found About MMR | What the Vaccine Autism Myth Teaches Debunkers | Myths and misconcept 0 d48 d7">Read more</a>
 </div>
 </div>
 </div>
@@ -5142,7 +5142,7 @@ site_image_description: A desk covered with fact-check notes, crossed-out rumor 
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'shifting-claims/' | relative_url }}" title="When The Claim Changes Its Target | Myths and misconcept 0 d48 d7 vaccine autism corre" aria-label="Read more about When The Claim Changes Its Target | Myths and misconcept 0 d48 d7 vaccine autism corre">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'shifting-claims/' | relative_url }}" title="When The Claim Changes Its Target | What the Vaccine Autism Myth Teaches Debunkers | Myths and misconcept 0 d48 d7" aria-label="Read more about When The Claim Changes Its Target | What the Vaccine Autism Myth Teaches Debunkers | Myths and misconcept 0 d48 d7">Read more</a>
 </div>
 </div>
 </div>
@@ -5162,7 +5162,7 @@ site_image_description: A desk covered with fact-check notes, crossed-out rumor 
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'timing-trap-49e224/' | relative_url }}" title="Why The Timing Can Feel So Convincing | Myths and misconcept 0 d48 d7 vaccine autism corre" aria-label="Read more about Why The Timing Can Feel So Convincing | Myths and misconcept 0 d48 d7 vaccine autism corre">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'timing-trap-49e224/' | relative_url }}" title="Why The Timing Can Feel So Convincing | What the Vaccine Autism Myth Teaches Debunkers | Myths and misconcept 0 d48 d7" aria-label="Read more about Why The Timing Can Feel So Convincing | What the Vaccine Autism Myth Teaches Debunkers | Myths and misconcept 0 d48 d7">Read more</a>
 </div>
 </div>
 </div>
