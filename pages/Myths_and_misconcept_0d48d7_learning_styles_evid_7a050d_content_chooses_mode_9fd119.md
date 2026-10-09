@@ -212,7 +212,7 @@ ancestor_links:
   permalink: /myths-and-misconcept-0-d48-d7/
   short_title: Mythcraft
 - basename: Myths_and_misconcept_0d48d7_learning_styles_evid_7a050d
-  title: Learning Styles | Myths and misconcept 0 d48 d7
+  title: Learning Styles | Myths and misconceptions
   permalink: /learning-styles/
   short_title: Learning Styles
   heading_title: Do Learning Styles Really Improve Learning?
@@ -222,7 +222,7 @@ breadcrumb_links:
   permalink: /myths-and-misconcept-0-d48-d7/
   short_title: Mythcraft
 - basename: Myths_and_misconcept_0d48d7_learning_styles_evid_7a050d
-  title: Learning Styles | Myths and misconcept 0 d48 d7
+  title: Learning Styles | Myths and misconceptions
   permalink: /learning-styles/
   short_title: Learning Styles
   heading_title: Do Learning Styles Really Improve Learning?
@@ -249,7 +249,7 @@ sibling_links:
   heading_title: The planning time learning styles steal
 up_link:
   basename: Myths_and_misconcept_0d48d7_learning_styles_evid_7a050d
-  title: Learning Styles | Myths and misconcept 0 d48 d7
+  title: Learning Styles | Myths and misconceptions
   permalink: /learning-styles/
   short_title: Learning Styles
   heading_title: Do Learning Styles Really Improve Learning?

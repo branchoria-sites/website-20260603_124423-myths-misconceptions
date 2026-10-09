@@ -212,7 +212,7 @@ ancestor_links:
   permalink: /myths-and-misconcept-0-d48-d7/
   short_title: Mythcraft
 - basename: Myths_and_misconcept_0d48d7_misleading_analogies_a297a0
-  title: Analogies | Myths and misconcept 0 d48 d7
+  title: Analogies | Myths and misconceptions
   permalink: /analogies/
   short_title: Analogies
   heading_title: When Helpful Analogies Teach the Wrong Lesson
@@ -222,7 +222,7 @@ breadcrumb_links:
   permalink: /myths-and-misconcept-0-d48-d7/
   short_title: Mythcraft
 - basename: Myths_and_misconcept_0d48d7_misleading_analogies_a297a0
-  title: Analogies | Myths and misconcept 0 d48 d7
+  title: Analogies | Myths and misconceptions
   permalink: /analogies/
   short_title: Analogies
   heading_title: When Helpful Analogies Teach the Wrong Lesson
@@ -249,7 +249,7 @@ sibling_links:
   heading_title: How Clear Framing Prevents Misleading Analogies in Education
 up_link:
   basename: Myths_and_misconcept_0d48d7_misleading_analogies_a297a0
-  title: Analogies | Myths and misconcept 0 d48 d7
+  title: Analogies | Myths and misconceptions
   permalink: /analogies/
   short_title: Analogies
   heading_title: When Helpful Analogies Teach the Wrong Lesson

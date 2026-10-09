@@ -212,7 +212,7 @@ ancestor_links:
   permalink: /myths-and-misconcept-0-d48-d7/
   short_title: Mythcraft
 - basename: Myths_and_misconcept_0d48d7_replacement_stories_587456
-  title: Rumour Gaps | Myths and misconcept 0 d48 d7
+  title: Rumour Gaps | Myths and misconceptions
   permalink: /rumour-gaps/
   short_title: Rumour Gaps
   heading_title: Why Debunks Need a Better Story
@@ -222,7 +222,7 @@ breadcrumb_links:
   permalink: /myths-and-misconcept-0-d48-d7/
   short_title: Mythcraft
 - basename: Myths_and_misconcept_0d48d7_replacement_stories_587456
-  title: Rumour Gaps | Myths and misconcept 0 d48 d7
+  title: Rumour Gaps | Myths and misconceptions
   permalink: /rumour-gaps/
   short_title: Rumour Gaps
   heading_title: Why Debunks Need a Better Story
@@ -249,7 +249,7 @@ sibling_links:
   heading_title: When Slow Counting Needs a Better Story
 up_link:
   basename: Myths_and_misconcept_0d48d7_replacement_stories_587456
-  title: Rumour Gaps | Myths and misconcept 0 d48 d7
+  title: Rumour Gaps | Myths and misconceptions
   permalink: /rumour-gaps/
   short_title: Rumour Gaps
   heading_title: Why Debunks Need a Better Story

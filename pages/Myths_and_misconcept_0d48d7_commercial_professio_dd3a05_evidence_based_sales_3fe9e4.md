@@ -212,7 +212,7 @@ ancestor_links:
   permalink: /myths-and-misconcept-0-d48-d7/
   short_title: Mythcraft
 - basename: Myths_and_misconcept_0d48d7_commercial_professio_dd3a05
-  title: Commercial Myths | Myths and misconcept 0 d48 d7
+  title: Commercial Myths | Myths and misconceptions
   permalink: /commercial-myths/
   short_title: Commercial Myths
   heading_title: When Myths Come in Professional Packaging
@@ -222,7 +222,7 @@ breadcrumb_links:
   permalink: /myths-and-misconcept-0-d48-d7/
   short_title: Mythcraft
 - basename: Myths_and_misconcept_0d48d7_commercial_professio_dd3a05
-  title: Commercial Myths | Myths and misconcept 0 d48 d7
+  title: Commercial Myths | Myths and misconceptions
   permalink: /commercial-myths/
   short_title: Commercial Myths
   heading_title: When Myths Come in Professional Packaging
@@ -249,7 +249,7 @@ sibling_links:
   heading_title: Do learning styles products really help?
 up_link:
   basename: Myths_and_misconcept_0d48d7_commercial_professio_dd3a05
-  title: Commercial Myths | Myths and misconcept 0 d48 d7
+  title: Commercial Myths | Myths and misconceptions
   permalink: /commercial-myths/
   short_title: Commercial Myths
   heading_title: When Myths Come in Professional Packaging

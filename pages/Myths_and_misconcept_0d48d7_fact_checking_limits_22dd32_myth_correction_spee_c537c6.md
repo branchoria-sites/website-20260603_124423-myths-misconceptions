@@ -212,7 +212,7 @@ ancestor_links:
   permalink: /myths-and-misconcept-0-d48-d7/
   short_title: Mythcraft
 - basename: Myths_and_misconcept_0d48d7_fact_checking_limits_22dd32
-  title: Fact Checks | Myths and misconcept 0 d48 d7
+  title: Fact Checks | Myths and misconceptions
   permalink: /fact-checks/
   short_title: Fact Checks
   heading_title: Why Fact Checking Is Not Enough
@@ -222,7 +222,7 @@ breadcrumb_links:
   permalink: /myths-and-misconcept-0-d48-d7/
   short_title: Mythcraft
 - basename: Myths_and_misconcept_0d48d7_fact_checking_limits_22dd32
-  title: Fact Checks | Myths and misconcept 0 d48 d7
+  title: Fact Checks | Myths and misconceptions
   permalink: /fact-checks/
   short_title: Fact Checks
   heading_title: Why Fact Checking Is Not Enough
@@ -249,7 +249,7 @@ sibling_links:
   heading_title: Can Prebunking Stop Myths Earlier?
 up_link:
   basename: Myths_and_misconcept_0d48d7_fact_checking_limits_22dd32
-  title: Fact Checks | Myths and misconcept 0 d48 d7
+  title: Fact Checks | Myths and misconceptions
   permalink: /fact-checks/
   short_title: Fact Checks
   heading_title: Why Fact Checking Is Not Enough

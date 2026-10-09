@@ -212,7 +212,7 @@ ancestor_links:
   permalink: /myths-and-misconcept-0-d48-d7/
   short_title: Mythcraft
 - basename: Myths_and_misconcept_0d48d7_ten_percent_brain_my_db46b9
-  title: 10 Brain | Myths and misconcept 0 d48 d7
+  title: 10 Brain | Myths and misconceptions
   permalink: /10-brain/
   short_title: 10 Brain
   heading_title: Why the 10 Percent Brain Myth Endures
@@ -222,7 +222,7 @@ breadcrumb_links:
   permalink: /myths-and-misconcept-0-d48-d7/
   short_title: Mythcraft
 - basename: Myths_and_misconcept_0d48d7_ten_percent_brain_my_db46b9
-  title: 10 Brain | Myths and misconcept 0 d48 d7
+  title: 10 Brain | Myths and misconceptions
   permalink: /10-brain/
   short_title: 10 Brain
   heading_title: Why the 10 Percent Brain Myth Endures
@@ -249,7 +249,7 @@ sibling_links:
   heading_title: Did William James Start the Brain Myth?
 up_link:
   basename: Myths_and_misconcept_0d48d7_ten_percent_brain_my_db46b9
-  title: 10 Brain | Myths and misconcept 0 d48 d7
+  title: 10 Brain | Myths and misconceptions
   permalink: /10-brain/
   short_title: 10 Brain
   heading_title: Why the 10 Percent Brain Myth Endures

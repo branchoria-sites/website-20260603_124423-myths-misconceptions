@@ -212,7 +212,7 @@ ancestor_links:
   permalink: /myths-and-misconcept-0-d48-d7/
   short_title: Mythcraft
 - basename: Myths_and_misconcept_0d48d7_left_right_brain_cla_de8870
-  title: Left Brain | Myths and misconcept 0 d48 d7
+  title: Left Brain | Myths and misconceptions
   permalink: /left-brain/
   short_title: Left Brain
   heading_title: Are People Really Left Brain or Right Brain?
@@ -222,7 +222,7 @@ breadcrumb_links:
   permalink: /myths-and-misconcept-0-d48-d7/
   short_title: Mythcraft
 - basename: Myths_and_misconcept_0d48d7_left_right_brain_cla_de8870
-  title: Left Brain | Myths and misconcept 0 d48 d7
+  title: Left Brain | Myths and misconceptions
   permalink: /left-brain/
   short_title: Left Brain
   heading_title: Are People Really Left Brain or Right Brain?
@@ -249,7 +249,7 @@ sibling_links:
   heading_title: Why matching styles is not enough
 up_link:
   basename: Myths_and_misconcept_0d48d7_left_right_brain_cla_de8870
-  title: Left Brain | Myths and misconcept 0 d48 d7
+  title: Left Brain | Myths and misconceptions
   permalink: /left-brain/
   short_title: Left Brain
   heading_title: Are People Really Left Brain or Right Brain?

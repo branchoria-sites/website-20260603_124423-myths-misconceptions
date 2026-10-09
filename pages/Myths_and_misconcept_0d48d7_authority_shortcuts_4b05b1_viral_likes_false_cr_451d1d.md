@@ -212,7 +212,7 @@ ancestor_links:
   permalink: /myths-and-misconcept-0-d48-d7/
   short_title: Mythcraft
 - basename: Myths_and_misconcept_0d48d7_authority_shortcuts_4b05b1
-  title: Influencers | Myths and misconcept 0 d48 d7
+  title: Influencers | Myths and misconceptions
   permalink: /influencers/
   short_title: Influencers
   heading_title: When Authority Shortcuts Spread Myths
@@ -222,7 +222,7 @@ breadcrumb_links:
   permalink: /myths-and-misconcept-0-d48-d7/
   short_title: Mythcraft
 - basename: Myths_and_misconcept_0d48d7_authority_shortcuts_4b05b1
-  title: Influencers | Myths and misconcept 0 d48 d7
+  title: Influencers | Myths and misconceptions
   permalink: /influencers/
   short_title: Influencers
   heading_title: When Authority Shortcuts Spread Myths
@@ -249,7 +249,7 @@ sibling_links:
   heading_title: Who Can Correct Influencer Myths?
 up_link:
   basename: Myths_and_misconcept_0d48d7_authority_shortcuts_4b05b1
-  title: Influencers | Myths and misconcept 0 d48 d7
+  title: Influencers | Myths and misconceptions
   permalink: /influencers/
   short_title: Influencers
   heading_title: When Authority Shortcuts Spread Myths

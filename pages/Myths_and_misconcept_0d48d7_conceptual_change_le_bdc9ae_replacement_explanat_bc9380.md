@@ -212,7 +212,7 @@ ancestor_links:
   permalink: /myths-and-misconcept-0-d48-d7/
   short_title: Mythcraft
 - basename: Myths_and_misconcept_0d48d7_conceptual_change_le_bdc9ae
-  title: Concept Change | Myths and misconcept 0 d48 d7
+  title: Concept Change | Myths and misconceptions
   permalink: /concept-change/
   short_title: Concept Change
   heading_title: How Learners Replace Wrong Ideas
@@ -222,7 +222,7 @@ breadcrumb_links:
   permalink: /myths-and-misconcept-0-d48-d7/
   short_title: Mythcraft
 - basename: Myths_and_misconcept_0d48d7_conceptual_change_le_bdc9ae
-  title: Concept Change | Myths and misconcept 0 d48 d7
+  title: Concept Change | Myths and misconceptions
   permalink: /concept-change/
   short_title: Concept Change
   heading_title: How Learners Replace Wrong Ideas
@@ -249,7 +249,7 @@ sibling_links:
   heading_title: What A Private Universe Revealed
 up_link:
   basename: Myths_and_misconcept_0d48d7_conceptual_change_le_bdc9ae
-  title: Concept Change | Myths and misconcept 0 d48 d7
+  title: Concept Change | Myths and misconceptions
   permalink: /concept-change/
   short_title: Concept Change
   heading_title: How Learners Replace Wrong Ideas

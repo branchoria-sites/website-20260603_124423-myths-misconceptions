@@ -212,7 +212,7 @@ ancestor_links:
   permalink: /myths-and-misconcept-0-d48-d7/
   short_title: Mythcraft
 - basename: Myths_and_misconcept_0d48d7_identity_trust_belie_3d20c4
-  title: Identity | Myths and misconcept 0 d48 d7
+  title: Identity | Myths and misconceptions
   permalink: /identity/
   short_title: Identity
   heading_title: Why Trusted People Make Myths Stick
@@ -222,7 +222,7 @@ breadcrumb_links:
   permalink: /myths-and-misconcept-0-d48-d7/
   short_title: Mythcraft
 - basename: Myths_and_misconcept_0d48d7_identity_trust_belie_3d20c4
-  title: Identity | Myths and misconcept 0 d48 d7
+  title: Identity | Myths and misconceptions
   permalink: /identity/
   short_title: Identity
   heading_title: Why Trusted People Make Myths Stick
@@ -249,7 +249,7 @@ sibling_links:
   heading_title: How corrections avoid sounding like attacks
 up_link:
   basename: Myths_and_misconcept_0d48d7_identity_trust_belie_3d20c4
-  title: Identity | Myths and misconcept 0 d48 d7
+  title: Identity | Myths and misconceptions
   permalink: /identity/
   short_title: Identity
   heading_title: Why Trusted People Make Myths Stick

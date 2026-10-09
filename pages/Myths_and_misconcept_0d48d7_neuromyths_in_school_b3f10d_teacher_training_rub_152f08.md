@@ -212,7 +212,7 @@ ancestor_links:
   permalink: /myths-and-misconcept-0-d48-d7/
   short_title: Mythcraft
 - basename: Myths_and_misconcept_0d48d7_neuromyths_in_school_b3f10d
-  title: Neuromyths | Myths and misconcept 0 d48 d7
+  title: Neuromyths | Myths and misconceptions
   permalink: /neuromyths/
   short_title: Neuromyths
   heading_title: Why Brain Myths Spread in Schools
@@ -222,7 +222,7 @@ breadcrumb_links:
   permalink: /myths-and-misconcept-0-d48-d7/
   short_title: Mythcraft
 - basename: Myths_and_misconcept_0d48d7_neuromyths_in_school_b3f10d
-  title: Neuromyths | Myths and misconcept 0 d48 d7
+  title: Neuromyths | Myths and misconceptions
   permalink: /neuromyths/
   short_title: Neuromyths
   heading_title: Why Brain Myths Spread in Schools
@@ -249,7 +249,7 @@ sibling_links:
   heading_title: Do learning styles really improve lessons?
 up_link:
   basename: Myths_and_misconcept_0d48d7_neuromyths_in_school_b3f10d
-  title: Neuromyths | Myths and misconcept 0 d48 d7
+  title: Neuromyths | Myths and misconceptions
   permalink: /neuromyths/
   short_title: Neuromyths
   heading_title: Why Brain Myths Spread in Schools

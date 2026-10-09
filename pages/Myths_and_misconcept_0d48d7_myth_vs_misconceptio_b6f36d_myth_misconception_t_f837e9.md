@@ -212,7 +212,7 @@ ancestor_links:
   permalink: /myths-and-misconcept-0-d48-d7/
   short_title: Mythcraft
 - basename: Myths_and_misconcept_0d48d7_myth_vs_misconceptio_b6f36d
-  title: Key Terms | Myths and misconcept 0 d48 d7
+  title: Key Terms | Myths and misconceptions
   permalink: /key-terms/
   short_title: Key Terms
   heading_title: 'Myth or Misconception: What Is the Difference?'
@@ -222,7 +222,7 @@ breadcrumb_links:
   permalink: /myths-and-misconcept-0-d48-d7/
   short_title: Mythcraft
 - basename: Myths_and_misconcept_0d48d7_myth_vs_misconceptio_b6f36d
-  title: Key Terms | Myths and misconcept 0 d48 d7
+  title: Key Terms | Myths and misconceptions
   permalink: /key-terms/
   short_title: Key Terms
   heading_title: 'Myth or Misconception: What Is the Difference?'
@@ -249,7 +249,7 @@ sibling_links:
   heading_title: When Repeated Claims Shape Understanding
 up_link:
   basename: Myths_and_misconcept_0d48d7_myth_vs_misconceptio_b6f36d
-  title: Key Terms | Myths and misconcept 0 d48 d7
+  title: Key Terms | Myths and misconceptions
   permalink: /key-terms/
   short_title: Key Terms
   heading_title: 'Myth or Misconception: What Is the Difference?'

@@ -212,7 +212,7 @@ ancestor_links:
   permalink: /myths-and-misconcept-0-d48-d7/
   short_title: Mythcraft
 - basename: Myths_and_misconcept_0d48d7_memory_recording_mis_a2a9c2
-  title: Memory | Myths and misconcept 0 d48 d7
+  title: Memory | Myths and misconceptions
   permalink: /memory/
   short_title: Memory
   heading_title: Why Memory Is Not a Video Recording
@@ -222,7 +222,7 @@ breadcrumb_links:
   permalink: /myths-and-misconcept-0-d48-d7/
   short_title: Mythcraft
 - basename: Myths_and_misconcept_0d48d7_memory_recording_mis_a2a9c2
-  title: Memory | Myths and misconcept 0 d48 d7
+  title: Memory | Myths and misconceptions
   permalink: /memory/
   short_title: Memory
   heading_title: Why Memory Is Not a Video Recording
@@ -249,7 +249,7 @@ sibling_links:
   heading_title: Why Repeated Stories Feel More True
 up_link:
   basename: Myths_and_misconcept_0d48d7_memory_recording_mis_a2a9c2
-  title: Memory | Myths and misconcept 0 d48 d7
+  title: Memory | Myths and misconceptions
   permalink: /memory/
   short_title: Memory
   heading_title: Why Memory Is Not a Video Recording

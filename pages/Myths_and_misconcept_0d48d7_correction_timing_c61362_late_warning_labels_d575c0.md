@@ -212,7 +212,7 @@ ancestor_links:
   permalink: /myths-and-misconcept-0-d48-d7/
   short_title: Mythcraft
 - basename: Myths_and_misconcept_0d48d7_correction_timing_c61362
-  title: Timing | Myths and misconcept 0 d48 d7
+  title: Timing | Myths and misconceptions
   permalink: /timing/
   short_title: Timing
   heading_title: When Should a Myth Be Corrected?
@@ -222,7 +222,7 @@ breadcrumb_links:
   permalink: /myths-and-misconcept-0-d48-d7/
   short_title: Mythcraft
 - basename: Myths_and_misconcept_0d48d7_correction_timing_c61362
-  title: Timing | Myths and misconcept 0 d48 d7
+  title: Timing | Myths and misconceptions
   permalink: /timing/
   short_title: Timing
   heading_title: When Should a Myth Be Corrected?
@@ -249,7 +249,7 @@ sibling_links:
   heading_title: When should you correct before certainty?
 up_link:
   basename: Myths_and_misconcept_0d48d7_correction_timing_c61362
-  title: Timing | Myths and misconcept 0 d48 d7
+  title: Timing | Myths and misconceptions
   permalink: /timing/
   short_title: Timing
   heading_title: When Should a Myth Be Corrected?

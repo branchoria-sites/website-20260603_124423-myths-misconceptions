@@ -212,7 +212,7 @@ ancestor_links:
   permalink: /myths-and-misconcept-0-d48-d7/
   short_title: Mythcraft
 - basename: Myths_and_misconcept_0d48d7_misinformation_disin_12ff83
-  title: False Info | Myths and misconcept 0 d48 d7
+  title: False Info | Myths and misconceptions
   permalink: /false-info/
   short_title: False Info
   heading_title: 'Misinformation or Disinformation: Why Intent Matters'
@@ -222,7 +222,7 @@ breadcrumb_links:
   permalink: /myths-and-misconcept-0-d48-d7/
   short_title: Mythcraft
 - basename: Myths_and_misconcept_0d48d7_misinformation_disin_12ff83
-  title: False Info | Myths and misconcept 0 d48 d7
+  title: False Info | Myths and misconceptions
   permalink: /false-info/
   short_title: False Info
   heading_title: 'Misinformation or Disinformation: Why Intent Matters'
@@ -249,7 +249,7 @@ sibling_links:
   heading_title: Why platforms look beyond single posts
 up_link:
   basename: Myths_and_misconcept_0d48d7_misinformation_disin_12ff83
-  title: False Info | Myths and misconcept 0 d48 d7
+  title: False Info | Myths and misconceptions
   permalink: /false-info/
   short_title: False Info
   heading_title: 'Misinformation or Disinformation: Why Intent Matters'

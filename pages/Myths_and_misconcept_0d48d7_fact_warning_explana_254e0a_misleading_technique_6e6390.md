@@ -212,7 +212,7 @@ ancestor_links:
   permalink: /myths-and-misconcept-0-d48-d7/
   short_title: Mythcraft
 - basename: Myths_and_misconcept_0d48d7_fact_warning_explana_254e0a
-  title: Debunking | Myths and misconcept 0 d48 d7
+  title: Debunking | Myths and misconceptions
   permalink: /debunking/
   short_title: Debunking
   heading_title: The Three Parts of a Better Debunk
@@ -222,7 +222,7 @@ breadcrumb_links:
   permalink: /myths-and-misconcept-0-d48-d7/
   short_title: Mythcraft
 - basename: Myths_and_misconcept_0d48d7_fact_warning_explana_254e0a
-  title: Debunking | Myths and misconcept 0 d48 d7
+  title: Debunking | Myths and misconceptions
   permalink: /debunking/
   short_title: Debunking
   heading_title: The Three Parts of a Better Debunk
@@ -249,7 +249,7 @@ sibling_links:
   heading_title: Why a better story beats a bare denial
 up_link:
   basename: Myths_and_misconcept_0d48d7_fact_warning_explana_254e0a
-  title: Debunking | Myths and misconcept 0 d48 d7
+  title: Debunking | Myths and misconceptions
   permalink: /debunking/
   short_title: Debunking
   heading_title: The Three Parts of a Better Debunk

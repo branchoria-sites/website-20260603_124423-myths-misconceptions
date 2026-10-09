@@ -212,7 +212,7 @@ ancestor_links:
   permalink: /myths-and-misconcept-0-d48-d7/
   short_title: Mythcraft
 - basename: Myths_and_misconcept_0d48d7_false_balance_claims_5530ff
-  title: False Balance | Myths and misconcept 0 d48 d7
+  title: False Balance | Myths and misconceptions
   permalink: /false-balance/
   short_title: False Balance
   heading_title: When Both Sides Framing Misleads Readers
@@ -222,7 +222,7 @@ breadcrumb_links:
   permalink: /myths-and-misconcept-0-d48-d7/
   short_title: Mythcraft
 - basename: Myths_and_misconcept_0d48d7_false_balance_claims_5530ff
-  title: False Balance | Myths and misconcept 0 d48 d7
+  title: False Balance | Myths and misconceptions
   permalink: /false-balance/
   short_title: False Balance
   heading_title: When Both Sides Framing Misleads Readers
@@ -249,7 +249,7 @@ sibling_links:
   heading_title: Can Balanced Reporting Make Vaccine Myths Stronger?
 up_link:
   basename: Myths_and_misconcept_0d48d7_false_balance_claims_5530ff
-  title: False Balance | Myths and misconcept 0 d48 d7
+  title: False Balance | Myths and misconceptions
   permalink: /false-balance/
   short_title: False Balance
   heading_title: When Both Sides Framing Misleads Readers

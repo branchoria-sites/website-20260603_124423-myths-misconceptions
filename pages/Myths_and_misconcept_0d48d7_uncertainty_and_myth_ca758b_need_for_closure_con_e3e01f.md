@@ -212,7 +212,7 @@ ancestor_links:
   permalink: /myths-and-misconcept-0-d48-d7/
   short_title: Mythcraft
 - basename: Myths_and_misconcept_0d48d7_uncertainty_and_myth_ca758b
-  title: Uncertainty | Myths and misconcept 0 d48 d7
+  title: Uncertainty | Myths and misconceptions
   permalink: /uncertainty/
   short_title: Uncertainty
   heading_title: Why Uncertainty Makes Myths Appealing
@@ -222,7 +222,7 @@ breadcrumb_links:
   permalink: /myths-and-misconcept-0-d48-d7/
   short_title: Mythcraft
 - basename: Myths_and_misconcept_0d48d7_uncertainty_and_myth_ca758b
-  title: Uncertainty | Myths and misconcept 0 d48 d7
+  title: Uncertainty | Myths and misconceptions
   permalink: /uncertainty/
   short_title: Uncertainty
   heading_title: Why Uncertainty Makes Myths Appealing
@@ -249,7 +249,7 @@ sibling_links:
   heading_title: When Feelings Override Evidence in News Judgments
 up_link:
   basename: Myths_and_misconcept_0d48d7_uncertainty_and_myth_ca758b
-  title: Uncertainty | Myths and misconcept 0 d48 d7
+  title: Uncertainty | Myths and misconceptions
   permalink: /uncertainty/
   short_title: Uncertainty
   heading_title: Why Uncertainty Makes Myths Appealing

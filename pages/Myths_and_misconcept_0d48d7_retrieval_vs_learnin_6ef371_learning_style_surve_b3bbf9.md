@@ -211,7 +211,7 @@ ancestor_links:
   permalink: /myths-and-misconcept-0-d48-d7/
   short_title: Mythcraft
 - basename: Myths_and_misconcept_0d48d7_retrieval_vs_learnin_6ef371
-  title: Study Practice | Myths and misconcept 0 d48 d7
+  title: Study Practice | Myths and misconceptions
   permalink: /study-practice/
   short_title: Study Practice
   heading_title: What Helps Learning More Than Learning Styles?
@@ -221,7 +221,7 @@ breadcrumb_links:
   permalink: /myths-and-misconcept-0-d48-d7/
   short_title: Mythcraft
 - basename: Myths_and_misconcept_0d48d7_retrieval_vs_learnin_6ef371
-  title: Study Practice | Myths and misconcept 0 d48 d7
+  title: Study Practice | Myths and misconceptions
   permalink: /study-practice/
   short_title: Study Practice
   heading_title: What Helps Learning More Than Learning Styles?
@@ -243,7 +243,7 @@ sibling_links:
   heading_title: Why rereading feels easier but works less well
 up_link:
   basename: Myths_and_misconcept_0d48d7_retrieval_vs_learnin_6ef371
-  title: Study Practice | Myths and misconcept 0 d48 d7
+  title: Study Practice | Myths and misconceptions
   permalink: /study-practice/
   short_title: Study Practice
   heading_title: What Helps Learning More Than Learning Styles?

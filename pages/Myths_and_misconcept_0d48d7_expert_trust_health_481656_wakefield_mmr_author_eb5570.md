@@ -212,7 +212,7 @@ ancestor_links:
   permalink: /myths-and-misconcept-0-d48-d7/
   short_title: Mythcraft
 - basename: Myths_and_misconcept_0d48d7_expert_trust_health_481656
-  title: Expert Trust | Myths and misconcept 0 d48 d7
+  title: Expert Trust | Myths and misconceptions
   permalink: /expert-trust/
   short_title: Expert Trust
   heading_title: When Expert Trust Carries Bad Claims
@@ -222,7 +222,7 @@ breadcrumb_links:
   permalink: /myths-and-misconcept-0-d48-d7/
   short_title: Mythcraft
 - basename: Myths_and_misconcept_0d48d7_expert_trust_health_481656
-  title: Expert Trust | Myths and misconcept 0 d48 d7
+  title: Expert Trust | Myths and misconceptions
   permalink: /expert-trust/
   short_title: Expert Trust
   heading_title: When Expert Trust Carries Bad Claims
@@ -249,7 +249,7 @@ sibling_links:
   heading_title: When Prestigious Journals Get It Wrong
 up_link:
   basename: Myths_and_misconcept_0d48d7_expert_trust_health_481656
-  title: Expert Trust | Myths and misconcept 0 d48 d7
+  title: Expert Trust | Myths and misconceptions
   permalink: /expert-trust/
   short_title: Expert Trust
   heading_title: When Expert Trust Carries Bad Claims

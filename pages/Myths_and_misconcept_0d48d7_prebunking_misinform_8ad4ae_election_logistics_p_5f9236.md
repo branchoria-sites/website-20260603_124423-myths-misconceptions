@@ -212,7 +212,7 @@ ancestor_links:
   permalink: /myths-and-misconcept-0-d48-d7/
   short_title: Mythcraft
 - basename: Myths_and_misconcept_0d48d7_prebunking_misinform_8ad4ae
-  title: Prebunking | Myths and misconcept 0 d48 d7
+  title: Prebunking | Myths and misconceptions
   permalink: /prebunking/
   short_title: Prebunking
   heading_title: Can You Protect People Before Myths Spread?
@@ -222,7 +222,7 @@ breadcrumb_links:
   permalink: /myths-and-misconcept-0-d48-d7/
   short_title: Mythcraft
 - basename: Myths_and_misconcept_0d48d7_prebunking_misinform_8ad4ae
-  title: Prebunking | Myths and misconcept 0 d48 d7
+  title: Prebunking | Myths and misconceptions
   permalink: /prebunking/
   short_title: Prebunking
   heading_title: Can You Protect People Before Myths Spread?
@@ -249,7 +249,7 @@ sibling_links:
   heading_title: Why one prebunk is not permanent immunity
 up_link:
   basename: Myths_and_misconcept_0d48d7_prebunking_misinform_8ad4ae
-  title: Prebunking | Myths and misconcept 0 d48 d7
+  title: Prebunking | Myths and misconceptions
   permalink: /prebunking/
   short_title: Prebunking
   heading_title: Can You Protect People Before Myths Spread?

@@ -212,7 +212,7 @@ ancestor_links:
   permalink: /myths-and-misconcept-0-d48-d7/
   short_title: Mythcraft
 - basename: Myths_and_misconcept_0d48d7_false_health_claims_1bb5c7
-  title: Health Claims | Myths and misconcept 0 d48 d7
+  title: Health Claims | Myths and misconceptions
   permalink: /health-claims/
   short_title: Health Claims
   heading_title: Why Helpful Health Advice Can Be Wrong
@@ -222,7 +222,7 @@ breadcrumb_links:
   permalink: /myths-and-misconcept-0-d48-d7/
   short_title: Mythcraft
 - basename: Myths_and_misconcept_0d48d7_false_health_claims_1bb5c7
-  title: Health Claims | Myths and misconcept 0 d48 d7
+  title: Health Claims | Myths and misconceptions
   permalink: /health-claims/
   short_title: Health Claims
   heading_title: Why Helpful Health Advice Can Be Wrong
@@ -249,7 +249,7 @@ sibling_links:
   heading_title: Why Urgent Health Warnings Spread So Fast
 up_link:
   basename: Myths_and_misconcept_0d48d7_false_health_claims_1bb5c7
-  title: Health Claims | Myths and misconcept 0 d48 d7
+  title: Health Claims | Myths and misconceptions
   permalink: /health-claims/
   short_title: Health Claims
   heading_title: Why Helpful Health Advice Can Be Wrong

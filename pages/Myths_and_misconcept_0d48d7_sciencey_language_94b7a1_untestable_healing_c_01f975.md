@@ -212,7 +212,7 @@ ancestor_links:
   permalink: /myths-and-misconcept-0-d48-d7/
   short_title: Mythcraft
 - basename: Myths_and_misconcept_0d48d7_sciencey_language_94b7a1
-  title: Sciencey Words | Myths and misconcept 0 d48 d7
+  title: Sciencey Words | Myths and misconceptions
   permalink: /sciencey-words/
   short_title: Sciencey Words
   heading_title: Why Sciencey Language Makes Myths Persuasive
@@ -222,7 +222,7 @@ breadcrumb_links:
   permalink: /myths-and-misconcept-0-d48-d7/
   short_title: Mythcraft
 - basename: Myths_and_misconcept_0d48d7_sciencey_language_94b7a1
-  title: Sciencey Words | Myths and misconcept 0 d48 d7
+  title: Sciencey Words | Myths and misconceptions
   permalink: /sciencey-words/
   short_title: Sciencey Words
   heading_title: Why Sciencey Language Makes Myths Persuasive
@@ -249,7 +249,7 @@ sibling_links:
   heading_title: Why 'Quantum' Makes Weak Claims Sound Deeper
 up_link:
   basename: Myths_and_misconcept_0d48d7_sciencey_language_94b7a1
-  title: Sciencey Words | Myths and misconcept 0 d48 d7
+  title: Sciencey Words | Myths and misconceptions
   permalink: /sciencey-words/
   short_title: Sciencey Words
   heading_title: Why Sciencey Language Makes Myths Persuasive

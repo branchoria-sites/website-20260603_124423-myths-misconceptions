@@ -212,7 +212,7 @@ ancestor_links:
   permalink: /myths-and-misconcept-0-d48-d7/
   short_title: Mythcraft
 - basename: Myths_and_misconcept_0d48d7_organised_disinforma_da0a9d
-  title: Campaigns | Myths and misconcept 0 d48 d7
+  title: Campaigns | Myths and misconceptions
   permalink: /campaigns/
   short_title: Campaigns
   heading_title: When Falsehoods Are Spread on Purpose
@@ -222,7 +222,7 @@ breadcrumb_links:
   permalink: /myths-and-misconcept-0-d48-d7/
   short_title: Mythcraft
 - basename: Myths_and_misconcept_0d48d7_organised_disinforma_da0a9d
-  title: Campaigns | Myths and misconcept 0 d48 d7
+  title: Campaigns | Myths and misconceptions
   permalink: /campaigns/
   short_title: Campaigns
   heading_title: When Falsehoods Are Spread on Purpose
@@ -249,7 +249,7 @@ sibling_links:
   heading_title: Can Platforms Stop Manipulation, Not Debate?
 up_link:
   basename: Myths_and_misconcept_0d48d7_organised_disinforma_da0a9d
-  title: Campaigns | Myths and misconcept 0 d48 d7
+  title: Campaigns | Myths and misconceptions
   permalink: /campaigns/
   short_title: Campaigns
   heading_title: When Falsehoods Are Spread on Purpose
