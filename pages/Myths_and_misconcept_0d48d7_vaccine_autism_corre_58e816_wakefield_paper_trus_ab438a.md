@@ -212,7 +212,7 @@ ancestor_links:
   permalink: /myths-and-misconcept-0-d48-d7/
   short_title: Mythcraft
 - basename: Myths_and_misconcept_0d48d7_vaccine_autism_corre_58e816
-  title: Vaccines | Myths and misconcept 0 d48 d7
+  title: Vaccines | Myths and misconceptions
   permalink: /vaccines/
   short_title: Vaccines
   heading_title: What the Vaccine Autism Myth Teaches Debunkers
@@ -222,7 +222,7 @@ breadcrumb_links:
   permalink: /myths-and-misconcept-0-d48-d7/
   short_title: Mythcraft
 - basename: Myths_and_misconcept_0d48d7_vaccine_autism_corre_58e816
-  title: Vaccines | Myths and misconcept 0 d48 d7
+  title: Vaccines | Myths and misconceptions
   permalink: /vaccines/
   short_title: Vaccines
   heading_title: What the Vaccine Autism Myth Teaches Debunkers
@@ -249,7 +249,7 @@ sibling_links:
   heading_title: Why The Timing Can Feel So Convincing
 up_link:
   basename: Myths_and_misconcept_0d48d7_vaccine_autism_corre_58e816
-  title: Vaccines | Myths and misconcept 0 d48 d7
+  title: Vaccines | Myths and misconceptions
   permalink: /vaccines/
   short_title: Vaccines
   heading_title: What the Vaccine Autism Myth Teaches Debunkers

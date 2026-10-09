@@ -212,7 +212,7 @@ ancestor_links:
   permalink: /myths-and-misconcept-0-d48-d7/
   short_title: Mythcraft
 - basename: Myths_and_misconcept_0d48d7_slogans_vs_explanati_60c7b9
-  title: Slogans | Myths and misconcept 0 d48 d7
+  title: Slogans | Myths and misconceptions
   permalink: /slogans/
   short_title: Slogans
   heading_title: Why Myths Beat Nuance in a Sentence
@@ -222,7 +222,7 @@ breadcrumb_links:
   permalink: /myths-and-misconcept-0-d48-d7/
   short_title: Mythcraft
 - basename: Myths_and_misconcept_0d48d7_slogans_vs_explanati_60c7b9
-  title: Slogans | Myths and misconcept 0 d48 d7
+  title: Slogans | Myths and misconceptions
   permalink: /slogans/
   short_title: Slogans
   heading_title: Why Myths Beat Nuance in a Sentence
@@ -249,7 +249,7 @@ sibling_links:
   heading_title: Why repetition makes myths feel true
 up_link:
   basename: Myths_and_misconcept_0d48d7_slogans_vs_explanati_60c7b9
-  title: Slogans | Myths and misconcept 0 d48 d7
+  title: Slogans | Myths and misconceptions
   permalink: /slogans/
   short_title: Slogans
   heading_title: Why Myths Beat Nuance in a Sentence

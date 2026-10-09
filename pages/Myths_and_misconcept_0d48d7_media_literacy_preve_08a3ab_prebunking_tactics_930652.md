@@ -212,7 +212,7 @@ ancestor_links:
   permalink: /myths-and-misconcept-0-d48-d7/
   short_title: Mythcraft
 - basename: Myths_and_misconcept_0d48d7_media_literacy_preve_08a3ab
-  title: Media Literacy | Myths and misconcept 0 d48 d7
+  title: Media Literacy | Myths and misconceptions
   permalink: /media-literacy/
   short_title: Media Literacy
   heading_title: How Media Literacy Prevents Myths
@@ -222,7 +222,7 @@ breadcrumb_links:
   permalink: /myths-and-misconcept-0-d48-d7/
   short_title: Mythcraft
 - basename: Myths_and_misconcept_0d48d7_media_literacy_preve_08a3ab
-  title: Media Literacy | Myths and misconcept 0 d48 d7
+  title: Media Literacy | Myths and misconceptions
   permalink: /media-literacy/
   short_title: Media Literacy
   heading_title: How Media Literacy Prevents Myths
@@ -249,7 +249,7 @@ sibling_links:
   heading_title: A simple checklist for suspicious claims
 up_link:
   basename: Myths_and_misconcept_0d48d7_media_literacy_preve_08a3ab
-  title: Media Literacy | Myths and misconcept 0 d48 d7
+  title: Media Literacy | Myths and misconceptions
   permalink: /media-literacy/
   short_title: Media Literacy
   heading_title: How Media Literacy Prevents Myths

@@ -212,7 +212,7 @@ ancestor_links:
   permalink: /myths-and-misconcept-0-d48-d7/
   short_title: Mythcraft
 - basename: Myths_and_misconcept_0d48d7_social_media_myths_2c6e1b
-  title: Algorithms | Myths and misconcept 0 d48 d7
+  title: Algorithms | Myths and misconceptions
   permalink: /algorithms/
   short_title: Algorithms
   heading_title: How Platforms Help Myths Travel Faster
@@ -222,7 +222,7 @@ breadcrumb_links:
   permalink: /myths-and-misconcept-0-d48-d7/
   short_title: Mythcraft
 - basename: Myths_and_misconcept_0d48d7_social_media_myths_2c6e1b
-  title: Algorithms | Myths and misconcept 0 d48 d7
+  title: Algorithms | Myths and misconceptions
   permalink: /algorithms/
   short_title: Algorithms
   heading_title: How Platforms Help Myths Travel Faster
@@ -249,7 +249,7 @@ sibling_links:
   heading_title: Can Angry Replies Help Myths Spread?
 up_link:
   basename: Myths_and_misconcept_0d48d7_social_media_myths_2c6e1b
-  title: Algorithms | Myths and misconcept 0 d48 d7
+  title: Algorithms | Myths and misconceptions
   permalink: /algorithms/
   short_title: Algorithms
   heading_title: How Platforms Help Myths Travel Faster

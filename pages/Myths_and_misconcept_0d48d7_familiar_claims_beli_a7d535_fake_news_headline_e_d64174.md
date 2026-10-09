@@ -212,7 +212,7 @@ ancestor_links:
   permalink: /myths-and-misconcept-0-d48-d7/
   short_title: Mythcraft
 - basename: Myths_and_misconcept_0d48d7_familiar_claims_beli_a7d535
-  title: Familiarity | Myths and misconcept 0 d48 d7
+  title: Familiarity | Myths and misconceptions
   permalink: /familiarity/
   short_title: Familiarity
   heading_title: Why Repetition Makes Claims Feel True
@@ -222,7 +222,7 @@ breadcrumb_links:
   permalink: /myths-and-misconcept-0-d48-d7/
   short_title: Mythcraft
 - basename: Myths_and_misconcept_0d48d7_familiar_claims_beli_a7d535
-  title: Familiarity | Myths and misconcept 0 d48 d7
+  title: Familiarity | Myths and misconceptions
   permalink: /familiarity/
   short_title: Familiarity
   heading_title: Why Repetition Makes Claims Feel True
@@ -249,7 +249,7 @@ sibling_links:
   heading_title: When easy thinking feels like evidence
 up_link:
   basename: Myths_and_misconcept_0d48d7_familiar_claims_beli_a7d535
-  title: Familiarity | Myths and misconcept 0 d48 d7
+  title: Familiarity | Myths and misconceptions
   permalink: /familiarity/
   short_title: Familiarity
   heading_title: Why Repetition Makes Claims Feel True

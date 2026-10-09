@@ -255,197 +255,197 @@ breadcrumb_links:
   short_title: Mythcraft
 sibling_links:
 - basename: Myths_and_misconcept_0d48d7_ten_percent_brain_my_db46b9
-  title: 10 Brain | Myths and misconcept 0 d48 d7
+  title: 10 Brain | Myths and misconceptions
   permalink: /10-brain/
   short_title: 10 Brain
   heading_title: Why the 10 Percent Brain Myth Endures
 - basename: Myths_and_misconcept_0d48d7_social_media_myths_2c6e1b
-  title: Algorithms | Myths and misconcept 0 d48 d7
+  title: Algorithms | Myths and misconceptions
   permalink: /algorithms/
   short_title: Algorithms
   heading_title: How Platforms Help Myths Travel Faster
 - basename: Myths_and_misconcept_0d48d7_misleading_analogies_a297a0
-  title: Analogies | Myths and misconcept 0 d48 d7
+  title: Analogies | Myths and misconceptions
   permalink: /analogies/
   short_title: Analogies
   heading_title: When Helpful Analogies Teach the Wrong Lesson
 - basename: Myths_and_misconcept_0d48d7_personal_experience_bd112b
-  title: Anecdotes | Myths and misconcept 0 d48 d7
+  title: Anecdotes | Myths and misconceptions
   permalink: /anecdotes/
   short_title: Anecdotes
   heading_title: When Personal Experience Becomes a Myth
 - basename: Myths_and_misconcept_0d48d7_backfire_effect_myth_0599c9
-  title: Backfire | Myths and misconcept 0 d48 d7
+  title: Backfire | Myths and misconceptions
   permalink: /backfire/
   short_title: Backfire
   heading_title: Does Debunking Really Make Myths Stronger?
 - basename: Myths_and_misconcept_0d48d7_organised_disinforma_da0a9d
-  title: Campaigns | Myths and misconcept 0 d48 d7
+  title: Campaigns | Myths and misconceptions
   permalink: /campaigns/
   short_title: Campaigns
   heading_title: When Falsehoods Are Spread on Purpose
 - basename: Myths_and_misconcept_0d48d7_commercial_professio_dd3a05
-  title: Commercial Myths | Myths and misconcept 0 d48 d7
+  title: Commercial Myths | Myths and misconceptions
   permalink: /commercial-myths/
   short_title: Commercial Myths
   heading_title: When Myths Come in Professional Packaging
 - basename: Myths_and_misconcept_0d48d7_common_sense_evidenc_b3089a
-  title: Common Sense | Myths and misconcept 0 d48 d7
+  title: Common Sense | Myths and misconceptions
   permalink: /common-sense/
   short_title: Common Sense
   heading_title: When Common Sense Leads US Wrong
 - basename: Myths_and_misconcept_0d48d7_conceptual_change_le_bdc9ae
-  title: Concept Change | Myths and misconcept 0 d48 d7
+  title: Concept Change | Myths and misconceptions
   permalink: /concept-change/
   short_title: Concept Change
   heading_title: How Learners Replace Wrong Ideas
 - basename: Myths_and_misconcept_0d48d7_fact_warning_explana_254e0a
-  title: Debunking | Myths and misconcept 0 d48 d7
+  title: Debunking | Myths and misconceptions
   permalink: /debunking/
   short_title: Debunking
   heading_title: The Three Parts of a Better Debunk
 - basename: Myths_and_misconcept_0d48d7_expert_trust_health_481656
-  title: Expert Trust | Myths and misconcept 0 d48 d7
+  title: Expert Trust | Myths and misconceptions
   permalink: /expert-trust/
   short_title: Expert Trust
   heading_title: When Expert Trust Carries Bad Claims
 - basename: Myths_and_misconcept_0d48d7_fact_checking_limits_22dd32
-  title: Fact Checks | Myths and misconcept 0 d48 d7
+  title: Fact Checks | Myths and misconceptions
   permalink: /fact-checks/
   short_title: Fact Checks
   heading_title: Why Fact Checking Is Not Enough
 - basename: Myths_and_misconcept_0d48d7_falling_objects_intu_7c231d
-  title: Falling Objects | Myths and misconcept 0 d48 d7
+  title: Falling Objects | Myths and misconceptions
   permalink: /falling-objects/
   short_title: Falling Objects
   heading_title: Why Common Sense Gets Falling Objects Wrong
 - basename: Myths_and_misconcept_0d48d7_false_balance_claims_5530ff
-  title: False Balance | Myths and misconcept 0 d48 d7
+  title: False Balance | Myths and misconceptions
   permalink: /false-balance/
   short_title: False Balance
   heading_title: When Both Sides Framing Misleads Readers
 - basename: Myths_and_misconcept_0d48d7_misinformation_disin_12ff83
-  title: False Info | Myths and misconcept 0 d48 d7
+  title: False Info | Myths and misconceptions
   permalink: /false-info/
   short_title: False Info
   heading_title: 'Misinformation or Disinformation: Why Intent Matters'
 - basename: Myths_and_misconcept_0d48d7_familiar_claims_beli_a7d535
-  title: Familiarity | Myths and misconcept 0 d48 d7
+  title: Familiarity | Myths and misconceptions
   permalink: /familiarity/
   short_title: Familiarity
   heading_title: Why Repetition Makes Claims Feel True
 - basename: Myths_and_misconcept_0d48d7_false_health_claims_1bb5c7
-  title: Health Claims | Myths and misconcept 0 d48 d7
+  title: Health Claims | Myths and misconceptions
   permalink: /health-claims/
   short_title: Health Claims
   heading_title: Why Helpful Health Advice Can Be Wrong
 - basename: Myths_and_misconcept_0d48d7_identity_trust_belie_3d20c4
-  title: Identity | Myths and misconcept 0 d48 d7
+  title: Identity | Myths and misconceptions
   permalink: /identity/
   short_title: Identity
   heading_title: Why Trusted People Make Myths Stick
 - basename: Myths_and_misconcept_0d48d7_authority_shortcuts_4b05b1
-  title: Influencers | Myths and misconcept 0 d48 d7
+  title: Influencers | Myths and misconceptions
   permalink: /influencers/
   short_title: Influencers
   heading_title: When Authority Shortcuts Spread Myths
 - basename: Myths_and_misconcept_0d48d7_myth_vs_misconceptio_b6f36d
-  title: Key Terms | Myths and misconcept 0 d48 d7
+  title: Key Terms | Myths and misconceptions
   permalink: /key-terms/
   short_title: Key Terms
   heading_title: 'Myth or Misconception: What Is the Difference?'
 - basename: Myths_and_misconcept_0d48d7_learning_styles_evid_7a050d
-  title: Learning Styles | Myths and misconcept 0 d48 d7
+  title: Learning Styles | Myths and misconceptions
   permalink: /learning-styles/
   short_title: Learning Styles
   heading_title: Do Learning Styles Really Improve Learning?
 - basename: Myths_and_misconcept_0d48d7_left_right_brain_cla_de8870
-  title: Left Brain | Myths and misconcept 0 d48 d7
+  title: Left Brain | Myths and misconceptions
   permalink: /left-brain/
   short_title: Left Brain
   heading_title: Are People Really Left Brain or Right Brain?
 - basename: Myths_and_misconcept_0d48d7_media_literacy_preve_08a3ab
-  title: Media Literacy | Myths and misconcept 0 d48 d7
+  title: Media Literacy | Myths and misconceptions
   permalink: /media-literacy/
   short_title: Media Literacy
   heading_title: How Media Literacy Prevents Myths
 - basename: Myths_and_misconcept_0d48d7_memory_recording_mis_a2a9c2
-  title: Memory | Myths and misconcept 0 d48 d7
+  title: Memory | Myths and misconceptions
   permalink: /memory/
   short_title: Memory
   heading_title: Why Memory Is Not a Video Recording
 - basename: Myths_and_misconcept_0d48d7_mental_models_myths_2fa808
-  title: Mental Models | Myths and misconcept 0 d48 d7
+  title: Mental Models | Myths and misconceptions
   permalink: /mental-models/
   short_title: Mental Models
   heading_title: Why Wrong Ideas Can Feel Coherent
 - basename: Myths_and_misconcept_0d48d7_neuromyths_in_school_b3f10d
-  title: Neuromyths | Myths and misconcept 0 d48 d7
+  title: Neuromyths | Myths and misconceptions
   permalink: /neuromyths/
   short_title: Neuromyths
   heading_title: Why Brain Myths Spread in Schools
 - basename: Myths_and_misconcept_0d48d7_continued_influence_15b78f
-  title: Old Stories | Myths and misconcept 0 d48 d7
+  title: Old Stories | Myths and misconceptions
   permalink: /old-stories/
   short_title: Old Stories
   heading_title: Why Corrected Myths Still Linger
 - basename: Myths_and_misconcept_0d48d7_platform_design_myth_d8c20e
-  title: Platform Design | Myths and misconcept 0 d48 d7
+  title: Platform Design | Myths and misconceptions
   permalink: /platform-design/
   short_title: Platform Design
   heading_title: Can Platform Design Slow Myths Down?
 - basename: Myths_and_misconcept_0d48d7_political_myth_resis_f90f95
-  title: Politics | Myths and misconcept 0 d48 d7
+  title: Politics | Myths and misconceptions
   permalink: /politics/
   short_title: Politics
   heading_title: Why Political Myths Resist Correction
 - basename: Myths_and_misconcept_0d48d7_prebunking_misinform_8ad4ae
-  title: Prebunking | Myths and misconcept 0 d48 d7
+  title: Prebunking | Myths and misconceptions
   permalink: /prebunking/
   short_title: Prebunking
   heading_title: Can You Protect People Before Myths Spread?
 - basename: Myths_and_misconcept_0d48d7_replacement_stories_587456
-  title: Rumour Gaps | Myths and misconcept 0 d48 d7
+  title: Rumour Gaps | Myths and misconceptions
   permalink: /rumour-gaps/
   short_title: Rumour Gaps
   heading_title: Why Debunks Need a Better Story
 - basename: Myths_and_misconcept_0d48d7_sciencey_language_94b7a1
-  title: Sciencey Words | Myths and misconcept 0 d48 d7
+  title: Sciencey Words | Myths and misconceptions
   permalink: /sciencey-words/
   short_title: Sciencey Words
   heading_title: Why Sciencey Language Makes Myths Persuasive
 - basename: Myths_and_misconcept_0d48d7_slogans_vs_explanati_60c7b9
-  title: Slogans | Myths and misconcept 0 d48 d7
+  title: Slogans | Myths and misconceptions
   permalink: /slogans/
   short_title: Slogans
   heading_title: Why Myths Beat Nuance in a Sentence
 - basename: Myths_and_misconcept_0d48d7_retrieval_vs_learnin_6ef371
-  title: Study Practice | Myths and misconcept 0 d48 d7
+  title: Study Practice | Myths and misconceptions
   permalink: /study-practice/
   short_title: Study Practice
   heading_title: What Helps Learning More Than Learning Styles?
 - basename: Myths_and_misconcept_0d48d7_education_myth_corre_425e93
-  title: Teacher Corrections | Myths and misconcept 0 d48 d7
+  title: Teacher Corrections | Myths and misconceptions
   permalink: /teacher-corrections/
   short_title: Teacher Corrections
   heading_title: Can Teacher Training Reduce Education Myths?
 - basename: Myths_and_misconcept_0d48d7_correction_timing_c61362
-  title: Timing | Myths and misconcept 0 d48 d7
+  title: Timing | Myths and misconceptions
   permalink: /timing/
   short_title: Timing
   heading_title: When Should a Myth Be Corrected?
 - basename: Myths_and_misconcept_0d48d7_condescending_correc_7062df
-  title: Tone | Myths and misconcept 0 d48 d7
+  title: Tone | Myths and misconceptions
   permalink: /tone/
   short_title: Tone
   heading_title: Why Shaming People Makes Corrections Harder
 - basename: Myths_and_misconcept_0d48d7_uncertainty_and_myth_ca758b
-  title: Uncertainty | Myths and misconcept 0 d48 d7
+  title: Uncertainty | Myths and misconceptions
   permalink: /uncertainty/
   short_title: Uncertainty
   heading_title: Why Uncertainty Makes Myths Appealing
 - basename: Myths_and_misconcept_0d48d7_vaccine_autism_corre_58e816
-  title: Vaccines | Myths and misconcept 0 d48 d7
+  title: Vaccines | Myths and misconceptions
   permalink: /vaccines/
   short_title: Vaccines
   heading_title: What the Vaccine Autism Myth Teaches Debunkers
@@ -482,13 +482,13 @@ up_link:
   short_title: Mythcraft
 prev_link:
   basename: Myths_and_misconcept_0d48d7_retrieval_vs_learnin_6ef371
-  title: Study Practice | Myths and misconcept 0 d48 d7
+  title: Study Practice | Myths and misconceptions
   permalink: /study-practice/
   short_title: Study Practice
   heading_title: What Helps Learning More Than Learning Styles?
 next_link:
   basename: Myths_and_misconcept_0d48d7_education_myth_corre_425e93
-  title: Teacher Corrections | Myths and misconcept 0 d48 d7
+  title: Teacher Corrections | Myths and misconceptions
   permalink: /teacher-corrections/
   short_title: Teacher Corrections
   heading_title: Can Teacher Training Reduce Education Myths?

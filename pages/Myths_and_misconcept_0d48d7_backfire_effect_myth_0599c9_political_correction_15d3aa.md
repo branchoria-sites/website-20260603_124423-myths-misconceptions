@@ -212,7 +212,7 @@ ancestor_links:
   permalink: /myths-and-misconcept-0-d48-d7/
   short_title: Mythcraft
 - basename: Myths_and_misconcept_0d48d7_backfire_effect_myth_0599c9
-  title: Backfire | Myths and misconcept 0 d48 d7
+  title: Backfire | Myths and misconceptions
   permalink: /backfire/
   short_title: Backfire
   heading_title: Does Debunking Really Make Myths Stronger?
@@ -222,7 +222,7 @@ breadcrumb_links:
   permalink: /myths-and-misconcept-0-d48-d7/
   short_title: Mythcraft
 - basename: Myths_and_misconcept_0d48d7_backfire_effect_myth_0599c9
-  title: Backfire | Myths and misconcept 0 d48 d7
+  title: Backfire | Myths and misconceptions
   permalink: /backfire/
   short_title: Backfire
   heading_title: Does Debunking Really Make Myths Stronger?
@@ -249,7 +249,7 @@ sibling_links:
   heading_title: Did Researchers Actually Find Backfire?
 up_link:
   basename: Myths_and_misconcept_0d48d7_backfire_effect_myth_0599c9
-  title: Backfire | Myths and misconcept 0 d48 d7
+  title: Backfire | Myths and misconceptions
   permalink: /backfire/
   short_title: Backfire
   heading_title: Does Debunking Really Make Myths Stronger?

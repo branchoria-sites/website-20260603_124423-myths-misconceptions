@@ -212,7 +212,7 @@ ancestor_links:
   permalink: /myths-and-misconcept-0-d48-d7/
   short_title: Mythcraft
 - basename: Myths_and_misconcept_0d48d7_platform_design_myth_d8c20e
-  title: Platform Design | Myths and misconcept 0 d48 d7
+  title: Platform Design | Myths and misconceptions
   permalink: /platform-design/
   short_title: Platform Design
   heading_title: Can Platform Design Slow Myths Down?
@@ -222,7 +222,7 @@ breadcrumb_links:
   permalink: /myths-and-misconcept-0-d48-d7/
   short_title: Mythcraft
 - basename: Myths_and_misconcept_0d48d7_platform_design_myth_d8c20e
-  title: Platform Design | Myths and misconcept 0 d48 d7
+  title: Platform Design | Myths and misconceptions
   permalink: /platform-design/
   short_title: Platform Design
   heading_title: Can Platform Design Slow Myths Down?
@@ -249,7 +249,7 @@ sibling_links:
   heading_title: When Do Misinformation Labels Actually Work?
 up_link:
   basename: Myths_and_misconcept_0d48d7_platform_design_myth_d8c20e
-  title: Platform Design | Myths and misconcept 0 d48 d7
+  title: Platform Design | Myths and misconceptions
   permalink: /platform-design/
   short_title: Platform Design
   heading_title: Can Platform Design Slow Myths Down?

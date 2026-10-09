@@ -54,11 +54,11 @@ description: Myths and misconceptions are not just “wrong facts”. They are d
 hero_summary: Myths and misconceptions are not just “wrong facts”. They are durable stories, shortcuts or explanations that feel true enough to survive correction.
 layout: default
 permalink: /myths-and-misconcept-0-d48-d7/
-nav_short_title: Myths and misconcept 0 d48 d7
-title: Myths and misconcept 0 d48 d7
-title_full: Myths and misconcept 0 d48 d7
-display_title_short: Myths and misconcept 0 d48 d7
-display_title: Myths and misconcept 0 d48 d7
+nav_short_title: Myths and misconceptions
+title: Myths and misconceptions
+title_full: Myths and misconceptions
+display_title_short: Myths and misconceptions
+display_title: Myths and misconceptions
 source_count: 85
 infographic_count: 3
 page_website_name: Mythcraft
@@ -229,202 +229,202 @@ ui_strings:
   search_kind_relevant_snippet: Relevant snippet
 child_links:
 - basename: Myths_and_misconcept_0d48d7_ten_percent_brain_my_db46b9
-  title: 10 Brain | Myths and misconcept 0 d48 d7
+  title: 10 Brain | Myths and misconceptions
   permalink: /10-brain/
   short_title: 10 Brain
   heading_title: Why the 10 Percent Brain Myth Endures
 - basename: Myths_and_misconcept_0d48d7_social_media_myths_2c6e1b
-  title: Algorithms | Myths and misconcept 0 d48 d7
+  title: Algorithms | Myths and misconceptions
   permalink: /algorithms/
   short_title: Algorithms
   heading_title: How Platforms Help Myths Travel Faster
 - basename: Myths_and_misconcept_0d48d7_misleading_analogies_a297a0
-  title: Analogies | Myths and misconcept 0 d48 d7
+  title: Analogies | Myths and misconceptions
   permalink: /analogies/
   short_title: Analogies
   heading_title: When Helpful Analogies Teach the Wrong Lesson
 - basename: Myths_and_misconcept_0d48d7_personal_experience_bd112b
-  title: Anecdotes | Myths and misconcept 0 d48 d7
+  title: Anecdotes | Myths and misconceptions
   permalink: /anecdotes/
   short_title: Anecdotes
   heading_title: When Personal Experience Becomes a Myth
 - basename: Myths_and_misconcept_0d48d7_backfire_effect_myth_0599c9
-  title: Backfire | Myths and misconcept 0 d48 d7
+  title: Backfire | Myths and misconceptions
   permalink: /backfire/
   short_title: Backfire
   heading_title: Does Debunking Really Make Myths Stronger?
 - basename: Myths_and_misconcept_0d48d7_organised_disinforma_da0a9d
-  title: Campaigns | Myths and misconcept 0 d48 d7
+  title: Campaigns | Myths and misconceptions
   permalink: /campaigns/
   short_title: Campaigns
   heading_title: When Falsehoods Are Spread on Purpose
 - basename: Myths_and_misconcept_0d48d7_commercial_professio_dd3a05
-  title: Commercial Myths | Myths and misconcept 0 d48 d7
+  title: Commercial Myths | Myths and misconceptions
   permalink: /commercial-myths/
   short_title: Commercial Myths
   heading_title: When Myths Come in Professional Packaging
 - basename: Myths_and_misconcept_0d48d7_common_sense_evidenc_b3089a
-  title: Common Sense | Myths and misconcept 0 d48 d7
+  title: Common Sense | Myths and misconceptions
   permalink: /common-sense/
   short_title: Common Sense
   heading_title: When Common Sense Leads US Wrong
 - basename: Myths_and_misconcept_0d48d7_conceptual_change_le_bdc9ae
-  title: Concept Change | Myths and misconcept 0 d48 d7
+  title: Concept Change | Myths and misconceptions
   permalink: /concept-change/
   short_title: Concept Change
   heading_title: How Learners Replace Wrong Ideas
 - basename: Myths_and_misconcept_0d48d7_fact_warning_explana_254e0a
-  title: Debunking | Myths and misconcept 0 d48 d7
+  title: Debunking | Myths and misconceptions
   permalink: /debunking/
   short_title: Debunking
   heading_title: The Three Parts of a Better Debunk
 - basename: Myths_and_misconcept_0d48d7_expert_trust_health_481656
-  title: Expert Trust | Myths and misconcept 0 d48 d7
+  title: Expert Trust | Myths and misconceptions
   permalink: /expert-trust/
   short_title: Expert Trust
   heading_title: When Expert Trust Carries Bad Claims
 - basename: Myths_and_misconcept_0d48d7_fact_checking_limits_22dd32
-  title: Fact Checks | Myths and misconcept 0 d48 d7
+  title: Fact Checks | Myths and misconceptions
   permalink: /fact-checks/
   short_title: Fact Checks
   heading_title: Why Fact Checking Is Not Enough
 - basename: Myths_and_misconcept_0d48d7_falling_objects_intu_7c231d
-  title: Falling Objects | Myths and misconcept 0 d48 d7
+  title: Falling Objects | Myths and misconceptions
   permalink: /falling-objects/
   short_title: Falling Objects
   heading_title: Why Common Sense Gets Falling Objects Wrong
 - basename: Myths_and_misconcept_0d48d7_false_balance_claims_5530ff
-  title: False Balance | Myths and misconcept 0 d48 d7
+  title: False Balance | Myths and misconceptions
   permalink: /false-balance/
   short_title: False Balance
   heading_title: When Both Sides Framing Misleads Readers
 - basename: Myths_and_misconcept_0d48d7_misinformation_disin_12ff83
-  title: False Info | Myths and misconcept 0 d48 d7
+  title: False Info | Myths and misconceptions
   permalink: /false-info/
   short_title: False Info
   heading_title: 'Misinformation or Disinformation: Why Intent Matters'
 - basename: Myths_and_misconcept_0d48d7_familiar_claims_beli_a7d535
-  title: Familiarity | Myths and misconcept 0 d48 d7
+  title: Familiarity | Myths and misconceptions
   permalink: /familiarity/
   short_title: Familiarity
   heading_title: Why Repetition Makes Claims Feel True
 - basename: Myths_and_misconcept_0d48d7_false_health_claims_1bb5c7
-  title: Health Claims | Myths and misconcept 0 d48 d7
+  title: Health Claims | Myths and misconceptions
   permalink: /health-claims/
   short_title: Health Claims
   heading_title: Why Helpful Health Advice Can Be Wrong
 - basename: Myths_and_misconcept_0d48d7_identity_trust_belie_3d20c4
-  title: Identity | Myths and misconcept 0 d48 d7
+  title: Identity | Myths and misconceptions
   permalink: /identity/
   short_title: Identity
   heading_title: Why Trusted People Make Myths Stick
 - basename: Myths_and_misconcept_0d48d7_authority_shortcuts_4b05b1
-  title: Influencers | Myths and misconcept 0 d48 d7
+  title: Influencers | Myths and misconceptions
   permalink: /influencers/
   short_title: Influencers
   heading_title: When Authority Shortcuts Spread Myths
 - basename: Myths_and_misconcept_0d48d7_myth_vs_misconceptio_b6f36d
-  title: Key Terms | Myths and misconcept 0 d48 d7
+  title: Key Terms | Myths and misconceptions
   permalink: /key-terms/
   short_title: Key Terms
   heading_title: 'Myth or Misconception: What Is the Difference?'
 - basename: Myths_and_misconcept_0d48d7_learning_styles_evid_7a050d
-  title: Learning Styles | Myths and misconcept 0 d48 d7
+  title: Learning Styles | Myths and misconceptions
   permalink: /learning-styles/
   short_title: Learning Styles
   heading_title: Do Learning Styles Really Improve Learning?
 - basename: Myths_and_misconcept_0d48d7_left_right_brain_cla_de8870
-  title: Left Brain | Myths and misconcept 0 d48 d7
+  title: Left Brain | Myths and misconceptions
   permalink: /left-brain/
   short_title: Left Brain
   heading_title: Are People Really Left Brain or Right Brain?
 - basename: Myths_and_misconcept_0d48d7_media_literacy_preve_08a3ab
-  title: Media Literacy | Myths and misconcept 0 d48 d7
+  title: Media Literacy | Myths and misconceptions
   permalink: /media-literacy/
   short_title: Media Literacy
   heading_title: How Media Literacy Prevents Myths
 - basename: Myths_and_misconcept_0d48d7_memory_recording_mis_a2a9c2
-  title: Memory | Myths and misconcept 0 d48 d7
+  title: Memory | Myths and misconceptions
   permalink: /memory/
   short_title: Memory
   heading_title: Why Memory Is Not a Video Recording
 - basename: Myths_and_misconcept_0d48d7_mental_models_myths_2fa808
-  title: Mental Models | Myths and misconcept 0 d48 d7
+  title: Mental Models | Myths and misconceptions
   permalink: /mental-models/
   short_title: Mental Models
   heading_title: Why Wrong Ideas Can Feel Coherent
 - basename: Myths_and_misconcept_0d48d7_neuromyths_in_school_b3f10d
-  title: Neuromyths | Myths and misconcept 0 d48 d7
+  title: Neuromyths | Myths and misconceptions
   permalink: /neuromyths/
   short_title: Neuromyths
   heading_title: Why Brain Myths Spread in Schools
 - basename: Myths_and_misconcept_0d48d7_continued_influence_15b78f
-  title: Old Stories | Myths and misconcept 0 d48 d7
+  title: Old Stories | Myths and misconceptions
   permalink: /old-stories/
   short_title: Old Stories
   heading_title: Why Corrected Myths Still Linger
 - basename: Myths_and_misconcept_0d48d7_platform_design_myth_d8c20e
-  title: Platform Design | Myths and misconcept 0 d48 d7
+  title: Platform Design | Myths and misconceptions
   permalink: /platform-design/
   short_title: Platform Design
   heading_title: Can Platform Design Slow Myths Down?
 - basename: Myths_and_misconcept_0d48d7_political_myth_resis_f90f95
-  title: Politics | Myths and misconcept 0 d48 d7
+  title: Politics | Myths and misconceptions
   permalink: /politics/
   short_title: Politics
   heading_title: Why Political Myths Resist Correction
 - basename: Myths_and_misconcept_0d48d7_prebunking_misinform_8ad4ae
-  title: Prebunking | Myths and misconcept 0 d48 d7
+  title: Prebunking | Myths and misconceptions
   permalink: /prebunking/
   short_title: Prebunking
   heading_title: Can You Protect People Before Myths Spread?
 - basename: Myths_and_misconcept_0d48d7_replacement_stories_587456
-  title: Rumour Gaps | Myths and misconcept 0 d48 d7
+  title: Rumour Gaps | Myths and misconceptions
   permalink: /rumour-gaps/
   short_title: Rumour Gaps
   heading_title: Why Debunks Need a Better Story
 - basename: Myths_and_misconcept_0d48d7_sciencey_language_94b7a1
-  title: Sciencey Words | Myths and misconcept 0 d48 d7
+  title: Sciencey Words | Myths and misconceptions
   permalink: /sciencey-words/
   short_title: Sciencey Words
   heading_title: Why Sciencey Language Makes Myths Persuasive
 - basename: Myths_and_misconcept_0d48d7_slogans_vs_explanati_60c7b9
-  title: Slogans | Myths and misconcept 0 d48 d7
+  title: Slogans | Myths and misconceptions
   permalink: /slogans/
   short_title: Slogans
   heading_title: Why Myths Beat Nuance in a Sentence
 - basename: Myths_and_misconcept_0d48d7_retrieval_vs_learnin_6ef371
-  title: Study Practice | Myths and misconcept 0 d48 d7
+  title: Study Practice | Myths and misconceptions
   permalink: /study-practice/
   short_title: Study Practice
   heading_title: What Helps Learning More Than Learning Styles?
 - basename: Myths_and_misconcept_0d48d7_learning_styles_surv_b4e9eb
-  title: Teacher Belief | Myths and misconcept 0 d48 d7
+  title: Teacher Belief | Myths and misconceptions
   permalink: /teacher-belief/
   short_title: Teacher Belief
   heading_title: How Common Is Belief in Learning Styles?
 - basename: Myths_and_misconcept_0d48d7_education_myth_corre_425e93
-  title: Teacher Corrections | Myths and misconcept 0 d48 d7
+  title: Teacher Corrections | Myths and misconceptions
   permalink: /teacher-corrections/
   short_title: Teacher Corrections
   heading_title: Can Teacher Training Reduce Education Myths?
 - basename: Myths_and_misconcept_0d48d7_correction_timing_c61362
-  title: Timing | Myths and misconcept 0 d48 d7
+  title: Timing | Myths and misconceptions
   permalink: /timing/
   short_title: Timing
   heading_title: When Should a Myth Be Corrected?
 - basename: Myths_and_misconcept_0d48d7_condescending_correc_7062df
-  title: Tone | Myths and misconcept 0 d48 d7
+  title: Tone | Myths and misconceptions
   permalink: /tone/
   short_title: Tone
   heading_title: Why Shaming People Makes Corrections Harder
 - basename: Myths_and_misconcept_0d48d7_uncertainty_and_myth_ca758b
-  title: Uncertainty | Myths and misconcept 0 d48 d7
+  title: Uncertainty | Myths and misconceptions
   permalink: /uncertainty/
   short_title: Uncertainty
   heading_title: Why Uncertainty Makes Myths Appealing
 - basename: Myths_and_misconcept_0d48d7_vaccine_autism_corre_58e816
-  title: Vaccines | Myths and misconcept 0 d48 d7
+  title: Vaccines | Myths and misconceptions
   permalink: /vaccines/
   short_title: Vaccines
   heading_title: What the Vaccine Autism Myth Teaches Debunkers
@@ -440,7 +440,7 @@ image: /assets/images/Myths_and_misconcept_0d48d7-overview-social.jpg
 
 The important lesson is practical: myths persist because they often meet a real need. They simplify uncertainty, fill gaps in a story, flatter existing identities, or offer a memorable rule of thumb. Correcting them is possible, but the best [corrections]({{ 'corrections/' | relative_url }}) do more than say “that is false”. They explain why the myth seemed plausible, what the better evidence says, and what replacement explanation the reader should use instead.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s44159-021-00006-y" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">The psychological drivers of misinformation belief and its...by UKH Ecker · 2022 · Cited by 1916 — In this Review, we describe the...</span></span></span>
 
-<img src="{{ "/assets/images/Myths_and_misconcept_0d48d7-overview.webp" | relative_url }}" alt="Overview image for Myths and misconcept 0 d48 d7" loading="eager" decoding="sync" fetchpriority="high">
+<img src="{{ "/assets/images/Myths_and_misconcept_0d48d7-overview.webp" | relative_url }}" alt="Overview image for Myths and misconceptions" loading="eager" decoding="sync" fetchpriority="high">
 ## Why myths feel true even when they are wrong
 
 Many misconceptions survive because they are cognitively useful. A simple claim such as “people only use 10 per cent of their brain” is vivid, easy to repeat and emotionally appealing because it suggests hidden human potential. A more accurate explanation of brain function is less slogan-friendly. The same pattern appears in education, health, [politics]({{ 'politics/' | relative_url }}) and science: myths often win attention before evidence has time to catch up.
@@ -461,7 +461,7 @@ A **misconception** is a mistaken understanding. It can come from partial knowle
 
 **Disinformation** is false information spread with the intention to mislead or manipulate. This is why responses to disinformation often require more than individual correction: platform design, political incentives, organised influence campaigns and media systems can all shape how it spreads.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.mediadefence.org/ereader/publications/modules-on-litigating-freedom-of-expression-and-digital-rights-in-south-and-southeast-asia/module-8-false-news-misinformation-and-propaganda/misinformation-disinformation-and-mal-information/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mediadefence.org">[Media Defence]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mediadefence.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-<img src="{{ "/assets/images/Myths_and_misconcept_0d48d7-Illustration-1-dark.svg" | relative_url }}" alt="Myths and misconcept 0 d48 d7 illustration 1" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Myths_and_misconcept_0d48d7-Illustration-1-dark.svg" | relative_url }}" alt="Myths and misconceptions illustration 1" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The correction myth: does debunking make false beliefs stronger?
 
 One popular claim about misinformation is itself a misconception: the idea that correcting a myth usually “backfires” and makes people believe it more strongly. Early discussions of the “backfire effect” made this fear influential, especially among communicators who worried that repeating a false claim would make it more familiar. Later evidence is more reassuring. Reviews and replication work suggest that strong backfire effects are not common, and that clear corrections usually reduce false beliefs rather than strengthen them.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3475349/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.pnas.org/doi/10.1073/pnas.1912440117" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pnas.org">[PNAS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pnas.org</span><span class="citation-popover-snippet">Open source on pnas.org.</span></span></span>
@@ -500,7 +500,7 @@ Science education research has long shown that misconceptions are not always ran
 
 This matters beyond classrooms. In public debates, people often treat “it makes sense to me” as a substitute for evidence. But many myths feel sensible because they compress a complicated topic into a memorable pattern. The more useful question is not “does this sound plausible?” but “what would I expect to see if this were true, and do reliable sources actually show that?”
 
-<img src="{{ "/assets/images/Myths_and_misconcept_0d48d7-Illustration-2-dark.svg" | relative_url }}" alt="Myths and misconcept 0 d48 d7 illustration 2" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Myths_and_misconcept_0d48d7-Illustration-2-dark.svg" | relative_url }}" alt="Myths and misconceptions illustration 2" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How myths spread in modern information systems
 
 Myths have always spread through families, schools, newspapers, books and popular culture. Digital [platforms]({{ 'platforms/' | relative_url }}) change the speed, scale and incentives. False or misleading claims can be shaped for emotional impact, repeated by multiple accounts, detached from their original context and recommended to new audiences by engagement-driven systems.
@@ -530,7 +530,7 @@ Research on correction effects in science-relevant misinformation finds that cor
 
 Prebunking can also help. Instead of waiting for a false claim to spread, prebunking warns people in advance about common manipulation tactics, such as scapegoating, false dilemmas, conspiracy framing or impersonation of expertise. Studies of psychological inoculation suggest that exposing people to weakened examples of misleading tactics can improve resistance to later misinformation.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.tandfonline.com/doi/full/10.1080/10463283.2021.1876983" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tandfonline.com">[Taylor &amp; Francis Online]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tandfonline.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://misinforeview.hks.harvard.edu/article/global-vaccination-badnews/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: misinforeview.hks.harvard.edu">[Misinformation Review]</a><span class="citation-popover" role="note"><span class="citation-popover-source">misinforeview.hks.harvard.edu</span><span class="citation-popover-title">global vaccination badnews</span><span class="citation-popover-snippet">global vaccination badnews</span></span></span>
 
-<img src="{{ "/assets/images/Myths_and_misconcept_0d48d7-Illustration-3-dark.svg" | relative_url }}" alt="Myths and misconcept 0 d48 d7 illustration 3" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Myths_and_misconcept_0d48d7-Illustration-3-dark.svg" | relative_url }}" alt="Myths and misconceptions illustration 3" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## A practical test for spotting a likely myth
 
 A claim deserves extra scrutiny when it has several of these features:

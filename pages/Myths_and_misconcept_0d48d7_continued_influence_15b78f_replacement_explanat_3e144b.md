@@ -212,7 +212,7 @@ ancestor_links:
   permalink: /myths-and-misconcept-0-d48-d7/
   short_title: Mythcraft
 - basename: Myths_and_misconcept_0d48d7_continued_influence_15b78f
-  title: Old Stories | Myths and misconcept 0 d48 d7
+  title: Old Stories | Myths and misconceptions
   permalink: /old-stories/
   short_title: Old Stories
   heading_title: Why Corrected Myths Still Linger
@@ -222,7 +222,7 @@ breadcrumb_links:
   permalink: /myths-and-misconcept-0-d48-d7/
   short_title: Mythcraft
 - basename: Myths_and_misconcept_0d48d7_continued_influence_15b78f
-  title: Old Stories | Myths and misconcept 0 d48 d7
+  title: Old Stories | Myths and misconceptions
   permalink: /old-stories/
   short_title: Old Stories
   heading_title: Why Corrected Myths Still Linger
@@ -249,7 +249,7 @@ sibling_links:
   heading_title: Why corrected causes still feel useful
 up_link:
   basename: Myths_and_misconcept_0d48d7_continued_influence_15b78f
-  title: Old Stories | Myths and misconcept 0 d48 d7
+  title: Old Stories | Myths and misconceptions
   permalink: /old-stories/
   short_title: Old Stories
   heading_title: Why Corrected Myths Still Linger

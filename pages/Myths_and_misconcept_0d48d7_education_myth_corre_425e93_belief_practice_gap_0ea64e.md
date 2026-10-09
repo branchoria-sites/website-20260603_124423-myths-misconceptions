@@ -212,7 +212,7 @@ ancestor_links:
   permalink: /myths-and-misconcept-0-d48-d7/
   short_title: Mythcraft
 - basename: Myths_and_misconcept_0d48d7_education_myth_corre_425e93
-  title: Teacher Corrections | Myths and misconcept 0 d48 d7
+  title: Teacher Corrections | Myths and misconceptions
   permalink: /teacher-corrections/
   short_title: Teacher Corrections
   heading_title: Can Teacher Training Reduce Education Myths?
@@ -222,7 +222,7 @@ breadcrumb_links:
   permalink: /myths-and-misconcept-0-d48-d7/
   short_title: Mythcraft
 - basename: Myths_and_misconcept_0d48d7_education_myth_corre_425e93
-  title: Teacher Corrections | Myths and misconcept 0 d48 d7
+  title: Teacher Corrections | Myths and misconceptions
   permalink: /teacher-corrections/
   short_title: Teacher Corrections
   heading_title: Can Teacher Training Reduce Education Myths?
@@ -249,7 +249,7 @@ sibling_links:
   heading_title: How Teacher Training Can Keep Myths Gone
 up_link:
   basename: Myths_and_misconcept_0d48d7_education_myth_corre_425e93
-  title: Teacher Corrections | Myths and misconcept 0 d48 d7
+  title: Teacher Corrections | Myths and misconceptions
   permalink: /teacher-corrections/
   short_title: Teacher Corrections
   heading_title: Can Teacher Training Reduce Education Myths?

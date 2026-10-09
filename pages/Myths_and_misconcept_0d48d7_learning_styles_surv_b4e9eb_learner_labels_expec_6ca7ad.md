@@ -212,7 +212,7 @@ ancestor_links:
   permalink: /myths-and-misconcept-0-d48-d7/
   short_title: Mythcraft
 - basename: Myths_and_misconcept_0d48d7_learning_styles_surv_b4e9eb
-  title: Teacher Belief | Myths and misconcept 0 d48 d7
+  title: Teacher Belief | Myths and misconceptions
   permalink: /teacher-belief/
   short_title: Teacher Belief
   heading_title: How Common Is Belief in Learning Styles?
@@ -222,7 +222,7 @@ breadcrumb_links:
   permalink: /myths-and-misconcept-0-d48-d7/
   short_title: Mythcraft
 - basename: Myths_and_misconcept_0d48d7_learning_styles_surv_b4e9eb
-  title: Teacher Belief | Myths and misconcept 0 d48 d7
+  title: Teacher Belief | Myths and misconceptions
   permalink: /teacher-belief/
   short_title: Teacher Belief
   heading_title: How Common Is Belief in Learning Styles?
@@ -249,7 +249,7 @@ sibling_links:
   heading_title: Why new teachers still inherit learning styles
 up_link:
   basename: Myths_and_misconcept_0d48d7_learning_styles_surv_b4e9eb
-  title: Teacher Belief | Myths and misconcept 0 d48 d7
+  title: Teacher Belief | Myths and misconceptions
   permalink: /teacher-belief/
   short_title: Teacher Belief
   heading_title: How Common Is Belief in Learning Styles?

@@ -212,7 +212,7 @@ ancestor_links:
   permalink: /myths-and-misconcept-0-d48-d7/
   short_title: Mythcraft
 - basename: Myths_and_misconcept_0d48d7_political_myth_resis_f90f95
-  title: Politics | Myths and misconcept 0 d48 d7
+  title: Politics | Myths and misconceptions
   permalink: /politics/
   short_title: Politics
   heading_title: Why Political Myths Resist Correction
@@ -222,7 +222,7 @@ breadcrumb_links:
   permalink: /myths-and-misconcept-0-d48-d7/
   short_title: Mythcraft
 - basename: Myths_and_misconcept_0d48d7_political_myth_resis_f90f95
-  title: Politics | Myths and misconcept 0 d48 d7
+  title: Politics | Myths and misconceptions
   permalink: /politics/
   short_title: Politics
   heading_title: Why Political Myths Resist Correction
@@ -249,7 +249,7 @@ sibling_links:
   heading_title: Why Changing Your Mind Can Feel Like Betrayal
 up_link:
   basename: Myths_and_misconcept_0d48d7_political_myth_resis_f90f95
-  title: Politics | Myths and misconcept 0 d48 d7
+  title: Politics | Myths and misconceptions
   permalink: /politics/
   short_title: Politics
   heading_title: Why Political Myths Resist Correction

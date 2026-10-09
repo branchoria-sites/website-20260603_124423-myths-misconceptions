@@ -212,7 +212,7 @@ ancestor_links:
   permalink: /myths-and-misconcept-0-d48-d7/
   short_title: Mythcraft
 - basename: Myths_and_misconcept_0d48d7_falling_objects_intu_7c231d
-  title: Falling Objects | Myths and misconcept 0 d48 d7
+  title: Falling Objects | Myths and misconceptions
   permalink: /falling-objects/
   short_title: Falling Objects
   heading_title: Why Common Sense Gets Falling Objects Wrong
@@ -222,7 +222,7 @@ breadcrumb_links:
   permalink: /myths-and-misconcept-0-d48-d7/
   short_title: Mythcraft
 - basename: Myths_and_misconcept_0d48d7_falling_objects_intu_7c231d
-  title: Falling Objects | Myths and misconcept 0 d48 d7
+  title: Falling Objects | Myths and misconceptions
   permalink: /falling-objects/
   short_title: Falling Objects
   heading_title: Why Common Sense Gets Falling Objects Wrong
@@ -249,7 +249,7 @@ sibling_links:
   heading_title: Why crumpled paper beats flat paper
 up_link:
   basename: Myths_and_misconcept_0d48d7_falling_objects_intu_7c231d
-  title: Falling Objects | Myths and misconcept 0 d48 d7
+  title: Falling Objects | Myths and misconceptions
   permalink: /falling-objects/
   short_title: Falling Objects
   heading_title: Why Common Sense Gets Falling Objects Wrong

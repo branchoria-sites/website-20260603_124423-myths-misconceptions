@@ -212,7 +212,7 @@ ancestor_links:
   permalink: /myths-and-misconcept-0-d48-d7/
   short_title: Mythcraft
 - basename: Myths_and_misconcept_0d48d7_personal_experience_bd112b
-  title: Anecdotes | Myths and misconcept 0 d48 d7
+  title: Anecdotes | Myths and misconceptions
   permalink: /anecdotes/
   short_title: Anecdotes
   heading_title: When Personal Experience Becomes a Myth
@@ -222,7 +222,7 @@ breadcrumb_links:
   permalink: /myths-and-misconcept-0-d48-d7/
   short_title: Mythcraft
 - basename: Myths_and_misconcept_0d48d7_personal_experience_bd112b
-  title: Anecdotes | Myths and misconcept 0 d48 d7
+  title: Anecdotes | Myths and misconceptions
   permalink: /anecdotes/
   short_title: Anecdotes
   heading_title: When Personal Experience Becomes a Myth
@@ -249,7 +249,7 @@ sibling_links:
   heading_title: Did it work, or did time pass?
 up_link:
   basename: Myths_and_misconcept_0d48d7_personal_experience_bd112b
-  title: Anecdotes | Myths and misconcept 0 d48 d7
+  title: Anecdotes | Myths and misconceptions
   permalink: /anecdotes/
   short_title: Anecdotes
   heading_title: When Personal Experience Becomes a Myth

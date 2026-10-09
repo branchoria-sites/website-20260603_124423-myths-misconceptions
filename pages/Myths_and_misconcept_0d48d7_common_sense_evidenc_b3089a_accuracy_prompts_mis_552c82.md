@@ -212,7 +212,7 @@ ancestor_links:
   permalink: /myths-and-misconcept-0-d48-d7/
   short_title: Mythcraft
 - basename: Myths_and_misconcept_0d48d7_common_sense_evidenc_b3089a
-  title: Common Sense | Myths and misconcept 0 d48 d7
+  title: Common Sense | Myths and misconceptions
   permalink: /common-sense/
   short_title: Common Sense
   heading_title: When Common Sense Leads US Wrong
@@ -222,7 +222,7 @@ breadcrumb_links:
   permalink: /myths-and-misconcept-0-d48-d7/
   short_title: Mythcraft
 - basename: Myths_and_misconcept_0d48d7_common_sense_evidenc_b3089a
-  title: Common Sense | Myths and misconcept 0 d48 d7
+  title: Common Sense | Myths and misconceptions
   permalink: /common-sense/
   short_title: Common Sense
   heading_title: When Common Sense Leads US Wrong
@@ -249,7 +249,7 @@ sibling_links:
   heading_title: What would we see if it were true?
 up_link:
   basename: Myths_and_misconcept_0d48d7_common_sense_evidenc_b3089a
-  title: Common Sense | Myths and misconcept 0 d48 d7
+  title: Common Sense | Myths and misconceptions
   permalink: /common-sense/
   short_title: Common Sense
   heading_title: When Common Sense Leads US Wrong

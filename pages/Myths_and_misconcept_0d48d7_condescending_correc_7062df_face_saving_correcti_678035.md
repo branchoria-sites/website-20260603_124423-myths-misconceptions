@@ -212,7 +212,7 @@ ancestor_links:
   permalink: /myths-and-misconcept-0-d48-d7/
   short_title: Mythcraft
 - basename: Myths_and_misconcept_0d48d7_condescending_correc_7062df
-  title: Tone | Myths and misconcept 0 d48 d7
+  title: Tone | Myths and misconceptions
   permalink: /tone/
   short_title: Tone
   heading_title: Why Shaming People Makes Corrections Harder
@@ -222,7 +222,7 @@ breadcrumb_links:
   permalink: /myths-and-misconcept-0-d48-d7/
   short_title: Mythcraft
 - basename: Myths_and_misconcept_0d48d7_condescending_correc_7062df
-  title: Tone | Myths and misconcept 0 d48 d7
+  title: Tone | Myths and misconceptions
   permalink: /tone/
   short_title: Tone
   heading_title: Why Shaming People Makes Corrections Harder
@@ -249,7 +249,7 @@ sibling_links:
   heading_title: The Missing Piece in Many Corrections
 up_link:
   basename: Myths_and_misconcept_0d48d7_condescending_correc_7062df
-  title: Tone | Myths and misconcept 0 d48 d7
+  title: Tone | Myths and misconceptions
   permalink: /tone/
   short_title: Tone
   heading_title: Why Shaming People Makes Corrections Harder

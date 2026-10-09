@@ -212,7 +212,7 @@ ancestor_links:
   permalink: /myths-and-misconcept-0-d48-d7/
   short_title: Mythcraft
 - basename: Myths_and_misconcept_0d48d7_mental_models_myths_2fa808
-  title: Mental Models | Myths and misconcept 0 d48 d7
+  title: Mental Models | Myths and misconceptions
   permalink: /mental-models/
   short_title: Mental Models
   heading_title: Why Wrong Ideas Can Feel Coherent
@@ -222,7 +222,7 @@ breadcrumb_links:
   permalink: /myths-and-misconcept-0-d48-d7/
   short_title: Mythcraft
 - basename: Myths_and_misconcept_0d48d7_mental_models_myths_2fa808
-  title: Mental Models | Myths and misconcept 0 d48 d7
+  title: Mental Models | Myths and misconceptions
   permalink: /mental-models/
   short_title: Mental Models
   heading_title: Why Wrong Ideas Can Feel Coherent
@@ -249,7 +249,7 @@ sibling_links:
   heading_title: Why False Causes Stick After Correction
 up_link:
   basename: Myths_and_misconcept_0d48d7_mental_models_myths_2fa808
-  title: Mental Models | Myths and misconcept 0 d48 d7
+  title: Mental Models | Myths and misconceptions
   permalink: /mental-models/
   short_title: Mental Models
   heading_title: Why Wrong Ideas Can Feel Coherent
