@@ -766,7 +766,7 @@ Evidence from public-health communication, community engagement and misinformati
 
 5.<a id="endnote-5"></a>
    Source: cdn.who.int  
-   Link:<a href="https://cdn.who.int/media/docs/default-source/covid-19-[vaccines" target="_blank" rel="noopener noreferrer nofollow">https://cdn.who.int/media/docs/default-source/covid-19-[vaccines</a>  
+   Link:https://cdn.who.int/media/docs/default-source/covid-19-[vaccines  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>COVID-19 vaccine safety communicationUsing personal language and showing concern helps build trust. • Identify spokespeople communicat...</p></details>
 
 6.<a id="endnote-6"></a>
