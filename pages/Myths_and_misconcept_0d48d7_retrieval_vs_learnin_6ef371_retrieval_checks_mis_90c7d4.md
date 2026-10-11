@@ -770,7 +770,6 @@ For schools seeking to reduce misconceptions and improve learning, retrieval pra
 4.<a id="endnote-4"></a>
    Source: psychnet.wustl.edu  
    Title: Roediger Karpicke 2006 PPS  
-   Link:https://psychnet.wustl.edu/memory/wp-content/uploads/2018/04/Roediger-Karpicke-2006_PPS.pdf  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>&amp; Roediger, 2006b), we have shown that if long-term retention is measured after a delay, the repeated-test...Read more...</p></details>
 
 5.<a id="endnote-5"></a>
